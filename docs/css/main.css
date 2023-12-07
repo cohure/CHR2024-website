@@ -135,7 +135,11 @@ h1, h2, h3, h4, h5, nav, footer {
 }
 
 .conftitle {
-    margin-top: 3.8rem;
+    margin-top: 1.8rem;
+    font-size: 150px;
+    background: linear-gradient(135deg, var(--color2) 10%, var(--color1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;    
 }
 
 .page-border {
@@ -176,8 +180,8 @@ nav .brand-logo {
 }
 
 .brand-logo {
+    font-weight: 600;
     background: linear-gradient(135deg, var(--color2) 10%, var(--color1) 100%);
-    font-family: "Fira Code", Monaco, Menlo, Consolas, monospace;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -204,7 +208,6 @@ nav .brand-logo {
 }
 
 h1 {
-    font-size: 320%;
     font-weight: 600;
 }
 
@@ -243,8 +246,9 @@ h4 {
     html {
         font-size: 12px;
     }
-    .title {
-        font-size: 135% !important;
+    .conftitle {
+        /* font-size: 135% !important; */
+        font-size: 80px;
     }
     h1 {
         font-size: 2rem;

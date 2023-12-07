@@ -1,8 +1,9 @@
 ---
-title: "Fifth Conference on Computational Humanities Research"
+title: "CHR 2024"
 date: 2019-12-15T11:12:14+01:00
 ---
 
+<h2 class="center"><b><span style="text-align:center";>Fifth Conference on</br> Computational Humanities Research</span></b></h2>
 <h3 class="center"><b><span style="text-align:center;">December 4-6, 2024</span></b></h3></br></br>
 
 The Computational Humanities Research (CHR) community is an international and
