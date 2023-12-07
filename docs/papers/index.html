@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>Computational Humanities Research 20223</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script>
+  <link rel="stylesheet" href=/css/main.css > 
+  <link rel="shortcut icon" href=/favicon.ico>
+  <bibtex src="/papers.bib"></bibtex>
+</head>
+<body>
+        <div class="page-border"><header><nav class="white z-depth-0" role="navigation">
+  <div class="nav-wrapper container">
+    <a href="/" class="brand-logo">CHR2023</a>
+    <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+    <ul id="nav-mobile" class="right hide-on-med-and-down">
+      
+      
+      <li>
+        <a href="/archive">Archive</a>
+      </li>
+      
+      <li>
+        <a href="/contact">community</a>
+      </li>
+      
+    </ul>
+  </div>
+</nav>
+
+<ul class="sidenav transparent z-depth-0" id="mobile-demo">
+  
+  
+<li>
+  <a href="/archive" class="white-text">Archive</a>
+</li>
+
+<li>
+  <a href="/contact" class="white-text">community</a>
+</li>
+
+</ul>
+
+<script>
+  $(document).ready(function() {
+      $('.sidenav').sidenav();
+  });
+</script>
+</header><div class="bg--white">
+                <main>
+                <div class="section no-pad-bot">
+
+<script>
+  function activate_tooltip() {
+      console.log("activating!");
+       $(".tooltipped").tooltip();
+  };
+</script>
+
+<div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+        <h2 class="header center">Accepted Papers</h2>
+    </div>
+</div>
+
+<h3 class="center"><b><span style="text-align:center;"><a href="https://discourse.computational-humanities-research.org/t/chr2021-registration/874"><u>Registration</u></a>
+      is now open</span></b></h3>
+
+<div class="container">
+  <div class="section content">
+
+    <div class="row">
+      <div class="searchpapers col s12">
+        <div class="input-field">
+          <i class="material-icons-outlined prefix">search</i>
+          <input type="text" class="bibtex_search" id="searchbar">
+          <label for="searchbar">Search...</label>
+        </div>
+      </div>
+    </div>
+      
+    <div class="bibtex_structure" style="display: none;">
+      <div class='sort author' extra="ASC string">
+        <div class="templates"></div>
+      </div>
+    </div>
+
+    <div class="bibtex_template" style="display: none;">
+      <div class="hide-on-small-only">
+        <li class="collection-item avatar">
+          <a class="url btn-flat circle" data-position="bottom">
+            <i class="material-icons-outlined">picture_as_pdf</i>
+          </a>
+          <div class="row">
+            <span class="title col s10"></span>
+            <p>
+              <span class="author col s10"></span></br>
+            </p>
+            <span class="if abstract">
+              <div class="abstract-wrapper col s12">
+                <div id="bib+BIBTEXKEY+abstract" class="bibtexVar" extra="BIBTEXKEY">
+                  <span class="abstract"></span>
+                </div>
+              </div>
+            </span>            
+          </div>
+        </li>
+      </div>
+    </div>
+
+    <div class="bibtex_template" style="display: none;">
+      <div class="hide-on-med-and-up">
+        <li class="collection-item hide-on-med-and-up">
+          <div>
+            <a class="url title-a"><span class="title"></span></a>
+            <p>
+              <span class="author col s10"></span></br>
+            </p>
+          </div>
+        </li>
+      </div>
+    </div>
+    
+    <ul class="collection">
+      <div class="bibtex_display" callback="activate_tooltip(bibtex_display);"></div>
+    </ul>
+    
+  </div>
+</div>
+
+                </div>
+                </main> 
+            </div><footer class="page-footer docs-footer white">
+  <div class="container">
+    <div class="row center">
+      <div class="col s6">
+        <a href="https://discourse.computational-humanities-research.org/">Join the community!</a>
+      </div>
+      
+      
+      
+      <div class="col s6">
+        <a href="https://twitter.com/CompHumResearch">Follow us on Twitter!</a>
+      </div>
+    </div>
+  </div>
+  <div class="footer-copyright white">
+    <div class="container">
+      <p class="center-align">© 2023, Computational Humanities Research</p>
+    </div>
+  </div>
+</footer>
+</div>
+    </body>
+</html>

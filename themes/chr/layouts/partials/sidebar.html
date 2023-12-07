@@ -1,0 +1,29 @@
+<nav class="white z-depth-0" role="navigation">
+  <div class="nav-wrapper container">
+    <a href="/" class="brand-logo">{{ .Site.Params.short }}</a>
+    <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+    <ul id="nav-mobile" class="right hide-on-med-and-down">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+      <li>
+        <a href="{{.URL}}">{{ .Name }}</a>
+      </li>
+      {{end}}
+    </ul>
+  </div>
+</nav>
+
+<ul class="sidenav transparent z-depth-0" id="mobile-demo">
+  {{ $currentPage := . }}
+  {{ range .Site.Menus.main }}
+<li>
+  <a href="{{.URL}}" class="white-text">{{ .Name }}</a>
+</li>
+{{end}}
+</ul>
+
+<script>
+  $(document).ready(function() {
+      $('.sidenav').sidenav();
+  });
+</script>

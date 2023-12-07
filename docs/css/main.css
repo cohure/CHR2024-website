@@ -1,0 +1,386 @@
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_code.css);
+@import url(https://rsms.me/inter/inter.css);
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,700&display=swap');
+:root {
+    /* cyberpunk */
+    /* --color1: #fc00ff; */
+    /* --color2: #00dbde; */
+
+    /* Virgin America */
+    /* --color1: #dc2430; */
+    /* --color2: #7b4397; */
+
+    /* Twitch */
+    /* --color1: #6441A5; */
+    /* --color2: #2a0845; */
+
+    /* Predawn */
+    /* --color1: #FFA17F; */
+    /* --color2: #00223E; */
+
+    /* Miaka */
+    /* --color2: #fc354c; */
+    /* --color1: #0abfbc; */
+
+    /* Ukraine */
+    /* --color2: #0057b7; */
+    /* --color1: #ffd700; */
+
+    --color2: rgb(11, 37, 68);
+    --color1: rgb(117, 21, 67);
+}
+
+html {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif; 
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    min-height: 100%;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4, h5, subtitle {
+    font-family: "Roboto Condensed", Monaco, Menlo, Consolas, monospace;
+}
+
+subtitle {
+    font-weight: 320%;
+    font-size: 150%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+body {
+    background-color: #fff;
+}
+
+nav ul a, nav .brand-logo, nav .material-icons, footer a, footer p, .title-a {
+    color: #383d43;
+}
+
+nav ul a, nav, footer {
+    font-size: 90%;
+}
+
+.page-border {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.bg--white {
+    flex: 1 0 auto;
+}
+
+main {
+    flex: 1 1 auto;
+}
+
+a {
+    transition: color .3s ease;
+    text-decoration: none;
+    color: var(--color2);
+}
+
+.title-a {
+    text-decoration: none;
+    background-image: linear-gradient(transparent, transparent),linear-gradient(transparent, transparent),linear-gradient(to right, var(--color2),  var(--color1));
+    background-repeat: no-repeat;
+    background-position: 120%, 122%, 0 100%;
+    background-size: 100% 1px;
+
+}
+
+.card-action a {
+    color: var(--color2) !important;
+}
+
+a:hover, circle:hover {
+    color: var(--color1);
+}
+
+blockquote {
+    border-left: 5px solid var(--color1);
+}
+
+nav ul a {
+    transition: color .3s ease;
+}
+
+nav ul a:hover {
+    background-color: transparent;
+}
+
+::-moz-selection {
+    color: var(--color2)
+}
+
+::selection {
+    color: var(--color2);
+}
+
+h1, h2, h3, h4, h5, nav, footer {
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #383d43;
+}
+
+.organization-logo {
+    /* max-width: 50%; */
+}
+
+.conftitle {
+    padding-top: -10em;
+}
+
+.page-border {
+    padding: .8rem;
+    background-color: var(--color1);
+    background-image: linear-gradient(135deg, var(--color2) 10%, var(--color1) 100%);
+}
+
+nav .brand-logo {
+    font-weight: 500;
+    font-size: 3.1rem;
+    line-height: 70px;
+}
+
+.imgitem {
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.speaker-img {
+    height: 250px; /* height of container */
+    object-fit: cover;
+    /* object-position: 10% 30%; /\* try 20px 10px *\/ */
+}
+
+.speaker {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 120%;
+}
+
+
+.caption {
+    flex: 80%;    
+    margin-left: .8rem;
+    margin-top: .2rem;    
+    text-align: left;    
+}
+
+.brand-logo {
+    background: linear-gradient(135deg, var(--color2) 10%, var(--color1) 100%);
+    font-family: "Fira Code", Monaco, Menlo, Consolas, monospace;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.filled-in {
+    background: linear-gradient(135deg, var(--color1) 10%, var(--color2) 100%);
+}
+
+@media screen and (min-width:40em) {
+    html {
+        font-size: 15px;
+    }
+    p {
+        font-size: 110%;
+        line-height: 1.8;
+    }
+    .page-border {
+        padding: 2rem
+    }
+}
+
+.bg--white {
+    background-color: #fff;
+}
+
+h1 {
+    font-size: 320%;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 250%;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 140%;
+}
+
+h4 {
+    font-size: 120%;
+}
+
+.content {
+    color: #383d43;
+}
+
+.interested {
+    font-size: 80%;
+}
+
+.footer-copyright p {
+    font-size: 80%;
+}
+
+@media only screen and (min-width: 1200px) {
+    .container {
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    html {
+        font-size: 12px;
+    }
+    .title {
+        font-size: 110% !important;
+    }
+    h1 {
+        font-size: 2rem;
+        margin-top: -25px;
+    }
+    h2 {
+        font-size: 2rem;
+    }
+
+    /* img { */
+    /*     padding: .4rem; */
+    /*     height: 200px; */
+    /*     object-position: 10% 30%; /\* try 20px 10px *\/ */
+    /* } */
+
+    .card-title {
+        font-size: 120% !important;
+    }
+
+    .circle {
+        font-size: 12px !important;
+}
+
+}
+
+.title {
+    font-size: 120%;
+}
+
+.paper {
+    margin-bottom: 1rem;
+}
+
+.authors {
+    font-style: italic;
+}
+
+#searchbar {
+    /* border-bottom-color: transparent; */
+    font-family: "Fira Code", Monaco, Menlo, Consolas, monospace;
+}
+
+.searchpapers {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+/* label color */
+.input-field label {
+    color: #909090;
+}
+/* label focus color */
+.input-field input[type=text]:focus + label {
+    color: var(--color2) !important;
+}
+/* label underline focus color */
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid var(--color2) !important;
+    box-shadow: 0 1px 0 0 var(--color2) !important;
+}
+/* icon prefix focus color */
+.input-field .prefix.active {
+    color: var(--color2);
+}
+
+.collection .collection-item.avatar:not(.circle-clipper) > .circle, .collection .collection-item.avatar :not(.circle-clipper) > .circle {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	overflow: hidden;
+	left: -20px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.collection .collection-item.avatar {
+	min-height: 84px;
+	padding-left: 0px;
+	position: relative;
+}
+
+.collection .collection-item.avatar .title {
+    padding-left: 2.75rem;
+}
+
+.collection .author {
+    padding-left: 2.75rem;
+}
+
+.icons {
+    /* margin-top: .4rem; */
+}
+
+.material-icons-outlined:hover {
+    cursor: pointer;
+}
+
+.paper {
+    font-size: 15px;
+}
+
+.abstract-wrapper {
+    margin-top: 1rem;
+    border-left-width: 2px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-top-width: 0px;
+    padding-left: 1rem;
+  border-image: 
+    linear-gradient(
+      to bottom, 
+      var(--color1) 10%, var(--color2) 100%
+    ) 1 100%;
+    border-left-style: solid;
+}
+
+
+.material-icons-outlined{
+    /* vertical-align: top; */
+}
+
+.collection-item {
+    font-size: 80%;
+}
+
+.secondary-content {
+    text-transform: uppercase;
+}
+
+.collection {
+    border: 0px;
+}
+
+.circle {
+    border-radius: 10%;
+    background-color: #fff !important;
+    color: var(--color2);
+    font-size: 30px !important;
+}

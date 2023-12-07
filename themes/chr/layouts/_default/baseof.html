@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        <div class="page-border">
+            {{- partial "header.html" . -}}
+                <div class="bg--white">
+                <main>
+                <div class="section no-pad-bot">
+                    {{- block "main" . }}{{- end }}
+                </div>
+                </main> 
+            </div>
+                {{- partial "footer.html" . -}}
+        </div>
+    </body>
+</html>

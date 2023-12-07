@@ -1,0 +1,50 @@
+baseURL = "http://2024.computational-humanities-research/"
+languageCode = "en-us"
+title = "Computational Humanities Research 2024"
+theme = "chr"
+publishDir = "docs"
+
+[params]
+  customCSS = ["css/custom.css"]
+  short = "CHR2024"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "community"
+    url = "/contact"
+    weight = -210
+
+  # [[menu.main]]
+  #   identifier = "cfp"
+  #   name = "CfP"
+  #   url = "/cfp"
+  #   weight = -2000
+
+  # [[menu.main]]
+  #   identifier = "venue"
+  #   name = "Venue"
+  #   url = "/venue"
+  #   weight = -1750
+
+  #  [[menu.main]]
+  #    identifier = "programme"
+  #    name = "Programme"
+  #    url = "/programme"
+  #    weight = -1500
+
+  # [[menu.main]]
+  #   identifier = "people"
+  #   name = "People"
+  #   url = "/people"
+  #   weight = -1000
+
+  [[menu.main]]
+    identifier = "archive"
+    name = "Archive"
+    url = "/archive"
+    weight = -500
+
+[markup.goldmark.renderer]
+unsafe = true

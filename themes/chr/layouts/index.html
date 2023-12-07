@@ -1,0 +1,33 @@
+{{ define "main" }}
+<!-- <script> -->
+<!--   var colors = [ -->
+<!--       // cyberpunk -->
+<!--       ["#fc00ff", "#00dbde"], -->
+<!--       // Virgin America -->
+<!--       ["#dc2430", "#7b4397"], -->
+<!--       // Twitch -->
+<!--       ["#6441A5", "#2a0845"], -->
+<!--       // Predawn -->
+<!--       ["#FFA17F", "#00223E"], -->
+<!--       // Miaka -->
+<!--       ["#fc354c", "#0abfbc"], -->
+<!--   ] -->
+<!--   $(window).ready(function() { -->
+<!--       color = colors[Math.floor(Math.random() * colors.length)]; -->
+<!--       console.log(color); -->
+<!--       let root = document.documentElement; -->
+<!--       root.style.setProperty("--color1", color[0]); -->
+<!--       root.style.setProperty("--color2", color[1]); -->
+<!--   }); -->
+<!-- </script> -->
+<div class="section no-pad-bot" id="index-banner">
+  <div class="container">
+    <h1 class="header conftitle center">{{.Title}}</h1>
+  </div>
+</div>
+<div class="container">
+  <div class="section content">
+    {{.Content}}
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fourth Conference on Computational Humanities Research on Computational Humanities Research 2024</title>
+    <link>http://2024.computational-humanities-research/</link>
+    <description>Recent content in Fourth Conference on Computational Humanities Research on Computational Humanities Research 2024</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Dec 2019 11:12:14 +0100</lastBuildDate><atom:link href="http://2024.computational-humanities-research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Past Events</title>
+      <link>http://2024.computational-humanities-research/archive/</link>
+      <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
+      
+      <guid>http://2024.computational-humanities-research/archive/</guid>
+      <description>CHR2023 CHR2023 was a three-day conference held on December 6 to 8, 2023. The program committee and organizers accepted 49 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3558/. See https://2023.computational-humanities-research.org/ for more information about CHR2023.
+CHR2022 CHR2022 was a three-day conference held on December 12 to 14, 2022. The program committee and organizers accepted 29 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3290/. See https://2022.computational-humanities-research.org/ for more information about CHR2022.</description>
+    </item>
+    
+    <item>
+      <title>Join the Community</title>
+      <link>http://2024.computational-humanities-research/community/</link>
+      <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
+      
+      <guid>http://2024.computational-humanities-research/community/</guid>
+      <description>We cordially invite you and other interested parties to join the Computational Humanities Research forum! The forum serves as an asynchronous platform to discuss all ideas and questions related to computational humanities research. These can be in-depth discussions about fundamental topics and questions of the discipline, or very practical ones, for example about how best to tackle a certain technical (coding) problem. And everything in between. Come join!</description>
+    </item>
+    
+    <item>
+      <title>Join the Community</title>
+      <link>http://2024.computational-humanities-research/contact/</link>
+      <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
+      
+      <guid>http://2024.computational-humanities-research/contact/</guid>
+      <description>Community Please join our Computational Humanities Research forum! The forum serves as an asynchronous platform to discuss all ideas and questions related to computational humanities research. These can be in-depth discussions about fundamental topics and questions of the discipline, or very practical ones, for example about how best to tackle a certain technical (coding) problem. And everything in between. Come join!
+Contact For questions, ideas, or support, contact the organizers or drop us a line on the forum.</description>
+    </item>
+    
+  </channel>
+</rss>
