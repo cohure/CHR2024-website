@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, nav, footer {
 
 nav .brand-logo {
     font-weight: 500;
-    font-size: 3.1rem;
+    /* font-size: 3.1rem; */
     line-height: 70px;
 }
 
