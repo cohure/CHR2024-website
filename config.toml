@@ -12,7 +12,7 @@ publishDir = "docs"
 
   [[menu.main]]
     identifier = "contact"
-    name = "community"
+    name = "Community"
     url = "/contact"
     weight = -210
 
