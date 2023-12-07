@@ -1,6 +1,6 @@
-# CHR 2023
+# CHR 2024
 
-Website for the 2023 edition of the Computational Humanities Research conference. The
+Website for the 2024 edition of the Computational Humanities Research conference. The
 website is built on top of the [Hugo](https://gohugo.io/) static site generator. Below are
 some pointers to get you started with the website. 
 
