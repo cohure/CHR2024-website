@@ -1,5 +1,5 @@
 ---
-title: "Fourth Conference on Computational Humanities Research"
+title: "Fifth Conference on Computational Humanities Research"
 date: 2019-12-15T11:12:14+01:00
 ---
 
