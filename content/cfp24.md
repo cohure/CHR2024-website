@@ -75,7 +75,8 @@ work in progress, introducing ideas, preliminary results, or focused
 question-answer research.
    
 **Workshops**: up to **1500** words. Workshops should be organised to be more 
-interactive than the main conference. Workshop proposals should describe:
+interactive than the main conference. The workshops will take place beore the
+conference, on 3 December. Workshop proposals should describe:
 - the aims and set up of the workshop,
 - the academic background for the work,
 - proposed length (e.g. half day or full day),
