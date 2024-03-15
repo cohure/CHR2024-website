@@ -23,8 +23,6 @@ In the arts and humanities, the use of computational, statistical, and mathemati
 
 ### Topics of interest
 
-**Marijn: do we feel the need to update this? Any new developments or areas we're missing?**
-
 We invite original research papers from a wide range of topics, including -- but
 not limited to -- the following:
 
@@ -40,10 +38,13 @@ not limited to -- the following:
 Potential and challenges of AI applications to humanities research.
 
 To gain further insight into paper topics, please also refer to the proceedings of previous years: [CHR2020](http://ceur-ws.org/Vol-2723/),
-[CHR2021](http://ceur-ws.org/Vol-2989/), [CHR2022](https://ceur-ws.org/Vol-3290/), [CHR2024](https://ceur-ws.org/Vol-3558/).
+[CHR2021](http://ceur-ws.org/Vol-2989/), [CHR2022](https://ceur-ws.org/Vol-3290/), [CHR2023](https://ceur-ws.org/Vol-3558/).
 
 ### Venue
-The 2024 edition of the Computational Humanities Research conference will be hosted by the [Center for Humanities Computing, Aarhus University](https://chc.au.dk/). The conference will be a hybrid event with an option to attend in person in Aarhus, virtually, or a combination of the two. More details will follow soon.
+The 2024 edition of the Computational Humanities Research conference will be hosted by the 
+[Center for Humanities Computing, Aarhus University](https://chc.au.dk/). 
+The conference will be a hybrid event with an option to attend in person in Aarhus, virtually, or a combination 
+of the two. More details will follow soon.
 
 ### Important dates
 
@@ -62,15 +63,19 @@ The 2024 edition of the Computational Humanities Research conference will be hos
    unpublished results. Brevity of argument is preferred. We welcome the use of
    appendices or other supplementary information.
 
-**Short Papers**: up to **3000** words (ca. 6 pages references, abstract and
+**Short Papers**: up to **3000** words (ca. 6 pages, references, abstract and
    tables/illustrations excluded). Short papers report on focused
-   contributions, and may present work in progress.
+   contributions, and may present work in progress. Short papers are presented
+   either as short oral presentations or posters. 
 
-**Lightning Talks**: Submit a 750 words abstract to give a 5 minute presentation during a lightning talks session. This format can be well suited for reporting work in progress, introducing ideas, preliminary results, or focused question-answer research.
+**Lightning Talks**: Submit an abstract of up to 750 words (excluding references, 
+tables and illustrations) to give a 5 minute presentation 
+during a lightning talks session. This format can be well suited for reporting 
+work in progress, introducing ideas, preliminary results, or focused 
+question-answer research.
    
-**Posters**: For poster presentations we ask you to submit an abstract describing your work in about **750** words (references excluded). Posters are well suited to present new or early stage research, for a corpus or database description, or for detailed technical explanations and clarifications. Posters will not be published in the proceedings, but they will be added to the website of CHR. **Marijn: do we want to change this and say they are published (and allow longer submissions, e.g. up to 1500 or 3000 words) to draw more poster submissions?**
-
-**Workshops**: up to **1500** words. Workshops should be organised to be more interactive than the main conference. Workshop proposals should describe:
+**Workshops**: up to **1500** words. Workshops should be organised to be more 
+interactive than the main conference. Workshop proposals should describe:
 - the aims and set up of the workshop,
 - the academic background for the work,
 - proposed length (e.g. half day or full day),
@@ -98,8 +103,8 @@ conference management system: https://easychair.org/conferences/?conf=chr2024.
 At least one author of each accepted submission must register to the conference and
 present the paper or poster.
 
-Accepted papers will be submitted for publication online via the
-[CEUR-WS](http://ceur-ws.org/) Proceedings publication service.
+Accepted papers will be submitted for publication online. Details on where the 
+proceedings will be published will be added soon. 
 
 ### Instructions for paper anonymisation 
 
