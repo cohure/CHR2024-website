@@ -35,7 +35,7 @@ not limited to -- the following:
 - Theoretical frameworks and epistemology for quantitative methods and computational humanities approaches;
 - Translation and transfer of methods from other disciplines, approaches to bridge humanistic and statistical interpretations;
 - Visualisation, dissemination (incl. Open science) and teaching in computational humanities.
-Potential and challenges of AI applications to humanities research.
+- Potential and challenges of AI applications to humanities research.
 
 To gain further insight into paper topics, please also refer to the proceedings of previous years: [CHR2020](http://ceur-ws.org/Vol-2723/),
 [CHR2021](http://ceur-ws.org/Vol-2989/), [CHR2022](https://ceur-ws.org/Vol-3290/), [CHR2023](https://ceur-ws.org/Vol-3558/).
