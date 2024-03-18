@@ -3,7 +3,7 @@ title: "Call for Papers"
 date: 2019-12-15T11:11:58+01:00
 ---
 
-<h3 class="center"><b><span style="text-align:center;">Submission deadline: July 8, 2024</h3></br>
+<h3 class="center"><b><span style="text-align:center;">Submission deadline: July 8, 2024</b></h3></br>
 
 In the arts and humanities, the use of computational, statistical, and mathematical approaches has considerably increased in recent years. This research is characterized by the use of formal methods and the construction of explicit, computational models. This includes quantitative, statistical approaches, but also more generally computational methods for processing and analyzing data, as well as theoretical reflections on these approaches. Despite the undeniable growth of this research area, many scholars still struggle to find suitable research-oriented venues to present and publish computational work that does not lose sight of traditional modes of inquiry in the arts and humanities. This is the scholarly niche that the CHR conference aims to fill. More precisely, the conference aims at
 
@@ -35,7 +35,7 @@ not limited to -- the following:
 - Theoretical frameworks and epistemology for quantitative methods and computational humanities approaches;
 - Translation and transfer of methods from other disciplines, approaches to bridge humanistic and statistical interpretations;
 - Visualisation, dissemination (incl. Open science) and teaching in computational humanities.
-Potential and challenges of AI applications to humanities research.
+- Potential and challenges of AI applications to humanities research.
 
 To gain further insight into paper topics, please also refer to the proceedings of previous years: [CHR2020](http://ceur-ws.org/Vol-2723/),
 [CHR2021](http://ceur-ws.org/Vol-2989/), [CHR2022](https://ceur-ws.org/Vol-3290/), [CHR2023](https://ceur-ws.org/Vol-3558/).

@@ -59,8 +59,14 @@ body {
     background-color: #fff;
 }
 
+ul {
+    list-style-type: disc;
+    margin: 0px;
+  }
+
 nav ul a, nav .brand-logo, nav .material-icons, footer a, footer p, .title-a {
     color: #383d43;
+    list-style-type: disc;
 }
 
 nav ul a, nav, footer {
