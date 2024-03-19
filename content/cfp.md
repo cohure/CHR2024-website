@@ -11,7 +11,11 @@ In the arts and humanities, the use of computational, statistical, and mathemati
 1. Building a community of scholars working on humanities research questions
    relying on a wide range of computational and quantitative approaches to
    humanities data in all its forms. We consider this community to be
-   complementary to the digital humanities landscape.
+   complementary to the digital humanities landscape. We welcome contributions
+   from scholars of diverse backgrounds and particularly from under-represented 
+   groups.
+
+
    
 2. Promoting good practices through sharing “research stories”. Such good
    practices may include, for instance, the publication of code and data in
@@ -41,6 +45,7 @@ To gain further insight into paper topics, please also refer to the proceedings 
 [CHR2021](http://ceur-ws.org/Vol-2989/), [CHR2022](https://ceur-ws.org/Vol-3290/), [CHR2023](https://ceur-ws.org/Vol-3558/).
 
 ### Venue
+
 The 2024 edition of the Computational Humanities Research conference will be hosted by the 
 [Center for Humanities Computing, Aarhus University](https://chc.au.dk/). 
 The conference will be a hybrid event with an option to attend in person in Aarhus, virtually, or a combination 
@@ -88,13 +93,15 @@ conference, on 3 December. Workshop proposals should describe:
 
 ### Submission instructions and review process
 
+We welcome submissions from scholars of diverse backgrounds and particularly from under-represented groups.
+
 Submissions should be written in English and must be formatted according to the
 [CHR latex
 template](https://github.com/cohure/CHR2024-website/raw/main/data/chr2023_latex_template.zip)
 (see instructions on the forum to get you started
 [here](https://discourse.computational-humanities-research.org/t/chr-latex-instructions/230)).
 
-Submissions are to be submitted anonymously. All submissions will be refereed through
+Submissions are to be submitted **anonymously**. All submissions will be refereed through
 a double-blind peer review process by at least three reviewers with final
 acceptance decisions made by the Programme Chairs.
 
