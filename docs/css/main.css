@@ -61,15 +61,20 @@ body {
 
 ul {
     margin: 0px;
-    list-style-type: disc; /* Remove default list style */
+    list-style-type: none; /* Remove default list style */
     padding-left: 0; /* Remove default padding */
 }
 
 ul li::before {
-    /* content: "- "; /* Add dash before each list item */
+    content: "- "; /* Add dash before each list item */
     display: inline-block; /* Make the pseudo-element inline */
     width: 1em; /* Space before the list item content */
     margin-left: 0em; /* Negative margin to align with the list content */
+}
+
+nav ul li::before {
+    content: ""; /* No dash before nav list item */
+    display: inline; /* Make the pseudo-element inline */
 }
 
 nav ul a, nav .brand-logo, nav .material-icons, footer a, footer p, .title-a {
