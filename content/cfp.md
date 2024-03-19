@@ -11,12 +11,11 @@ In the arts and humanities, the use of computational, statistical, and mathemati
 1. Building a community of scholars working on humanities research questions
    relying on a wide range of computational and quantitative approaches to
    humanities data in all its forms. We consider this community to be
-   complementary to the digital humanities landscape. We welcome contributions
-   from scholars of diverse backgrounds and particularly from under-represented 
-   groups.
+   complementary to the digital humanities landscape. We actively seek, 
+   welcome, and encourage people with diverse backgrounds, experiences, and 
+   identities to join.
 
 
-   
 2. Promoting good practices through sharing “research stories”. Such good
    practices may include, for instance, the publication of code and data in
    order to support transparency and replication of studies; pre-registering
@@ -24,6 +23,7 @@ In the arts and humanities, the use of computational, statistical, and mathemati
    proposed statistical analysis; or a redesign of the reviewing process for
    interdisciplinary studies that rely on computational approaches to answer
    questions relevant to the humanities.
+
 
 ### Topics of interest
 
@@ -134,7 +134,7 @@ The anonymity period runs until the notification of acceptance (**September,
 
 ### Questions?
 
-Contact the organizers:
+Contact the organizers if you have any questions, specific requirements or concerns:
 [info@computational-humanities-research.org](mailto:info@computational-humanities-research.org)
 or drop us a line on the [discourse
 forum](https://discourse.computational-humanities-research.org).
