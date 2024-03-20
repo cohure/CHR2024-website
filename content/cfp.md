@@ -80,7 +80,7 @@ work in progress, introducing ideas, preliminary results, or focused
 question-answer research.
    
 **Workshops**: up to **1500** words. Workshops should be organised to be more 
-interactive than the main conference. The workshops will take place beore the
+interactive than the main conference. The workshops will take place before the
 conference, on 3 December. Workshop proposals should describe:
 - the aims and set up of the workshop,
 - the academic background for the work,
@@ -105,7 +105,7 @@ Submissions are to be submitted **anonymously**. All submissions will be referee
 a double-blind peer review process by at least three reviewers with final
 acceptance decisions made by the Programme Chairs.
 
-Papers and posters should be submitted as PDF documents via the Easychair
+Papers should be submitted as PDF documents via the EasyChair
 conference management system: https://easychair.org/conferences/?conf=chr2024.
 
 At least one author of each accepted submission must register to the conference and
