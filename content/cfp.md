@@ -13,7 +13,7 @@ In the arts and humanities, the use of computational, statistical, and mathemati
    humanities data in all its forms. We consider this community to be
    complementary to the digital humanities landscape. We actively seek, 
    welcome, and encourage people with diverse backgrounds, experiences, and 
-   identities to join.
+   identities to join. This includes, but is not limited to, scholars from underrepresented groups, different academic paths, and those who are contributing novel perspectives to the computational humanities landscape.
 
 
 2. Promoting good practices through sharing “research stories”. Such good
@@ -34,7 +34,7 @@ not limited to -- the following:
 - Hypothesis-driven humanities research, simulations and generative models;
 - Development of new quantitative and empirical methods for humanities research;
 - Modeling bias, uncertainty, and conflicting interpretation in the humanities;
-- Evaluation methods, evaluation data sets  and development of standards;
+- Evaluation methods, evaluation data sets and development of standards;
 - Formal, statistical or quantitative  evaluation of categorization / periodization;
 - Theoretical frameworks and epistemology for quantitative methods and computational humanities approaches;
 - Translation and transfer of methods from other disciplines, approaches to bridge humanistic and statistical interpretations;
@@ -134,7 +134,7 @@ The anonymity period runs until the notification of acceptance (**September,
 
 ### Questions?
 
-Contact the organizers if you have any questions, specific requirements or concerns:
+Contact the organisers if you have any questions, specific requirements or concerns:
 [info@computational-humanities-research.org](mailto:info@computational-humanities-research.org)
 or drop us a line on the [discourse
 forum](https://discourse.computational-humanities-research.org).
