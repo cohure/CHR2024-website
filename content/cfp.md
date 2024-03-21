@@ -89,7 +89,8 @@ conference, on 3 December. Workshop proposals should describe:
 - the expected key outcomes,
 - a short bio of each organiser or presenter, including their name, affiliation, email address
 - a plan for promoting the workshop to draw participants.
-
+- specific requirements, including but not limited to special equipment (e.g. audio/video), software, physical space arrangements,
+- any technical knowledge, skills, or experience participants should have prior to attending the workshop.
 
 ### Submission instructions and review process
 
