@@ -46,7 +46,7 @@ To gain further insight into paper topics, please also refer to the proceedings 
 
 ### Venue
 
-The 2024 edition of the Computational Humanities Research conference will be hosted by the 
+The 2024 edition of the Computational Humanities Research conference will be hosted by the [DIGHUMLAB](https://dighumlab.org/) and 
 [Center for Humanities Computing, Aarhus University](https://chc.au.dk/). 
 The conference will be a hybrid event with an option to attend in person in Aarhus, virtually, or a combination 
 of the two. More details will follow soon.
