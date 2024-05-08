@@ -135,6 +135,7 @@ nav ul a:hover {
     background-color: transparent;
 }
 
+/*
 ::-moz-selection {
     color: var(--color2)
 }
@@ -142,6 +143,7 @@ nav ul a:hover {
 ::selection {
     color: var(--color2);
 }
+*/
 
 h1, h2, h3, h4, h5, nav, footer {
     letter-spacing: 3px;
