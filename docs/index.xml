@@ -4,55 +4,44 @@
     <title>CHR 2024 on Computational Humanities Research 2024</title>
     <link>http://2024.computational-humanities-research/</link>
     <description>Recent content in CHR 2024 on Computational Humanities Research 2024</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Dec 2019 11:12:14 +0100</lastBuildDate><atom:link href="http://2024.computational-humanities-research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 16:05:25 +0100</lastBuildDate>
+    <atom:link href="http://2024.computational-humanities-research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Past Events</title>
       <link>http://2024.computational-humanities-research/archive/</link>
       <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-      
       <guid>http://2024.computational-humanities-research/archive/</guid>
-      <description>CHR2023 CHR2023 was a three-day conference held on December 6 to 8, 2023. The program committee and organizers accepted 49 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3558/. See https://2023.computational-humanities-research.org/ for more information about CHR2023.
-CHR2022 CHR2022 was a three-day conference held on December 12 to 14, 2022. The program committee and organizers accepted 29 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3290/. See https://2022.computational-humanities-research.org/ for more information about CHR2022.</description>
+      <description>CHR2023 CHR2023 was a three-day conference held on December 6 to 8, 2023. The program committee and organizers accepted 49 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3558/. See https://2023.computational-humanities-research.org/ for more information about CHR2023.&#xA;CHR2022 CHR2022 was a three-day conference held on December 12 to 14, 2022. The program committee and organizers accepted 29 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3290/. See https://2022.computational-humanities-research.org/ for more information about CHR2022.</description>
     </item>
-    
     <item>
       <title>Join the Community</title>
       <link>http://2024.computational-humanities-research/community/</link>
       <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
-      
       <guid>http://2024.computational-humanities-research/community/</guid>
       <description>We cordially invite you and other interested parties to join the Computational Humanities Research forum! The forum serves as an asynchronous platform to discuss all ideas and questions related to computational humanities research. These can be in-depth discussions about fundamental topics and questions of the discipline, or very practical ones, for example about how best to tackle a certain technical (coding) problem. And everything in between. Come join!</description>
     </item>
-    
     <item>
       <title>Join the Community</title>
       <link>http://2024.computational-humanities-research/contact/</link>
       <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
-      
       <guid>http://2024.computational-humanities-research/contact/</guid>
-      <description>Community Please join our Computational Humanities Research forum! The forum serves as an asynchronous platform to discuss all ideas and questions related to computational humanities research. These can be in-depth discussions about fundamental topics and questions of the discipline, or very practical ones, for example about how best to tackle a certain technical (coding) problem. And everything in between. Come join!
-Contact For questions, ideas, or support, contact the organizers or drop us a line on the forum.</description>
+      <description>Community Please join our Computational Humanities Research forum! The forum serves as an asynchronous platform to discuss all ideas and questions related to computational humanities research. These can be in-depth discussions about fundamental topics and questions of the discipline, or very practical ones, for example about how best to tackle a certain technical (coding) problem. And everything in between. Come join!&#xA;Contact For questions, ideas, or support, contact the organizers or drop us a line on the forum.</description>
     </item>
-    
     <item>
       <title>Call for Papers</title>
       <link>http://2024.computational-humanities-research/cfp/</link>
       <pubDate>Sun, 15 Dec 2019 11:11:58 +0100</pubDate>
-      
       <guid>http://2024.computational-humanities-research/cfp/</guid>
       <description>Submission deadline: July 8, 2024 In the arts and humanities, the use of computational, statistical, and mathematical approaches has considerably increased in recent years. This research is characterized by the use of formal methods and the construction of explicit, computational models. This includes quantitative, statistical approaches, but also more generally computational methods for processing and analyzing data, as well as theoretical reflections on these approaches. Despite the undeniable growth of this research area, many scholars still struggle to find suitable research-oriented venues to present and publish computational work that does not lose sight of traditional modes of inquiry in the arts and humanities.</description>
     </item>
-    
     <item>
       <title></title>
       <link>http://2024.computational-humanities-research/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://2024.computational-humanities-research/people/</guid>
-      <description>Programme Chairs  Wouter Haverals, Princeton University Marijn Koolen, Huygens Institute, DHLab - KNAW Humanities Cluster Laure Thompson, Princeton University  Local Organizers  Kristoffer Nielbo, Center for Humanities Computing, Aarhus University Line E. Sørensen, Center for Humanities Computing, Aarhus University Ross Deans Kristensen-McLachlan, Center for Humanities Computing, Aarhus University  Programme Committee TBA</description>
+      <description>Programme Chairs Wouter Haverals, Princeton University Marijn Koolen, Huygens Institute, DHLab - KNAW Humanities Cluster Laure Thompson, Princeton University Local Organizers Kristoffer Nielbo, Center for Humanities Computing, Aarhus University Line E. Sørensen, Center for Humanities Computing, Aarhus University Ross Deans Kristensen-McLachlan, Center for Humanities Computing, Aarhus University Programme Committee TBA</description>
     </item>
-    
   </channel>
 </rss>
