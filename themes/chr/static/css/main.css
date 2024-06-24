@@ -26,6 +26,7 @@
     /* --color2: #0057b7; */
     /* --color1: #ffd700; */
 
+    --color3: rgb(11, 37, 218);
     --color2: rgb(11, 37, 68);
     --color1: rgb(117, 21, 67);
 }
@@ -103,7 +104,7 @@ main {
 a {
     transition: color .3s ease;
     text-decoration: none;
-    color: var(--color2);
+    color: var(--color3);
 }
 
 .title-a {
