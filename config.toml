@@ -22,6 +22,12 @@ publishDir = "docs"
      url = "/cfp"
      weight = -2000
 
+   [[menu.main]]
+     identifier = "announcements"
+     name = "Announcements"
+     url = "/announcements"
+     weight = -1850
+
   # [[menu.main]]
   #   identifier = "venue"
   #   name = "Venue"

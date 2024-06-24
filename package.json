@@ -1,0 +1,20 @@
+{
+  "name": "chr2024-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "hugo",
+    "create": "hugo new",
+    "serve": "hugo server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/centre-for-humanities-computing/CHR2024-website.git"
+  },
+  "private": true,
+  "devDependencies": {
+    "hugo-bin": "^0.124.0"
+  }
+}

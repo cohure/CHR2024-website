@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://2024.computational-humanities-research/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
     <lastmod>2021-02-19T16:05:25+01:00</lastmod>
   </url><url>
-    <loc>http://2024.computational-humanities-research/community/</loc>
+    <loc>http://localhost:1313/community/</loc>
     <lastmod>2019-12-15T11:12:28+01:00</lastmod>
   </url><url>
-    <loc>http://2024.computational-humanities-research/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2019-12-15T11:12:28+01:00</lastmod>
   </url><url>
-    <loc>http://2024.computational-humanities-research/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2019-12-15T11:12:14+01:00</lastmod>
   </url><url>
-    <loc>http://2024.computational-humanities-research/cfp/</loc>
+    <loc>http://localhost:1313/cfp/</loc>
     <lastmod>2019-12-15T11:11:58+01:00</lastmod>
   </url><url>
-    <loc>http://2024.computational-humanities-research/people/</loc>
+    <loc>http://localhost:1313/people/</loc>
   </url><url>
-    <loc>http://2024.computational-humanities-research/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://2024.computational-humanities-research/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
