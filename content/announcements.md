@@ -39,17 +39,20 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="announcements">
     <div class="announce">
-        <img src="/images/announce/Lauren-Klein-square-med-forweb-300x300.jpg" >
+        <img src="/images/announce/CHR2024-CFP-website.jpg" alt="Call for Papers">
         <div class="content">
-            <h3>Lauren-Klein</h3>
+            <h3>Call for Papers</h3>
             <p>
-    Lauren-Klein is a distinguished Research Professor and Associate Professor in the Departments of Quantitative Theory and Methods and English at Emory University, where I also direct the Digital Humanities Lab and serve as PI of the  Atlanta Interdisciplinary AI Network.
+We invite original research papers from a wide range of topics, including – but
+not limited to – the following: Applications of statistical methods and machine learning to process, enrich and analyse 
+humanities data, including new media and cultural heritage data...
             </p>
-            <a class="link-button" href="/announcements/lauren-klein">Read More</a>
+            <a class="link-button" href="/cfp">Read More</a>
         </div>
     </div>
+<!--
     <div class="announce">
-        <img src="/images/announce/Lauren-Klein-square-med-forweb-300x300.jpg" >
+        <img src="..." >
         <div class="content">
             <h3>Lauren-Klein</h3>
             <p>
@@ -58,13 +61,5 @@ date: 2021-02-19T16:05:25+01:00
             <a class="link-button" href="">Read More</a>
         </div>
     </div>
-    <div class="announce">
-        <h2>dingle</h2>
-    </div>
-    <div class="announce">
-        <h2>dingle</h2>
-    </div>
-    <div class="announce">
-        <h2>dingle</h2>
-    </div>
+-->
 </div>

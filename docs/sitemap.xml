@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>http://2024.computational-humanities-research/announcements/</loc>
     <lastmod>2021-02-19T16:05:25+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/community/</loc>
+    <loc>http://2024.computational-humanities-research/announcements/lauren-klein/</loc>
+    <lastmod>2021-02-19T16:05:25+01:00</lastmod>
+  </url><url>
+    <loc>http://2024.computational-humanities-research/archive/</loc>
+    <lastmod>2021-02-19T16:05:25+01:00</lastmod>
+  </url><url>
+    <loc>http://2024.computational-humanities-research/community/</loc>
     <lastmod>2019-12-15T11:12:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://2024.computational-humanities-research/contact/</loc>
     <lastmod>2019-12-15T11:12:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://2024.computational-humanities-research/</loc>
     <lastmod>2019-12-15T11:12:14+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cfp/</loc>
+    <loc>http://2024.computational-humanities-research/cfp/</loc>
     <lastmod>2019-12-15T11:11:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/people/</loc>
+    <loc>http://2024.computational-humanities-research/people/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://2024.computational-humanities-research/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://2024.computational-humanities-research/tags/</loc>
   </url>
 </urlset>
