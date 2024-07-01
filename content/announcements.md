@@ -6,7 +6,7 @@ date: 2021-02-19T16:05:25+01:00
 <style>
     div.announcements {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(min(400px, 100%), 1fr));
         grid-column-gap: 24px;
         grid-row-gap: 24px;
     }
