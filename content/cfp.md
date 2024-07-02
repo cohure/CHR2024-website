@@ -71,7 +71,8 @@ of the two. More details will follow soon.
 **Short Papers**: up to **3000** words (ca. 6 pages, references, abstract and
    tables/illustrations excluded). Short papers report on focused
    contributions, and may present work in progress. Short papers are presented
-   either as short oral presentations or posters. 
+   either as short oral presentations or posters. We welcome the use of
+   appendices or other supplementary information.
 
 **Lightning Talks**: Submit an abstract of up to 750 words (excluding references, 
    tables and illustrations) to give a 5 minute presentation 
