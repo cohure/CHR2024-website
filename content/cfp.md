@@ -53,9 +53,9 @@ of the two. More details will follow soon.
 
 ### Important dates
 
-<input class="filled-in" type="checkbox"><span>Submission deadline: July 8, 2024</span>
+<input class="filled-in" type="checkbox"><span>Submission deadline: July 8, 2024, 23:59:59 UTC-12 (Anywhere on Earth)</span>
 
-<input class="filled-in" type="checkbox"><span>Notification to authors: September, 2024</span>
+<input class="filled-in" type="checkbox"><span>Notification to authors: September 16, 2024</span>
 
 <input class="filled-in" type="checkbox"><span>Final papers ready: October, 2024</span>
 
@@ -71,13 +71,14 @@ of the two. More details will follow soon.
 **Short Papers**: up to **3000** words (ca. 6 pages, references, abstract and
    tables/illustrations excluded). Short papers report on focused
    contributions, and may present work in progress. Short papers are presented
-   either as short oral presentations or posters. 
+   either as short oral presentations or posters. We welcome the use of
+   appendices or other supplementary information.
 
 **Lightning Talks**: Submit an abstract of up to 750 words (excluding references, 
-tables and illustrations) to give a 5 minute presentation 
-during a lightning talks session. This format can be well suited for reporting 
-work in progress, introducing ideas, preliminary results, or focused 
-question-answer research.
+   tables and illustrations) to give a 5 minute presentation 
+   during a lightning talks session. This format can be well suited for reporting 
+   work in progress, introducing ideas, preliminary results, or focused 
+   question-answer research.
    
 **Workshops**: up to **1500** words. Workshops should be organised to be more 
 interactive than the main conference. The workshops will take place before the
@@ -112,8 +113,8 @@ conference management system: https://easychair.org/conferences/?conf=chr2024.
 At least one author of each accepted submission must register to the conference and
 present the paper or poster.
 
-Accepted papers will be submitted for publication online. Details on where the 
-proceedings will be published will be added soon. 
+Accepted papers will be submitted for publication online via the [CEUR-WS](http://ceur-ws.org/) 
+Proceedings publication service. 
 
 ### Instructions for paper anonymisation 
 
