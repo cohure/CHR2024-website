@@ -12,15 +12,23 @@ date: 2021-02-19T16:05:25+01:00
     }
     .announce {
         /*border: 1px solid;*/
+        display: flex;
+        flex-direction: column;
     }
 
-.announce .content {
-    padding: 0 0rem 1rem 0rem;
-}
+    .announce .content {
+        padding: 0 0rem 1rem 0rem;
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+    }
 
+    .announce .content h3 {
+        margin-bottom: 0px;
+    }
     .announce img {
         width: 100%;
-        aspect-ratio: 1.7/1;
+        aspect-ratio: 2/1;
         object-fit: cover;
         object-position: 100% 0;
     }
@@ -34,10 +42,24 @@ date: 2021-02-19T16:05:25+01:00
         padding: 0.5rem 1rem;
         border: 1px solid;
         border-radius: 24px;
+        margin-top: auto;
+        align-self: flex-start;
     }
 </style>
 
 <div class="announcements">
+    <div class="announce">
+        <img src="/images/announce/CHR2024-extension.jpg" alt="Call for Papers">
+        <div class="content">
+            <h3>CFP Deadline Extension</h3>
+            <p>
+New submission deadline: July 15, 2024. We invite original research papers from a wide range of topics, 
+including – but not limited to – the following: Applications of statistical methods and machine learning to process, 
+enrich and analyse...
+            </p>
+            <a class="link-button" href="/cfp">Read More</a>
+        </div>
+    </div>
     <div class="announce">
         <img src="/images/announce/CHR2024-CFP-website.jpg" alt="Call for Papers">
         <div class="content">
