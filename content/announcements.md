@@ -49,7 +49,6 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="announcements">
     <div class="announce">
-        <img src="/images/announce/CHR2024-extension.jpg" alt="Call for Papers">
         <div class="content">
             <h3>CFP Deadline Extension</h3>
             <p>

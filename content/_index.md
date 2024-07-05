@@ -15,22 +15,25 @@ place on **December 4-6, 2024** at Aarhus University, Denmark. Expect more
 details about CHR2024 soon!
 
 
-<!-- ### Keynote Speakers -->
+### Keynote Speakers 
 
-<!-- We are very honoured and pleased that Richard McElreath, Olivier Morin, and Roberta Sinatra have agreed to give keynote lectures at CHR2023. -->
+We are very honoured and pleased that Lauren Klein has agreed to give a keynote lecture at CHR2024.
 
 <!-- <div class="row"> -->
 <!--   <div class="col s12 m4"> -->
 <!--     <div class="card"> -->
 <!--       <div class="card-image waves-effect waves-block waves-light"> -->
-<!--         <img class="speaker-img activator" src="/images/richard_mcelreath.png"> -->
+<!--         <img class="speaker-img activator" src="/images/announce/lauren-klein.jpg" > -->
 <!--       </div> -->
 <!--       <div class="card-content"> -->
-<!--         <span class="card-title grey-text text-darken-4 activator">Richard McElreath<i class="material-icons right">more_vert</i></span> -->
+<!--         <span class="card-title grey-text text-darken-4 activator">Lauren Klein<i class="material-icons right">more_vert</i></span> -->
 <!--       </div> -->
 <!--       <div class="card-reveal"> -->
-<!--         <span class="card-title grey-text text-darken-4">Richard McElreath<i class="material-icons right">close</i></span> -->
-<!--         <p>Richard McElreath is director of the Department of Human Behavior, Culture and Ecology at the Max Planck Institute for Evolutionary Anthropology in Leipzig. He is an anthropologist focused on the role of culture in human evolution and adaptation. He also wrote a very popular Bayesian statistics textbook.</p> -->
+<!--         <span class="card-title grey-text text-darken-4">Lauren Klein<i class="material-icons right">close</i></span> -->
+<!--         <p>Lauren Klein, Winship Distinguished Research Professor and Associate Professor in the departments of  -->
+<!--             Quantitative Theory & Methods and English at Emory University, and works at the intersection of data  -->
+<!--             science, AI, and the humanities, with an emphasis on research questions of gender and race.  -->
+<!-- </p> -->
 <!--       </div> -->
 <!--     </div> -->
 <!--   </div> -->
@@ -63,4 +66,4 @@ details about CHR2024 soon!
 <!--     </div> -->
 <!--   </div> -->
 <!-- </div> -->
-
+<!--  -->
