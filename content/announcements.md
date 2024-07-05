@@ -53,7 +53,7 @@ date: 2021-02-19T16:05:25+01:00
         <div class="content">
             <h3>CFP Deadline Extension</h3>
             <p>
-New submission deadline: July 15, 2024. We invite original research papers from a wide range of topics, 
+New submission deadline: July 11, 2024. We invite original research papers from a wide range of topics, 
 including – but not limited to – the following: Applications of statistical methods and machine learning to process, 
 enrich and analyse...
             </p>
