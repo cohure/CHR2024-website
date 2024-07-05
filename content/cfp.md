@@ -3,9 +3,21 @@ title: "Call for Papers"
 date: 2019-12-15T11:11:58+01:00
 ---
 
-<h3 class="center"><b><span style="text-align:center;">Submission deadline: July 8, 2024</b></h3></br>
+<h3 class="center"><b><span style="text-align:center;">Extended submission 
+deadline: <s>July 8, 2024</s> July 11, 2024 AoE (23:59:59 UTC-12)</b></h3></br>
 
-In the arts and humanities, the use of computational, statistical, and mathematical approaches has considerably increased in recent years. This research is characterized by the use of formal methods and the construction of explicit, computational models. This includes quantitative, statistical approaches, but also more generally computational methods for processing and analyzing data, as well as theoretical reflections on these approaches. Despite the undeniable growth of this research area, many scholars still struggle to find suitable research-oriented venues to present and publish computational work that does not lose sight of traditional modes of inquiry in the arts and humanities. This is the scholarly niche that the CHR conference aims to fill. More precisely, the conference aims at
+In the arts and humanities, the use of computational, statistical, and 
+mathematical approaches has considerably increased in recent years. This 
+research is characterized by the use of formal methods and the construction 
+of explicit, computational models. This includes quantitative, statistical 
+approaches, but also more generally computational methods for processing 
+and analyzing data, as well as theoretical reflections on these 
+approaches. Despite the undeniable growth of this research area, 
+many scholars still struggle to find suitable research-oriented venues to 
+present and publish computational work that does not lose sight of 
+traditional modes of inquiry in the arts and humanities. This is the 
+scholarly niche that the CHR conference aims to fill. More precisely, the 
+conference aims at
 
 
 1. Building a community of scholars working on humanities research questions
@@ -53,7 +65,7 @@ of the two. More details will follow soon.
 
 ### Important dates
 
-<input class="filled-in" type="checkbox"><span>Submission deadline: July 8, 2024, 23:59:59 UTC-12 (Anywhere on Earth)</span>
+<input class="filled-in" type="checkbox"><span>Submission deadline: <s>July 8</s> July 11, 2024, 23:59:59 UTC-12 (Anywhere on Earth)</span>
 
 <input class="filled-in" type="checkbox"><span>Notification to authors: September 16, 2024</span>
 
