@@ -5,8 +5,8 @@ date: 2019-12-15T11:11:58+01:00
 
 <h3 class="center"><b><span style="text-align:center;">Extended <i>initial</i> submission 
 deadline: <s>July 8, 2024</s> July 11, 2024 AoE (23:59:59 UTC-12)</b></h3>
-<h3 class="center"><b><span style="text-align:center;">Final submission
-deadline: July 15, 2024 AoE (23:59:59 UTC-12)</b></h3></br>
+<h3 class="center"><b><span style="text-align:center;">Deadline for updating existing submissions: 
+July 15, 2024 AoE (23:59:59 UTC-12)</b></h3></br>
 
 In the arts and humanities, the use of computational, statistical, and 
 mathematical approaches has considerably increased in recent years. This 
@@ -67,9 +67,9 @@ of the two. More details will follow soon.
 
 ### Important dates
 
-<input class="filled-in" type="checkbox"><span>Initial submission deadline: <s>July 8</s> July 11, 2024, 23:59:59 UTC-12 (Anywhere on Earth)</span>
+<input class="filled-in" type="checkbox"><span>Deadline for new submissions: <s>July 8</s> July 11, 2024, 23:59:59 UTC-12 (Anywhere on Earth)</span>
 
-<input class="filled-in" type="checkbox"><span>Final submission deadline: July 15, 2024, 23:59:59 UTC-12 (Anywhere on Earth)</span>
+<input class="filled-in" type="checkbox"><span>Deadline for updating submissions: July 15, 2024, 23:59:59 UTC-12 (Anywhere on Earth)</span>
 
 <input class="filled-in" type="checkbox"><span>Notification to authors: September 16, 2024</span>
 
