@@ -67,9 +67,9 @@ of the two. More details will follow soon.
 
 ### Important dates
 
-<input class="filled-in" type="checkbox"><span>Deadline for new submissions: <s>July 8</s> July 11, 2024, 23:59:59 UTC-12 (Anywhere on Earth)</span>
+<input class="filled-in" type="checkbox"><span>Deadline for new submissions: <s>July 11, 2024, 23:59:59 UTC-12 (Anywhere on Earth)</s></span>
 
-<input class="filled-in" type="checkbox"><span>Deadline for updating submissions: July 15, 2024, 23:59:59 UTC-12 (Anywhere on Earth)</span>
+<input class="filled-in" type="checkbox"><span>Deadline for updating submissions: <s>July 15, 2024, 23:59:59 UTC-12 (Anywhere on Earth)</s></span>
 
 <input class="filled-in" type="checkbox"><span>Notification to authors: September 16, 2024</span>
 
