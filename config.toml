@@ -52,5 +52,11 @@ publishDir = "docs"
     url = "/archive"
     weight = -500
 
+   [[menu.main]]
+     identifier = "CHR2025"
+     name = "CHR2025"
+     url = "/hosting"
+     weight = -250
+
 [markup.goldmark.renderer]
 unsafe = true
