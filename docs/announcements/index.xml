@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcements on Computational Humanities Research 2024</title>
+    <link>http://2024.computational-humanities-research/announcements/</link>
+    <description>Recent content in Announcements on Computational Humanities Research 2024</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Feb 2021 16:05:25 +0100</lastBuildDate><atom:link href="http://2024.computational-humanities-research/announcements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keynote Lauren Klein</title>
+      <link>http://2024.computational-humanities-research/announcements/lauren-klein/</link>
+      <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
+      
+      <guid>http://2024.computational-humanities-research/announcements/lauren-klein/</guid>
+      <description>.announce img { max-height: 300px; max-width: 100%; }   We are happy to announce that Lauren Klein, Winship Distinguished Research Professor and Associate Professor in the departments of Quantitative Theory &amp; Methods and English at Emory University, will give a keynote speech at the Computational Humanities Research 2024 Conference.  Lauren Klein also directs the Digital Humanities Lab at Emory University, and before moving to Emory, she taught in the School of Literature, Media, and Communication at Georgia Tech.</description>
+    </item>
+    
+  </channel>
+</rss>
