@@ -17,7 +17,7 @@ details about CHR2024 soon!
 
 ### Keynote Speakers 
 
-We are very honoured and pleased that Lauren Klein has agreed to give a keynote lecture at CHR2024.
+We are very honoured and pleased that Lauren Klein and Leon Derczynski have agreed to give keynote lectures at CHR2024.
 
 <!-- <div class="row"> -->
 <!--   <div class="col s12 m4"> -->
