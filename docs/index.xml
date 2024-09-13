@@ -4,83 +4,65 @@
     <title>CHR 2024 on Computational Humanities Research 2024</title>
     <link>http://2024.computational-humanities-research/</link>
     <description>Recent content in CHR 2024 on Computational Humanities Research 2024</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Dec 2019 11:12:14 +0100</lastBuildDate><atom:link href="http://2024.computational-humanities-research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 16:05:25 +0100</lastBuildDate>
+    <atom:link href="http://2024.computational-humanities-research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Announcements</title>
       <link>http://2024.computational-humanities-research/announcements/</link>
       <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-      
       <guid>http://2024.computational-humanities-research/announcements/</guid>
-      <description>div.announcements { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(400px, 100%), 1fr)); grid-column-gap: 24px; grid-row-gap: 24px; } .announce { /*border: 1px solid;*/ display: flex; flex-direction: column; } .announce .content { padding: 0 0rem 1rem 0rem; display: flex; flex-direction: column; flex-grow: 1; } .announce .content h3 { margin-bottom: 0px; } .announce img { width: 100%; aspect-ratio: 2/1; object-fit: cover; object-position: 100% 0; } p { font-size: 1rem; } .link-button { display: inline-block; padding: 0.</description>
+      <description>Keynote Leon Derczynski We are happy to announce that Professor Leon Derczynski, principal research scientist in LLM Security at NVIDIA and prof in Natural Language Processing (NLP) at ITU Copenhagen (IT University of Copenhagen) will give a keynote speech at the Computational Humanities Research 2024 Conference... Read More CFP Deadline Extension New submission deadline: July 11, 2024. We invite original research papers from a wide range of topics, including – but not limited to – the following: Applications of statistical methods and machine learning to process, enrich and analyse.</description>
     </item>
-    
     <item>
       <title>Keynote Lauren Klein</title>
       <link>http://2024.computational-humanities-research/announcements/lauren-klein/</link>
       <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-      
       <guid>http://2024.computational-humanities-research/announcements/lauren-klein/</guid>
-      <description>.announce img { max-height: 300px; max-width: 100%; }   We are happy to announce that Lauren Klein, Winship Distinguished Research Professor and Associate Professor in the departments of Quantitative Theory &amp; Methods and English at Emory University, will give a keynote speech at the Computational Humanities Research 2024 Conference.  Lauren Klein also directs the Digital Humanities Lab at Emory University, and before moving to Emory, she taught in the School of Literature, Media, and Communication at Georgia Tech.</description>
+      <description>We are happy to announce that Lauren Klein, Winship Distinguished Research Professor and Associate Professor in the departments of Quantitative Theory &amp; Methods and English at Emory University, will give a keynote speech at the Computational Humanities Research 2024 Conference. Lauren Klein also directs the Digital Humanities Lab at Emory University, and before moving to Emory, she taught in the School of Literature, Media, and Communication at Georgia Tech. Lauren works at the intersection of data science, AI, and the humanities, with an emphasis on research questions of gender and race.</description>
     </item>
-    
+    <item>
+      <title>Keynote Leon Derczynski</title>
+      <link>http://2024.computational-humanities-research/announcements/leon-derczynski/</link>
+      <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
+      <guid>http://2024.computational-humanities-research/announcements/leon-derczynski/</guid>
+      <description>We are happy to announce that Professor Leon Derczynski, principal research scientist in LLM Security at NVIDIA and prof in Natural Language Processing (NLP) at ITU Copenhagen (IT University of Copenhagen) will give a keynote speech at the Computational Humanities Research 2024 Conference in Aarhus, Denmark.&#xA;Professor Derczynski contributes to leading bodies on LLM securing, being on the OWASP LLM Top 10 core team, working on ML Commons, and founder of the ACL SIG on NLP Security.</description>
+    </item>
     <item>
       <title>Past Events</title>
       <link>http://2024.computational-humanities-research/archive/</link>
       <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-      
       <guid>http://2024.computational-humanities-research/archive/</guid>
-      <description>CHR2023 CHR2023 was a three-day conference held on December 6 to 8, 2023. The program committee and organizers accepted 49 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3558/. See https://2023.computational-humanities-research.org/ for more information about CHR2023.
-CHR2022 CHR2022 was a three-day conference held on December 12 to 14, 2022. The program committee and organizers accepted 29 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3290/. See https://2022.computational-humanities-research.org/ for more information about CHR2022.</description>
+      <description>CHR2023 CHR2023 was a three-day conference held on December 6 to 8, 2023. The program committee and organizers accepted 49 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3558/. See https://2023.computational-humanities-research.org/ for more information about CHR2023.&#xA;CHR2022 CHR2022 was a three-day conference held on December 12 to 14, 2022. The program committee and organizers accepted 29 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3290/. See https://2022.computational-humanities-research.org/ for more information about CHR2022.</description>
     </item>
-    
-    <item>
-      <title>Call for Bids to Host CHR2025</title>
-      <link>http://2024.computational-humanities-research/hosting/</link>
-      <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
-      
-      <guid>http://2024.computational-humanities-research/hosting/</guid>
-      <description>The board of the Computational Humanities Society hereby invites proposals to host the annual CHR conference in December 2025. Some of the proposals will also be considered for CHR in 2026 and beyond. The number of (in-person) attendees to a CHR conference is likely to fall in the range of 150-250.
-Deadline: November 10, 2024. We will announce the next conference’s location during CHR2024 in Aarhus in December 2024. Please send formal proposals or any questions by email to info@computational-humanities-research.</description>
-    </item>
-    
     <item>
       <title>Join the Community</title>
       <link>http://2024.computational-humanities-research/community/</link>
       <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
-      
       <guid>http://2024.computational-humanities-research/community/</guid>
       <description>We cordially invite you and other interested parties to join the Computational Humanities Research forum! The forum serves as an asynchronous platform to discuss all ideas and questions related to computational humanities research. These can be in-depth discussions about fundamental topics and questions of the discipline, or very practical ones, for example about how best to tackle a certain technical (coding) problem. And everything in between. Come join!</description>
     </item>
-    
     <item>
       <title>Join the Community</title>
       <link>http://2024.computational-humanities-research/contact/</link>
       <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
-      
       <guid>http://2024.computational-humanities-research/contact/</guid>
-      <description>Community Please join our Computational Humanities Research forum! The forum serves as an asynchronous platform to discuss all ideas and questions related to computational humanities research. These can be in-depth discussions about fundamental topics and questions of the discipline, or very practical ones, for example about how best to tackle a certain technical (coding) problem. And everything in between. Come join!
-Contact For questions, ideas, or support, contact the organizers or drop us a line on the forum.</description>
+      <description>Community Please join our Computational Humanities Research forum! The forum serves as an asynchronous platform to discuss all ideas and questions related to computational humanities research. These can be in-depth discussions about fundamental topics and questions of the discipline, or very practical ones, for example about how best to tackle a certain technical (coding) problem. And everything in between. Come join!&#xA;Contact For questions, ideas, or support, contact the organizers or drop us a line on the forum.</description>
     </item>
-    
     <item>
       <title>Call for Papers</title>
       <link>http://2024.computational-humanities-research/cfp/</link>
       <pubDate>Sun, 15 Dec 2019 11:11:58 +0100</pubDate>
-      
       <guid>http://2024.computational-humanities-research/cfp/</guid>
-      <description>Extended initial submission deadline: July 11, 2024 AoE (23:59:59 UTC-12) Deadline for updating existing submissions: July 15, 2024 AoE (23:59:59 UTC-12) In the arts and humanities, the use of computational, statistical, and mathematical approaches has considerably increased in recent years. This research is characterized by the use of formal methods and the construction of explicit, computational models. This includes quantitative, statistical approaches, but also more generally computational methods for processing and analyzing data, as well as theoretical reflections on these approaches.</description>
+      <description>Extended submission deadline: July 8, 2024 July 11, 2024 AoE (23:59:59 UTC-12) In the arts and humanities, the use of computational, statistical, and mathematical approaches has considerably increased in recent years. This research is characterized by the use of formal methods and the construction of explicit, computational models. This includes quantitative, statistical approaches, but also more generally computational methods for processing and analyzing data, as well as theoretical reflections on these approaches.</description>
     </item>
-    
     <item>
       <title></title>
       <link>http://2024.computational-humanities-research/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://2024.computational-humanities-research/people/</guid>
-      <description>Programme Chairs  Wouter Haverals, Princeton University Marijn Koolen, Huygens Institute, DHLab - KNAW Humanities Cluster Laure Thompson, Princeton University  Local Organizers  Kristoffer Nielbo, Center for Humanities Computing, Aarhus University Line E. Sørensen, Center for Humanities Computing, Aarhus University Ross Deans Kristensen-McLachlan, Center for Humanities Computing, Aarhus University  Programme Committee TBA</description>
+      <description>Programme Chairs Wouter Haverals, Princeton University Marijn Koolen, Huygens Institute, DHLab - KNAW Humanities Cluster Laure Thompson, Princeton University Local Organizers Kristoffer Nielbo, Center for Humanities Computing, Aarhus University Line E. Sørensen, Center for Humanities Computing, Aarhus University Ross Deans Kristensen-McLachlan, Center for Humanities Computing, Aarhus University Programme Committee TBA</description>
     </item>
-    
   </channel>
 </rss>
