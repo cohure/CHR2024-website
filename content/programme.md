@@ -16,19 +16,19 @@ layouttype: "single"
 - 11:15-11:30: *CHR opening words*
 - 11:30-12:30: **Keynote**
 - 12:30-13:30: *Lunch*
-- 13:30-15:00: [**Session 1**](#session-1)
+- 13:30-15:00: [**Session 1**](#sessions) <!-- NB change to #session-1 etc. when those are announced -->
 - 15:00-15:30: *Coffee Break*
-- 15:30-17:00: [**Session 2**](#session-2)
+- 15:30-17:00: [**Session 2**](#sessions)
 - 17:00: Opening reception
 
 ### Thursday, December 5, 2024 (Day 2)
 - 09:00-10:30: [**Lightning talks session**](#lightning-talks)
 - 10:30-11:00: *Coffee break*
-- 11:00-12:30: [**Session 3**](#session-3)
+- 11:00-12:30: [**Session 3**](#sessions)
 - 12:30-13:30: *Lunch*
-- 13:30-15:00: [**Session 4**](#session-4)
+- 13:30-15:00: [**Session 4**](#sessions)
 - 15:00-15:30: *Coffee break*
-- 15:30-17:00: [**Session 5**](#session-5)
+- 15:30-17:00: [**Session 5**](#sessions)
 - 17:00-: *Poster walk-around*
 - 20:00: *Conference dinner*
 
@@ -36,17 +36,17 @@ layouttype: "single"
 ### Friday, December 6, 2024 (Day 3)
 - 09:00-10:00: **Keynote**
 - 10:00-10:30: *Coffee break*
-- 10:30-12:00: [**Session 6**](#session-6)
+- 10:30-12:00: [**Session 6**](#sessions)
 - 12:00-13:00: *Lunch*
-- 13:00-14:30: [**Session 7**](#session-7)
+- 13:00-14:30: [**Session 7**](#sessions)
 - 14:30-15:00: *Coffee break*
-- 15:00-16:30: [**Session 8**](#session-8)
+- 15:00-16:30: [**Session 8**](#sessions)
 - 16:30-17:00: *Award ceremony, concluding remarks*
 </br>
 
-### Detailed Programme
+<h3 style="font-size: 2em; font-weight:bold;">Detailed Programme</h3>
 
-#### Parallel workshops
+<h3 id="parallel-workshops" style="font-size: 1.5em; font-weight:bold;">Parallel Workshops</h3>
 
 <ul class="collection">
 <div class="">
@@ -81,8 +81,12 @@ layouttype: "single"
       <span class="">
         <div class="abstract-wrapper hide-on-small-only col s12">
           <span class="abstract">
-           This workshop aims at giving participants a hands-on experience of the full workflow involved when doing research on reader response using book reviews and online comments as a proxy of reception.
-           Data will be provided and each part of the workshop will cover different stages of the research workflow, addressing theoretical, methodological, and interpretative challenges.
+           This workshop delves into the intersection of cultural practices and the digital sphere through a hands-on exploration of multilingual fiction book reviewing. 
+           It offers participants an immersive experience, guiding them through the full research workflow of computational reader response studies, using book reviews and online comments as proxies for reception.
+            Scheduled as four sessions, the workshop provides data and addresses key theoretical, methodological, and interpretive challenges to give participants a comprehensive
+            understanding of the process. It is particularly suited for early career researchers, while senior researchers are also encouraged to attend and engage in discussions on theory and methodology. 
+            Participants will gain practical experience with advanced NLP methods, statistical modeling, and computational approaches to reader response studies. Basic familiarity with Python is recommended.
+            (<a href="https://igelsociety.github.io/CHR2024-book-reviews-workshop/">https://igelsociety.github.io/CHR2024-book-reviews-workshop/</a>)
           </span>
         </div>
       </span>
@@ -91,6 +95,12 @@ layouttype: "single"
 </div>
 </ul>
 
+<!-- SESSIONS -->
+<h3 id="sessions" style="font-size: 1.5em; font-weight:bold;">Sessions</h3>
+
+*TBA*
+
+<!--
 #### Session 1
 *TBA*
 
@@ -112,5 +122,10 @@ layouttype: "single"
 #### Session 7
 *TBA*
 
-#### Lightning talks
+#### Session 8 
+*TBA*
+-->
+
+<h3 id="lightning-talks" style="font-size: 1.5em; font-weight:bold;">Lightning talks</h3>
+
 *TBA*
