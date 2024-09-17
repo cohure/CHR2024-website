@@ -73,7 +73,11 @@ of the two. More details will follow soon.
 
 <input class="filled-in" type="checkbox"><span>Notification to authors: September 16, 2024</span>
 
+<input class="filled-in" type="checkbox"><span>Registration opens: September 17, 2024</span>
+
 <input class="filled-in" type="checkbox"><span>Deadline final, camera-ready version: 14 October, 2024</span>
+
+<input class="filled-in" type="checkbox"><span>Pre-conference workshops: December 3, 2024</span>
 
 <input class="filled-in" type="checkbox"><span>Conference: December 4 - December 6, 2024 </span>
 
