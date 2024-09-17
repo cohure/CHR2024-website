@@ -49,7 +49,17 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="announcements">
     <div class="announce">
-        <img src="/images/announce/leon-derczynski.jpg" alt="Leon Derczynski">
+            <a href="/announcements/registration-is-open"><img src="/images/announce/CHR2024-registration-is-open.jpg" alt="Registration is open"></a>
+            <div class="content">
+                <h3>Registration is now open</h3>
+                <p>
+        Registration for the 2024 Computational Humanities Conference (CHR) is now open. This years edition will take place in Aarhus, Denmark at Aarhus University on 4-6 December. The conference will be a hybrid event with an option to attend in person or virtually...
+                </p>
+                <a class="link-button" href="/announcements/registration-is-open">Read More</a>
+            </div>
+    </div>
+    <div class="announce">
+        <a href="/announcements/leon-derczynski"><img src="/images/announce/leon-derczynski.jpg" alt="Leon Derczynski"></a>
         <div class="content">
             <h3>Keynote Leon Derczynski</h3>
             <p>
@@ -60,7 +70,7 @@ at ITU Copenhagen (IT University of Copenhagen) will give a keynote speech at th
         </div>
     </div>
     <div class="announce">
-        <img src="/images/announce/CHR2024-extension.jpg" alt="Call for Papers Extension">
+        <a href="/cfp"><img src="/images/announce/CHR2024-extension.jpg" alt="Call for Papers Extension"></a>
         <div class="content">
             <h3>CFP Deadline Extension</h3>
             <p>
@@ -72,7 +82,7 @@ enrich and analyse...
         </div>
     </div>
     <div class="announce">
-        <img src="/images/announce/lauren-klein.jpg" alt="Lauren Klein">
+        <a href="/announcements/lauren-klein"><img src="/images/announce/lauren-klein.jpg" alt="Lauren Klein"></a>
         <div class="content">
             <h3>Keynote Lauren Klein</h3>
             <p>
@@ -84,7 +94,7 @@ Computational Humanities Research 2024 Conference...
         </div>
     </div>
     <div class="announce">
-        <img src="/images/announce/CHR2024-CFP-website.jpg" alt="Call for Papers">
+        <a href="/cfp"><img src="/images/announce/CHR2024-CFP-website.jpg" alt="Call for Papers"></a>
         <div class="content">
             <h3>Call for Papers</h3>
             <p>
