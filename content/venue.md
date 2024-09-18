@@ -52,7 +52,7 @@ The CHR2024 Conference will be held on December 4-6 with workshops taking place 
 The conference will take place in Aarhus, Denmark at Aarhus University, in their historical buildings located in the city center, close to the urban environment and its vibrant atmosphere as well as nature, including parks, forest and the coastline.
 
 ## Overview
-On this site, you can find information about: 
+On this page, you can find information about: 
 <div class="toc">
   <ul>
     <li><a href="#conference-dinner">The Conference Dinner</a></li>
