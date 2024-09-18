@@ -73,6 +73,10 @@ ul li::before {
     margin-left: 0em; /* Negative margin to align with the list content */
 }
 
+#nav-mobile {
+    margin-left: 200px;
+}
+
 nav ul li::before {
     content: ""; /* No dash before nav list item */
     display: inline; /* Make the pseudo-element inline */
