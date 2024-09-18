@@ -13,7 +13,7 @@ date: 2019-12-15T11:12:14+01:00
 
 <h3 class="center">
     <b><span style="text-align:center;">
-        <a href="https://events.au.dk/chr2024/">REGISTRATION</a> NOW OPEN
+        <a href="https://events.au.dk/chr2024/">REGISTRATION</a> IS NOW OPEN
     </span></b>
 </h3>
 </br>
