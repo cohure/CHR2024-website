@@ -49,13 +49,13 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="announcements">
     <div class="announce">
-            <a href="/announcements/registration-is-open"><img src="/images/announce/CHR2024-registration-is-open.jpg" alt="Registration is open"></a>
+            <a href="https://events.au.dk/chr2024/"><img src="/images/announce/CHR2024-registration-is-open.jpg" alt="Registration is open"></a>
             <div class="content">
                 <h3>Registration is now open</h3>
                 <p>
-        Registration for the 2024 Computational Humanities Conference (CHR) is now open. This years edition will take place in Aarhus, Denmark at Aarhus University on 4-6 December. The conference will be a hybrid event with an option to attend in person or virtually...
+       Registration for the 2024 Computational Humanities Conference (CHR) is now open. This years edition will take place in Aarhus, Denmark at Aarhus University on 4-6 December. The conference will be a hybrid event with an option to attend in person or virtually. Save your seat now and expect more details about CHR2024 soon…
                 </p>
-                <a class="link-button" href="/announcements/registration-is-open">Read More</a>
+                <a class="link-button" href="https://events.au.dk/chr2024/">Register Here</a>
             </div>
     </div>
     <div class="announce">
