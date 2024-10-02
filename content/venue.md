@@ -118,7 +118,7 @@ Wakeup Aarhus is a hotel that is ideal for those who want an affordable stay whe
 Wakeup Aarhus is, like the other Wakeup hotels, beautifully designed with clean lines that recur throughout the hotel. 
 There is emphasis on minimalist design and quality at the hotel's 315 rooms, all of which contains a flat-screen TV, work desk, air conditioning and free Wi-Fi.
 
-Book here: [Wakeup Aarhus](https://www.wakeupcopenhagen.com/?corpLogin=1#/)
+Book here: [Wakeup Aarhus](https://www.wakeupcopenhagen.com/arpbe/web/en/login/61582088)
 <br>
 Price: 10% special discount
 </details>
