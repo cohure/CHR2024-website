@@ -95,7 +95,7 @@ Conveniently located near the central train station and bus stops, you'll have e
 
 Book here: [Booking link AU CHR-24](https://www.radissonhotels.com/en-us/booking/room-display?hotelCode=DKAARSCA&checkInDate=2024-12-04&checkOutDate=2024-12-06&adults%5B%5D=1&children%5B%5D=0&aoc%5B%5D=&searchType=pac&promotionCode=AUCH0412&voucher=&brands=&brandFirst=)
 <br>
-Price: 1145 DKK ~ 171 USD ~ 152 EUR per night (for bookings prior to October 4)
+Price: 1145 DKK ~ 171 USD ~ 152 EUR per night (Deadline for bookings: October 25)
 
 </details>
 
