@@ -16,7 +16,7 @@ date: 2021-02-19T16:05:25+01:00
   }
 
   .toc a {
-    font-size: 20px;
+    font-size: 1.5rem;
     text-decoration: none;
     color: #007bff; /* Link colour */
   }
@@ -28,7 +28,7 @@ date: 2021-02-19T16:05:25+01:00
 
     /* Styling for custom lists */
     ul.custom-list {
-    font-size: 20px; /* font size for custom lists */
+    font-size: 1.5rem; /* font size for custom lists */
     line-height: 1.6; /* space between list items */
     padding-left: 20px; /* Indent the custom list */
   }
@@ -44,6 +44,11 @@ date: 2021-02-19T16:05:25+01:00
     details {
         margin-bottom: 20px; /* Adds spacing below each toggle section */
       }
+
+    /* styling for heading */
+    .custom-heading{
+      font-size: 1.6em;
+    }
 
 </style>
 
@@ -126,68 +131,57 @@ Price: 10% special discount
 ## Travelling to Aarhus
 There is a wide range of travel options for you to arrive to Aarhus - just as you would like:
 
-### **By air**
+<h2 class="custom-heading">By Air</h2>
+
 Travelling to/from:
 
 <details>
   <summary><strong>Aarhus Airport</strong></summary>
 
-The Aarhus Airport (Tirstrup) is located 40 km north of the city and offers direct international flights to a number of European destinations, for instance Oslo, Stockholm, Gothenburg, Manchester, London (Stansted and Gatwick), Berlin, Munich, Nice, Rome and Cyprus. 
-Please visit their website for information on flight arrival/departure times.
-
-[Aarhus Airport (Tirstrup)](https://www.aar.dk/?SetLanguage=EN)
+[Aarhus Airport](https://www.aar.dk/?SetLanguage=EN) (Tirstrup) is located 40 km north of the city and offers direct international flights to a number of European destinations, for instance Oslo, Stockholm, Gothenburg, Manchester, London (Stansted and Gatwick), Berlin, Munich, Nice, Rome and Cyprus. 
+Please visit [their website](https://www.aar.dk/?SetLanguage=EN) for information on flight arrival/departure times.
 
 **Airport Shuttle Bus**
 <br>
-There is an airport shuttle bus from Aarhus Airport with frequent departures (every 20 minutes after each flight arrival with departures from just outside the main entrance). 
+There is an [airport shuttle bus](https://www.aar.dk/en/to-and-from-aar/) from Aarhus Airport with frequent departures (every 20 minutes after each flight arrival with departures from just outside the main entrance). 
 The fare is about DKK 100 and it takes about 50 minutes to reach downtown Aarhus. The bus stops at the Aarhus University campus (at Nobelparken). 
-Click on link below for more information on airport bus information or call (+45) 8612 8622.
+Visit [their website](https://www.aar.dk/en/to-and-from-aar/) for more information on airport bus information or call (+45) 8612 8622.
 
 Bus fare can be paid cash (DKK, NOK, SEK, USD, GBP, EUR). 
 The following credit cards are also accepted on the Airport bus: Dankort, VISA, MasterCard or JCB. 
 
-[Airport bus information](https://www.aar.dk/en/to-and-from-aar/)
-
 **CPH International Airport**
 <br>
-There are direct flights between Aarhus Airport/Tirstrup and Copenhagen International Airport with many daily departures on weekdays and some departures on Saturdays and Sundays. The flight takes 35 minutes. 
-In Copenhagen a free transit bus links the International and Domestic airport terminals.
+There are direct flights between Aarhus Airport (Tirstrup) and [Copenhagen International Airport](https://www.cph.dk/en) with many daily departures on weekdays, and some departures on Saturdays and Sundays. The flight takes 35 minutes. 
+In Copenhagen, a free transit bus links the international and domestic airport terminals.
 
-[Copenhagen International Airport](https://www.cph.dk/en)
 </details>
 
 <details>
   <summary><strong>Billund Airport</strong></summary>
 
-Billund Airport is located 100 km south of Arhus and has direct international flight connections to many European destinations, including Barcelona (Girona), Berlin, Birmingham, Brussels, Edinburgh, Faro, Frankfurt, London, Manchester, Milan, Munich, Oslo, Paris, Riga, Rome, and Stavanger. 
-Please visit the airport website for more information on arrivals and departures.
-
-[Billund Airport](https://www.bll.dk/en)
+[Billund Airport](https://www.bll.dk/en) is located 100 km south of Arhus and has direct international flight connections to many European destinations, including Barcelona (Girona), Berlin, Birmingham, Brussels, Edinburgh, Faro, Frankfurt, London, Manchester, Milan, Munich, Oslo, Paris, Riga, Rome, and Stavanger. 
+Please visit [their website](https://www.bll.dk/en) for more information on arrivals and departures.
 
 **Airport Shuttle Bus**
 <br>
-There is an airport shuttle bus between Aarhus and Billund Airport with several daily departures – please click airport link down below to find more information. 
+There is an [airport shuttle](https://www.bll.dk/en/parking-and-transport/to-and-from-the-airport/busser) bus between Aarhus and Billund Airport with several daily departures.
 The travel time from Billund Airport to downtown Aarhus is approximately 1 hour and 30 minutes. 
-Tickets are sold on the bus for about 140 DKK. The following credit cards are also accepted on the Airport bus: Dankort, VISA, MasterCard, Visa Electron, V Pay, China Union Pay, American Express or JCB. 
+Tickets are sold on the bus for about 140 DKK. The following credit cards are also accepted on the Airport bus: Dankort, VISA, MasterCard, Visa Electron, V Pay, China Union Pay, American Express or JCB. Visit [their website](https://www.bll.dk/en/parking-and-transport/to-and-from-the-airport/busser) to find more information. 
 
 </details>
 
 <details>
   <summary><strong>Copenhagen Airport</strong></summary>
 
-Please visit the website for more information on arrivals and departures by plane. For connecting trains to Aarhus, please click DSB-link down below. Copenhagen airport is connected to Aarhus Airport/Tirstrup with many daily departures on weekdays and some departures on Saturdays and Sundays. 
-The flight takes 35 minutes. In Copenhagen, a free transit bus links the International and Domestic airport terminals. 
-Copenhagen airport has direct flight connections to a large number of international destinations.
-
-[Copenhagen Airport](https://www.cph.dk/en)
-<br>
-[DSB](https://www.dsb.dk/en/)
-<br>
-[Aarhus Airport (Tirstrup)](https://www.aar.dk/?SetLanguage=EN)
+Please visit the [Copenhagen Airport website](https://www.cph.dk/en) for more information on arrivals and departures by plane. For connecting trains to Aarhus, see the [DSB website](https://www.dsb.dk/en/). Copenhagen Airport is connected to [Aarhus Airport (Tirstrup)](https://www.aar.dk/?SetLanguage=EN) with many daily departures on weekdays, and some departures on Saturdays and Sundays. 
+The flight takes 35 minutes. In Copenhagen, a free transit bus links the international and domestic airport terminals. 
+Copenhagen Airport has direct flight connections to a large number of international destinations.
 
 </details>
 
-### **By train**
+<h2 class="custom-heading">By Train</h2>
+
 <details>
   <summary><strong>Train From Europe to Aarhus via DSB</strong></summary>
 
@@ -209,20 +203,21 @@ The price is about DKK 410 for a one-way ticket (including seat reservation).
 To buy a ticket at the Copenhagen airport, you should go to the DSB Ticket Sales booth in Terminal 3 just above a rolling sidewalk which takes you down to the train.
 </details>
 
-### **By ferry**
+<h2 class="custom-heading">By Ferry</h2>
+
 <details>
   <summary><strong>Molslinjen from/to Zealand (Sjælland)</strong></summary>
 
-Check the [Molslinjen website](https://www.molslinjen.com/) for current timetables for ferries to/from Zealand (Aarhus-Odden).
+Visit the [Molslinjen website](https://www.molslinjen.com/) for current timetables for ferries to/from Zealand (Aarhus-Odden).
 
 </details>
 
-### **Other**
+<h2 class="custom-heading">Other options</h2>
 <details>
       <summary><strong>Driving by car</strong></summary>
 
 Aarhus has direct connections to the great European network of motorways, making it easy to get to most European cities. Hamburg can be reached within roughly four hours. 
-There are also excellent roads to most places in Denmark. For more information, please [check location on the map](https://www.google.com/maps?f=q&source=s_q&hl=da&geocode&q=aarhus+universitet+Nordre+Ringgade+1,+8000+%C3%85rhus,+Danmark&sll=56.17074,10.199347&sspn=0.01142,0.032916&ie=UTF8&hq&hnear=Nordre+Ringgade+1,+8000+%C3%85rhus+C,+%C3%85rhus,+Danmark&ll=56.171026)
+There are also excellent roads to most places in Denmark. For more information, please check [the location on the map](https://www.google.com/maps?f=q&source=s_q&hl=da&geocode&q=aarhus+universitet+Nordre+Ringgade+1,+8000+%C3%85rhus,+Danmark&sll=56.17074,10.199347&sspn=0.01142,0.032916&ie=UTF8&hq&hnear=Nordre+Ringgade+1,+8000+%C3%85rhus+C,+%C3%85rhus,+Danmark&ll=56.171026)
 
 </details>
 <details>
@@ -248,7 +243,7 @@ To walk from the centre of the city to the university takes approximately 30 min
 <details>
       <summary><strong>Taxi</strong></summary>
 
-To book a taxi, please call this telephone number (+45) 8948 4848 or ask your hotel receptionist. There is also a taxi stand right outside the main exit of the train station and conveniently located taxi stands all over the city.
+To book a taxi, please call (+45) 8948 4848 or ask your hotel receptionist. There is also a taxi stand right outside the main exit of the train station and conveniently located taxi stands all over the city.
 
 </details>
 
@@ -267,7 +262,7 @@ For more information on how to buy a ticket before travelling, please check [you
 
 Getting around in Aarhus is also easy with Denmark’s first light rail, Letbanen, operated by the company Midttrafik. Stops are located throughout Aarhus, making it easy to experience the city. The area around the Central Station and Dokk1 is the main junction point.
 Please note that you cannot buy tickets on the bus or light rail.
-For more information on how to buy a ticket before travelling, please [check your options here](https://www.visitaarhus.com/aarhus-region/plan-your-trip/ticket-bus-and-light-rail-aarhus-region-gdk720815).
+For more information on how to buy a ticket before travelling, please [your options here](https://www.visitaarhus.com/aarhus-region/plan-your-trip/ticket-bus-and-light-rail-aarhus-region-gdk720815).
 
 </details>
 
@@ -276,9 +271,7 @@ For more information on how to buy a ticket before travelling, please [check you
 
 Denmark is an ideal country for cycling. There are not many (very) steep hills and there are many safe cycling paths. 
 Urban conditions for cyclists are one of the best in the world and constantly being improved. 
-Look out for the special cyclists’ routes (cykelruter) and cycle paths (cykelstier).
-
-[Rent a bike here](https://www.visitaarhus.com/areas-and-cities/aarhus/activities/aarhus-bike)
+Look out for the special cyclists’ routes (cykelruter) and cycle paths (cykelstier). See [how to rent a bike](https://www.visitaarhus.com/areas-and-cities/aarhus/activities/aarhus-bike).
 
 </details>
 
