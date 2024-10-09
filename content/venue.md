@@ -176,7 +176,7 @@ Tickets are sold on the bus for about 140 DKK. The following credit cards are al
 
 Please visit the [Copenhagen Airport website](https://www.cph.dk/en) for more information on arrivals and departures by plane. For connecting trains to Aarhus, see the [DSB website](https://www.dsb.dk/en/). Copenhagen Airport is connected to [Aarhus Airport (Tirstrup)](https://www.aar.dk/?SetLanguage=EN) with many daily departures on weekdays, and some departures on Saturdays and Sundays. 
 The flight takes 35 minutes. In Copenhagen, a free transit bus links the international and domestic airport terminals. 
-Copenhagen airport has direct flight connections to a large number of international destinations.
+Copenhagen Airport has direct flight connections to a large number of international destinations.
 
 </details>
 
