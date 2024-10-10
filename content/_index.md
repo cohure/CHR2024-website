@@ -2,6 +2,49 @@
 title: "CHR 2024"
 date: 2019-12-15T11:12:14+01:00
 ---
+<style>
+  /* Card row layout */
+  .card-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem; /* Small consistent gap */
+    justify-content: flex-start; /* Align cards to the left */
+    align-items: stretch; /* Make sure all cards are the same height */
+  }
+
+  .card-col {
+    display: flex;
+    flex-grow:1;
+    margin-bottom: 1rem; /* vertical margin between cards */
+    max-width: 400px;
+    width: 100%;
+  }
+
+  .card {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease; /* Adding a smooth hover effect */
+  }
+
+  .card.image img{
+    width: 80% !important;
+
+  }
+
+  .card:hover {
+    transform: translateY(-5px); /* hiver lift effect */
+  }
+
+  .card-title {
+    padding: 10px;
+    font-weight: 450 !important;
+  }
+</style>
 
 <h2 class="center"><b><span style="text-align:center";>Fifth Conference on</br> Computational Humanities Research</span></b></h2>
 
@@ -30,39 +73,30 @@ details about CHR2024 soon!
 ### Keynote Speakers 
 
 We are very honoured and pleased that Lauren Klein and Leon Derczynski have agreed to give keynote lectures at CHR2024.
+<div class="card-row">
+  <div class="card-col">
+    <div class="card">
+      <div class="card-image">
+        <a href="/announcements/lauren-klein">
+          <img class="speaker-img" src="/images/announce/lauren-klein.jpg" alt="Card Image">
+        </a>
+      </div>
+      <div class="card-content">
+        <span class="card-title">Lauren Klein</span>
+      </div>
+    </div>
+  </div>
 
-<div class="row"> 
-  <div class="col s13 m5"> 
-    <div class="card"> 
-      <div class="card-image waves-effect waves-block waves-light"> 
-        <img class="speaker-img activator" src="/images/announce/lauren-klein.jpg" > 
-      </div> 
-      <div class="card-content"> 
-        <span class="card-title grey-text text-darken-4 activator">Lauren Klein<i class="material-icons right">more_vert</i></span> 
-      </div> 
-      <div class="card-reveal"> 
-        <span class="card-title grey-text text-darken-4">Lauren Klein<i class="material-icons right">close</i></span> 
-        <p>Lauren Klein, Winship Distinguished Research Professor and Associate Professor in the departments of  
-            Quantitative Theory & Methods and English at Emory University, and works at the intersection of data  
-            science, AI, and the humanities, with an emphasis on research questions of gender and race.</p> 
-      </div> 
-    </div> 
-  </div> 
-  <div class="col s13 m5"> 
-    <div class="card"> 
-      <div class="card-image waves-effect waves-block waves-light"> 
-        <img class="speaker-img activator" src="/images/announce/leon-derczynski-square-med-forweb.jpg"> 
-      </div> 
-      <div class="card-content waves-effect waves-block waves-light"> 
-        <span class="card-title grey-text text-darken-4 activator">Leon Derczynski<i class="material-icons right">more_vert</i></span> 
-      </div> 
-      <div class="card-reveal"> 
-        <span class="card-title grey-text text-darken-4">Leon Derczynski<i class="material-icons right">close</i></span> 
-        <p>Leon Derczynski is principal research scientist in LLM Security at NVIDIA and professor in NLP at 
-                ITU Copenhagen. He contributes to leading bodies on 
-                LLM securing and is the founder of the ACL SIG on NLP Security.</p> 
-      </div> 
-    </div> 
-  </div>   
-</div> 
- 
+  <div class="card-col">
+    <div class="card">
+      <div class="card-image">
+        <a href="/announcements/leon-derczynski">
+          <img class="speaker-img" src="/images/announce/leon-derczynski-square-med-forweb.jpg" alt="Card Image">
+        </a>
+      </div>
+      <div class="card-content">
+        <span class="card-title">Leon Derczynski</span>
+      </div>
+    </div>
+  </div>
+</div>
