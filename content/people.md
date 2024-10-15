@@ -12,4 +12,119 @@
 
 ### Programme Committee  
 
-TBA
+- Tara Andrews, University of Vienna
+- Maria Antoniak, University of Colorado Boulder
+- Taylor Arnold, University of Richmond
+- Rebekah Baglini, Aarhus University
+- David Bamman, University of California, Berkeley
+- Jean Barré, ENS-PSL
+- Andreas Baumann, University of Vienna
+- Nicolas Baumard, CNRS
+- Kaspar Beelen, School of Advanced Study, University of London
+- Yuri Bizzoni, Aarhus University
+- Katherine Bode, Australian National University
+- Emanuela Boros, EPFL
+- Ryan Brate, University of Amsterdam
+- Judith Brottrager, TU Darmstadt
+- Tom Brughmans, Aarhus University
+- Annelen Brunner, Institut für deutsche Sprache
+- Manuel Burghardt, Computational Humanities, University of Leipzig
+- Patrick Burns, University of Texas at Austin
+- Florian Cafiero, Sciences Po Paris
+- Jean-Baptiste Camps, École nationales des chartes
+- Javier Cha, The University of Hong Kong
+- Kent Chang, University of California, Berkeley
+- Thibault Clérice, ALMANaCH, Inria
+- Mariona Coll Ardanuy, PRHLT Research Center, Universitat Politècnica de València
+- Charles de Dampierre, ENS Paris
+- Simon DeDeo, Carnegie Mellon University
+- Quinn Dombrowski, Stanford University
+- Antoine Doucet, University of La Rochelle
+- Marten During, Luxembourg Centre for Contemporary and Digital History (C2DH)
+- Anton Ehrmanntraut, University of Würzburg
+- Marieke van Erp, KNAW Humanities Cluster
+- Pascale Feldkamp, CHCAA
+- Elena Fernandez Fernandez, University of Zurich
+- Mark Finlayson, Florida International University
+- Heather Froehlich, University of Arizona
+- Evelyn Gius, Technical University of Darmstadt
+- Cesar Gonzalez-Perez, Incipit CSIC
+- Thora Hagen, Universität Würzburg
+- Serge Heiden, ENS de Lyon
+- Simon Hengchen, iguanodon.ai & Université de Genève
+- Petra Heřmánková, Aarhus University
+- Berenike Herrmann, Bielefeld University
+- Tobias Hodel, Digital Humanities/Walter Benjamin Kolleg/Universität Bern
+- Laura Hollink, Centrum Wiskunde & Informatica
+- Yuerong Hu, University of Illinois at Urbana-Champaign
+- Mathieu Jacomy, Aalborg University
+- Fotis Jannidis, Julius-Maximilans-Universität Würzburg
+- Lars Johnsen, National Libary of Norway
+- Anne Kandler, Max Planck Institute for Evolutionary Anthropology
+- Folgert Karsdorp, Meertens Institute
+- Vojtech Kase, Czech Academy of Sciences; University of West Bohemia
+- Mike Kestemont, University of Antwerp
+- Kristian Kjelmann, Aalborg University
+- Lauren Klein, Emory University
+- Leonard Konle, University of Würzburg
+- Ross Kristensen-McLachlan, Centre for Humanities Computing, Aarhus University
+- John Ladd, Washington & Jefferson College
+- Sarah Lang, Zentrum für Informationsmodellierung, Centre for Digital Humanities (ZIM-ACDH), Karl-Franzens-Universität Graz
+- Alie Lassche, Aarhus University
+- Ida Marie S. Lassen, Aarhus University
+- Zoe LeBlanc, School of Information Sciences, University of Illinois at Urbana-Champaign
+- Benjamin Lee, University of Washington
+- Cynthia C. S. Liem, Delft University of Technology
+- Matthew Lincoln, JSTOR Labs
+- Tom Lippincott, Johns Hopkins University
+- Hoyt Long, University of Chicago
+- Li Lucy, University of California, Berkeley
+- Cerstin Mahlow, ZHAW Zurich University of Applied Sciences
+- Enrique Manjavacas, Leiden University
+- Barbara Mcgillivray, King's College London
+- George Mikros, Department of Italian Language and Literature, National and Kapodistrian University of Athens
+- David Mimno, Cornell University
+- Ben Nagy, IJP PAN
+- Sven Najem-Meyer, EPFL
+- Clemens Neudecker, Berlin State Library
+- Andreas Niekler, Universität Leipzig
+- Nanne van Noord, University of Amsterdam
+- Damien Nouvel, INaLCO
+- Pedro Ortiz Suarez, Common Crawl Foundation
+- Marco Passarotti, Catholic University of the Sacred Heart
+- Francesco Periti, Università degli Studi di Milano Statale
+- Federico Pianzola, University of Groningen
+- Michael Piotrowski, University of Lausanne
+- Andrew Piper, McGill University
+- Thierry Poibeau, LaTTiCe-CNRS
+- Nils Reiter, Department for Digital Humanities, University of Cologne
+- Matteo Romanello, Ecole Polytechnique Fédérale de Lausanne
+- Iza Romanowska, Aarhus University
+- Laurent Romary, INRIA & HUB-ISDL
+- Ruben Ros, Leiden University
+- Christine Roughan, Princeton University
+- Martin Ruskov, University of Milan
+- Christof Schoech, Trier University
+- Marijn Schraagen, Utrecht University
+- Stefan Schweter, Bayerische Staatsbibliothek München, Digital Library/Munich Digitization Center
+- Artjoms Šeļa, Institute of Czech Literature, Czech Academy of Sciences
+- Wenyi Shang, University of Missouri
+- David Smith, Northeastern University
+- Adela Sobotkova, Aarhus University
+- Sandeep Soni, Emory University
+- Elena Spadini, University of Basel
+- Rachele Sprugnoli, Università degli Studi di Parma
+- Zachary Stine, University of Central Arkansas
+- Daniel Stoekl Ben Ezra, EPHE
+- Zhiru Sun, University of Southern Denmark
+- Timothy Tangherlini, University of California, Berkeley
+- Rosamond Thalken, Cornell University
+- Lauren Tilton, University of Richmond
+- Mikko Tolonen, University of Helsinki
+- Inna Uglanova, Technical University of Darmstadt
+- Ted Underwood, University of Illinois at Urbana-Champaign
+- Joris Van Zundert, Huygens ING - Royal Netherlands Academy of Arts and Sciences (KNAW)
+- Stella Verkijk, Vrije Universiteit Amsterdam
+- Melanie Walsh, University of Washington
+- Melvin Wevers, University of Amsterdam
+- Matthew Wilkens, Cornell University
