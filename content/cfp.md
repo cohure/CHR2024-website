@@ -3,11 +3,6 @@ title: "Call for Papers"
 date: 2019-12-15T11:11:58+01:00
 ---
 
-<h3 class="center"><b><span style="text-align:center;">Extended <i>initial</i> submission 
-deadline: <s>July 11, 2024 AoE (23:59:59 UTC-12)</s></b></h3>
-<h3 class="center"><b><span style="text-align:center;">Deadline for updating existing submissions: 
-<s>July 15, 2024 AoE (23:59:59 UTC-12)</s></b></h3></br>
-
 In the arts and humanities, the use of computational, statistical, and 
 mathematical approaches has considerably increased in recent years. This 
 research is characterized by the use of formal methods and the construction 
@@ -75,7 +70,7 @@ of the two. More details will follow soon.
 
 <input class="filled-in" type="checkbox"><span>Registration opens: September 17, 2024</span>
 
-<input class="filled-in" type="checkbox"><span>Deadline final, camera-ready version: 14 October, 2024</span>
+<input class="filled-in" type="checkbox"><span>Deadline final, camera-ready version: 16 October, 2024</span>
 
 <input class="filled-in" type="checkbox"><span>Pre-conference workshops: December 3, 2024</span>
 
