@@ -41,8 +41,26 @@ date: 2019-12-15T11:12:14+01:00
   }
 
   .card-title {
-    padding: 10px;
-    font-weight: 450 !important;
+    font-size: 20px !important; /* make size a bit bigger (override) */
+    padding: 4px;
+  }
+
+  /* hide read more by default (on bigger screens) */
+  .read-more {
+  display: none;
+  }
+
+  /* show mobile read more since hover does not work */
+  @media (hover: none) {
+    .read-more {
+      display: inline-block;
+      margin-top: auto;
+      align-self: flex-start;
+      padding: 0.5rem 1rem;
+      border: 1px solid;
+      border-radius: 24px;
+      text-decoration: none;
+    }
   }
 </style>
 
@@ -83,6 +101,7 @@ We are very honoured and pleased that Lauren Klein and Leon Derczynski have agre
       </div>
       <div class="card-content">
         <span class="card-title">Lauren Klein</span>
+        <a href="/announcements/lauren-klein" class="read-more">Read More</a>
       </div>
     </div>
   </div>
@@ -96,6 +115,7 @@ We are very honoured and pleased that Lauren Klein and Leon Derczynski have agre
       </div>
       <div class="card-content">
         <span class="card-title">Leon Derczynski</span>
+        <a href="/announcements/leon-derczynski" class="read-more">Read More</a>
       </div>
     </div>
   </div>
