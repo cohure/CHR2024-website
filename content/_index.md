@@ -95,9 +95,8 @@ details about CHR2024 soon!
 We are very honoured and pleased that Lauren Klein and Leon Derczynski have agreed to give keynote lectures at CHR2024.
 <div class="card-row">
   <div class="card-col">
-    <div class="card">
+    <div class="card" onclick="location.href='/announcements/lauren-klein';" style="cursor: pointer;">
       <div class="card-image">
-        <a href="/announcements/lauren-klein">
           <img class="speaker-img" src="/images/announce/lauren-klein.jpg" alt="Card Image">
         </a>
       </div>
@@ -109,9 +108,8 @@ We are very honoured and pleased that Lauren Klein and Leon Derczynski have agre
   </div>
 
   <div class="card-col">
-    <div class="card">
+    <div class="card" onclick="location.href='/announcements/leon-derczynski';" style="cursor: pointer;">
       <div class="card-image">
-        <a href="/announcements/leon-derczynski">
           <img class="speaker-img" src="/images/announce/leon-derczynski-square-med-forweb.jpg" alt="Card Image">
         </a>
       </div>
