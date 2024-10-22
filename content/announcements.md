@@ -49,7 +49,7 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="announcements">
     <div class="announce">
-            <a href="https://events.au.dk/chr2024/"><img src="/images/announce/journal-announcement.jpg" alt="Registration is open"></a>
+            <a href="/journal"><img src="/images/announce/journal-announcement.jpg" alt="Registration is open"></a>
             <div class="content">
                 <h3>Registration is now open</h3>
                 <p>
