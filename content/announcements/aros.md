@@ -1,5 +1,5 @@
 ---
-title: "Discover ARoS Art Musuem with Free Voucher"
+title: "Discover ARoS Art Museum with Free Voucher"
 date: 2021-02-19T16:05:25+01:00
 ---
 <style>
