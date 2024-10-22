@@ -49,6 +49,16 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="announcements">
     <div class="announce">
+            <a href="https://events.au.dk/chr2024/"><img src="/images/announce/journal-announcement.jpg" alt="Registration is open"></a>
+            <div class="content">
+                <h3>Registration is now open</h3>
+                <p>
+                The Cambridge University Press journal Computational Humanities Research (CHR) is the official journal of the CHR Conference. CHR is an open access journal in the computational humanities, publishing transdisciplinary papers that are grounded in humanities research questions and use computational, quantitative methodologies to analyse humanities data...
+                </p>
+                <a class="link-button" href="/journal">Read More</a>
+            </div>
+    </div>
+    <div class="announce">
             <a href="https://events.au.dk/chr2024/"><img src="/images/announce/CHR2024-registration-is-open.jpg" alt="Registration is open"></a>
             <div class="content">
                 <h3>Registration is now open</h3>
