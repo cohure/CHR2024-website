@@ -58,5 +58,11 @@ publishDir = "docs"
      url = "/hosting"
      weight = -250
 
+    # [[menu.main]]
+      # identifier = "journal"
+      # name = "Journal" # consider whether it should be called CHR journal or just journal 
+      # url = "/journal"
+      # weight = -100 #
+
 [markup.goldmark.renderer]
 unsafe = true
