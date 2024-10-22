@@ -36,8 +36,10 @@ date: 2019-12-15T11:12:14+01:00
 
   }
 
-  .card:hover {
-    transform: translateY(-5px); /* hiver lift effect */
+  @media (hover: hover) {
+    .card:hover {
+      transform: translateY(-5px); /* Hover lift effect */
+    }
   }
 
   .card-title {
