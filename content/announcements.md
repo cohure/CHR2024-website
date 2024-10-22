@@ -49,11 +49,21 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="announcements">
     <div class="announce">
+            <a href="/announcements/aros"><img src="/images/announce/aros-outside.jpg" alt="CHR Journal"></a>
+            <div class="content">
+                <h3>Discover ARoS Art Museum</h3>
+                <p>
+    As a participant in the upcoming CHR2024 conference, you have a unique opportunity to explore the renowned ARoS Art Museum, where art truly comes to life. We are excited to offer all attendees vouchers that can be used during your stay in Aarhus, giving you the chance to experience the museum’s extraordinary collections and exhibitions...
+                </p>
+                <a class="link-button" href="/announcements/aros">Read More</a>
+            </div>
+    </div>
+    <div class="announce">
             <a href="/journal"><img src="/images/announce/journal-announcement.jpg" alt="CHR Journal"></a>
             <div class="content">
                 <h3>CHR Journal</h3>
                 <p>
-                The Cambridge University Press journal Computational Humanities Research (CHR) is the official journal of the CHR Conference. CHR is an open access journal in the computational humanities, publishing transdisciplinary papers that are grounded in humanities research questions and use computational, quantitative methodologies to analyse humanities data...
+                The Cambridge University Press journal Computational Humanities Research (CHR) is the official journal of the CHR Conference. CHR is an open access journal in the computational humanities, publishing transdisciplinary papers that are grounded in humanities research questions and use computational, quantitative methodologies...
                 </p>
                 <a class="link-button" href="/journal">Read More</a>
             </div>
