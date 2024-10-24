@@ -187,20 +187,20 @@ input:focus-visible + label {
 <div class="tabset">
   <!-- button creation -->
   <!-- TUE -->
-  <input type="radio" name="tabset" id="tab-tue" aria-controls="tue" checked>
-  <label for="tab-tue">Tuesday</label>
+  <input type="radio" name="tabset" id="tuesday" aria-controls="tuesday">
+  <label for="tuesday">Tuesday</label>
   <!-- WED -->
-  <input type="radio" name="tabset" id="tab-wed" aria-controls="wed" checked>
-  <label for="tab-wed">Wednesday</label>
+  <input type="radio" name="tabset" id="wednesday" aria-controls="wednesday" checked>
+  <label for="wednesday">Wednesday</label>
   <!-- THUR -->
-  <input type="radio" name="tabset" id="tab-thu" aria-controls="thu">
-  <label for="tab-thu">Thursday</label>
+  <input type="radio" name="tabset" id="thursday" aria-controls="thursday">
+  <label for="thursday">Thursday</label>
   <!-- FRI -->
-  <input type="radio" name="tabset" id="tab-fri" aria-controls="fri">
-  <label for="tab-fri">Friday</label>
+  <input type="radio" name="tabset" id="friday" aria-controls="friday">
+  <label for="friday">Friday</label>
   <!-- content -->
   <div class="tab-panels">
-  <section id="tab-tue" class="tab-panel">
+  <section id="tuesday" class="tab-panel" alt="tab showing the schedule for tuesday">
    <h2 id="overview-tue" alt="Overview of Tuesday" style="font-weight:bold;">Tuesday, December 3, 2024 (Pre-conference workshops)</h2>
    <p>
     <ul>
@@ -233,7 +233,7 @@ input:focus-visible + label {
    </p>
   </section>
   <!-- WED -->
-    <section id="tab-wed" class="tab-panel">
+    <section id="wednesday" class="tab-panel" alt="tab showing the schedule for wednesday">
       <h2 id="overview-wed" alt="Overview of Wednesday" style="font-weight:bold;">Wednesday, December 4, 2024 (Day 1)</h2>
       <p>
       <ul>
@@ -258,7 +258,7 @@ input:focus-visible + label {
       </p>
   </section>
   <!-- THUR -->
-    <section id="tab-thu" class="tab-panel">
+    <section id="thursday" class="tab-panel" alt="tab showing the schedule for thursday">
       <h2 id="overview-thu" alt="Overview of Thursday" style="font-weight:bold;">Thursday, December 5, 2024 (Day 2) </h2>
       <p>
       <ul>
@@ -288,7 +288,7 @@ input:focus-visible + label {
       </p>
     </section>
     <!-- FRI -->
-    <section id="tab-fri" class="tab-panel">
+    <section id="friday" class="tab-panel" alt="tab showing the schedule for friday">
       <h2 id="overview-fri" alt="Overview of Friday" style="font-weight:bold;">Friday, December 6, 2024 (DAY 3)</h2>
       <p>
         <ul>
@@ -319,6 +319,33 @@ input:focus-visible + label {
   </div>
   <!-- FRI -->
 </div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    // Get the current hash from the URL
+    var hash = window.location.hash;
+    if (hash) {
+        // Remove the '#' character
+        var id = hash.substring(1);
+        // Find the radio button with the matching ID
+        var tabRadio = document.getElementById(id);
+        if (tabRadio) {
+            // Activate the corresponding tab
+            tabRadio.checked = true;
+        }
+    }
+
+    // Update the URL hash when a new tab is selected
+    var radios = document.querySelectorAll('.tabset > input[type="radio"]');
+    radios.forEach(function(radio) {
+        radio.addEventListener('change', function() {
+            if (this.checked) {
+                // Use history.replaceState to avoid scrolling to the top
+                history.replaceState(null, null, '#' + this.id);
+            }
+        });
+    });
+});
+</script>
 
     </div>
 </div>
