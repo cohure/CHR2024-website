@@ -220,32 +220,61 @@ input:focus-visible + label {
 </div>
 
 
+<!-- JS for making tabs and sections inside tabs linkable -->
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-    // Get the current hash from the URL
+function activateTabFromHash() {
+    // get the current hash from the URL
     var hash = window.location.hash;
     if (hash) {
-        // Remove the '#' character
+        // remove the '#' character
         var id = hash.substring(1);
-        // Find the radio button with the matching ID
+
+        // first, try to find a radio button (tab control) with that ID
         var tabRadio = document.getElementById(id);
-        if (tabRadio) {
-            // Activate the corresponding tab
+        if (tabRadio && tabRadio.name === 'tabset') {
+            // activate the corresponding tab
             tabRadio.checked = true;
+        } else {
+            // if not found, try to find an element within a tab panel
+            var targetElement = document.getElementById(id);
+            if (targetElement) {
+                // find the closest ancestor with class 'tab-panel'
+                var tabPanel = targetElement.closest('.tab-panel');
+                if (tabPanel) {
+                    // get the id of the tab panel
+                    var panelId = tabPanel.id;
+                    // find the radio button whose aria-controls matches the panel id
+                    var tabRadio = document.querySelector('input[name="tabset"][aria-controls="' + panelId + '"]');
+                    if (tabRadio) {
+                        // activate the corresponding tab
+                        tabRadio.checked = true;
+                    }
+                }
+            }
         }
     }
+}
 
-    // Update the URL hash when a new tab is selected
+document.addEventListener("DOMContentLoaded", function() {
+    activateTabFromHash();
+
+    // update the URL hash when a new tab is selected
     var radios = document.querySelectorAll('.tabset > input[type="radio"]');
     radios.forEach(function(radio) {
         radio.addEventListener('change', function() {
             if (this.checked) {
-                // Use history.replaceState to avoid scrolling to the top
+                // update the URL hash to the radio button's ID
                 history.replaceState(null, null, '#' + this.id);
             }
         });
     });
 });
+
+// listen for hash changes (e.g., when clicking on links to anchors)
+window.addEventListener('hashchange', function() {
+    activateTabFromHash();
+});
 </script>
+
 
 
