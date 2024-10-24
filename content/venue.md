@@ -3,276 +3,127 @@ title: "Venue"
 date: 2021-02-19T16:05:25+01:00
 ---
 
-<!--html settings for TABLE OF CONTENTS and LIST-->
+<!--html settings for banner-->
 <style>
-  /* TOC Styling */
-  .toc ul {
-    list-style-type: none; /* Removes default bullet points */
-    padding-left: 0;
-  }
-
-  .toc ul li {
-    margin-bottom: 10px; /* Adds some spacing between list items */
-  }
-
-  .toc a {
-    font-size: 1.5rem;
-    text-decoration: none;
-    color: #007bff; /* Link colour */
-  }
-
-  .toc a:hover {
-    text-decoration: underline;
-    color: #0056b3; /* Darker hover effect for the links */
-  }
-
-    /* Styling for custom lists */
-    ul.custom-list {
-    font-size: 1.5rem; /* font size for custom lists */
-    line-height: 1.6; /* space between list items */
-    padding-left: 20px; /* Indent the custom list */
-  }
-
-    /* styling for toggles */
-    summary {
-        font-size: 1.3em; /* Adjust the font size to be similar to an h3 */
-        font-weight: bold;
-        cursor: pointer;
-        margin-bottom: 10px;
-      }
-    
-    details {
-        margin-bottom: 20px; /* Adds spacing below each toggle section */
-      }
-
-    /* styling for heading */
-    .custom-heading{
-      font-size: 1.6em;
+    .banner-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 20px;
+        padding: 20px;
     }
 
+    .banner {
+        background-color: #002147;
+        color: white !important;
+        padding: 20px;
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start; /* Changed to flex-start to prevent stretching */
+        text-decoration: none;
+        transition: all 0.3s ease;
+        position: relative;
+        min-height: 180px; /* Added minimum height to prevent collapse */
+    }
+
+    .banner:hover {
+        background-color: #4b0033;
+        color: white !important;
+        transform: translateY(-2px); /* Added subtle lift effect on hover */
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15); /* Added shadow for depth */
+    }
+
+    .banner h2 {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+        color: white !important;
+        padding-right: 40px; /* Added padding to prevent overlap with arrow */
+    }
+
+    .banner p {
+        font-size: 1rem;
+        margin-bottom: 40px; /* Increased bottom margin to make space for arrow */
+        color: white !important;
+        padding-right: 40px; /* Added padding to prevent overlap with arrow */
+    }
+
+    .banner .arrow {
+        position: absolute;
+        bottom: 20px;
+        right: 20px;
+        width: 36px; /* Slightly larger */
+        height: 36px; /* Slightly larger */
+        border-radius: 50%;
+        background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent */
+        color: #002147;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.2rem;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.1); /* Added subtle shadow */
+    }
+
+    /* Improved arrow icon using pseudo-element */
+    .banner .arrow::after {
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+        transform: translateX(-1px); /* Center the arrow visually */
+    }
+
+    .banner:hover .arrow {
+        background-color: white;
+        color: #4b0033;
+        transform: translateX(5px); /* Arrow moves slightly right on hover */
+    }
+
+    /* Responsive design */
+    @media (max-width: 480px) {
+        .banner {
+            min-height: 150px; /* Slightly smaller minimum height on mobile */
+        }
+        
+        .banner h2 {
+            font-size: 1.2rem;
+        }
+
+        .banner p {
+            font-size: 0.9rem;
+        }
+        
+        .banner .arrow {
+            width: 32px; /* Slightly smaller on mobile */
+            height: 32px;
+        }
+    }
 </style>
+
 
 <!--WRITTEN CONTENT STARTS HERE-->
 The CHR2024 Conference will be held on December 4-6 with workshops taking place on the December 3rd.
 The conference will take place in Aarhus, Denmark at Aarhus University, in their historical buildings located in the city center, close to the urban environment and its vibrant atmosphere as well as nature, including parks, forest and the coastline.
 
-## Overview
-On this page, you can find information about: 
-<div class="toc">
-  <ul>
-    <li><a href="#conference-dinner">The Conference Dinner</a></li>
-    <li><a href="#accommodation-in-aarhus">Accommodation in Aarhus</a></li>
-    <li><a href="#travelling-to-aarhus">Travelling to Aarhus</a></li>
-    <li><a href="#getting-around-in-aarhus">Getting Around in Aarhus</a></li>
-  </ul>
+<div class="banner-grid">
+    <a href="/venue/conference-dinner" class="banner">
+        <h2>The Conference Dinner</h2>
+        <p>
+        Join us on December 5th for the conference dinner at Restaurant Havnær in Aarhus Ø, where you can enjoy stunning views of Aarhus Bay and a menu inspired by Nordic and French culinary traditions.
+        </p>
+        <div class="arrow">&gt;</div>
+        </a>
+        <a href="/venue/accomodation-in-aarhus" class="banner">
+            <h2>Accomodation in Aarhus</h2>
+            <p>Aarhus offers a range of excellent hotels. Gain an overview and see the exclusive discounts for the CHR2024 conference.</p>
+            <div class="arrow">&gt;</div>
+        </a>
+        <a href="/venue/travelling-to-aarhus" class="banner">
+            <h2>Travelling to Aarhus</h2>
+            <p>Going to Aarhus by plane, train, ferry or something else? Read more about the many travel options that lead you to CHR2024.</p>
+            <div class="arrow">&gt;</div>
+        </a>
+        <a href="/venue/getting-around-aarhus" class="banner">
+            <h2>Getting around in Aarhus</h2>
+            <p>Rent a bike, take the bus, hop onto "Letbanen" or grab a taxi - travel just as you would like!</p>
+            <div class="arrow">&gt;</div>
+        </a>
 </div>
-
-## Conference Dinner
-The conference dinner will be held on December 5th at Restaurant Havnær (Meaning close to the ocean in Danish). Havnær is located at the edge of Aarhus Ø with an amazing view of the Aarhus Bay.
-
-Mainly inspired by Nordic and French food culture, the chef at Restaurant Havnær will create a lovely three course meal for us, accompanied by a selection of snack starters, wine and beverages and coffee for dessert.
-
-To accommodate everyone’s taste and preferences the chef will make three different menus to choose from in the registration form:
-<ul class="custom-list">
-  <li>a vegetarian menu,</li>
-  <li>a fish menu,</li>
-  <li>and a fish/meat menu</li>
-</ul>
-
-## Accommodation in Aarhus
-Aarhus offers a range of excellent hotels – from well-known international ones to unique accommodations. Get an overview of the hotels here:
-www.visitaarhus.com/ln-int/denmark/hotels-and-inns-in-aarhus
-
-We recommend that participants book their stay at one of the hotels listed below. 
-Networking with fellow researchers is a key aspect of any conference, and this year's event is designed to foster meaningful connections. 
-By providing a range of accommodation options and encouraging attendees to stay at the same hotels, we hope to create more opportunities for interaction outside of formal sessions. 
-Whether traveling between venues, sharing a meal, or exploring cultural activities together, these shared experiences will enhance the conference community. 
-
-Additionally, we have secured discounts at some of the pre-selected hotels to make your stay even more convenient:
-<details>
-      <summary><strong>Radisson Blu Scandinavia Hotel (4 stars)</strong></summary>
-
-Discover the 4-star Radisson Blu Scandinavia Hotel, Aarhus, perfectly placed in the heart of the city. Indulge in Nordic culinary delights at the RAA Nordic Brasserie & Bar or wrap up your day at the Fitness World center. 
-For those with work to do, the business center offers the perfect space to focus and be productive. 
-Explore Aarhus' gems, including the City Hall, ARoS Aarhus Art Museum, Den Gamle By — the Old Town Museum — or catch a performance at the Concert Hall. 
-All these attractions are just a stone's throw away from the hotel. 
-Conveniently located near the central train station and bus stops, you'll have easy access to Denmark's other renowned destinations.
-
-Book here: [Booking link AU CHR-24](https://www.radissonhotels.com/en-us/booking/room-display?hotelCode=DKAARSCA&checkInDate=2024-12-04&checkOutDate=2024-12-06&adults%5B%5D=1&children%5B%5D=0&aoc%5B%5D=&searchType=pac&promotionCode=AUCH0412&voucher=&brands=&brandFirst=)
-<br>
-Price: 1145 DKK ~ 171 USD ~ 152 EUR per night (Deadline for bookings: October 25)
-
-</details>
-
-<details>
-      <summary><strong>Hotel Oasia (3 stars)</strong></summary>
-
-Hotel Oasia is a boutique & design hotel located in the heart of Aarhus. Here you will find a cosy athmospere and discreet luxury. 
-The hotel provides a high standard of service and quality in the stylish and Nordic surroundings. 
-Hotel Oasia is in Aarhus city center, with a large selection of shopping opportunities, restaurants, ARoS and Musikhuset Aarhus just around the corner. Despite its central location, the hotel is a bit hidden as a small oasis.
-
-Book here: [CHR 2024 - Hotel Oasia Bookinglink](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbooking.hoteloasia.com%2Foasia%2Fcustomer%2Fcorporate-login%2F%3Fp_usr%3Dchr2024%26p_pwd%3Dchr2024%26p_arr%3D20241202_0000%26p_dep%3D20241206_0000%26p_pax%3D1_0_0&data=05%7C02%7Cline%40cas.au.dk%7C9b27c0a15d8b47e27bb908dcf35ec70d%7C61fd1d36fecb47cab7d7d0df0370a198%7C1%7C0%7C638652835601208376%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=fjXhoTdTdvtfgvuZBlIGtober7E%2FJxdsAJ%2Bls18Kq8o%3D&reserved=0)
-<br>
-Price: DKK 1.099 DKK ~ 164 USD ~ 147 EUR per night
-</details>
-
-<details>
-      <summary><strong>Wakeup Aarhus (2 stars)</strong></summary>
-
-Wakeup Aarhus is a hotel that is ideal for those who want an affordable stay when visiting the „City of Smiles“. 
-Wakeup Aarhus is, like the other Wakeup hotels, beautifully designed with clean lines that recur throughout the hotel. 
-There is emphasis on minimalist design and quality at the hotel's 315 rooms, all of which contains a flat-screen TV, work desk, air conditioning and free Wi-Fi.
-
-Book here: [Wakeup Aarhus](https://www.wakeupcopenhagen.com/arpbe/web/en/login/61582088)
-<br>
-Price: 10% special discount
-</details>
-
-## Travelling to Aarhus
-There is a wide range of travel options for you to arrive to Aarhus - just as you would like:
-
-<h2 class="custom-heading">By Air</h2>
-
-Travelling to/from:
-
-<details>
-  <summary><strong>Aarhus Airport</strong></summary>
-
-[Aarhus Airport](https://www.aar.dk/?SetLanguage=EN) (Tirstrup) is located 40 km north of the city and offers direct international flights to a number of European destinations, for instance Oslo, Stockholm, Gothenburg, Manchester, London (Stansted and Gatwick), Berlin, Munich, Nice, Rome and Cyprus. 
-Please visit [their website](https://www.aar.dk/?SetLanguage=EN) for information on flight arrival/departure times.
-
-**Airport Shuttle Bus**
-<br>
-There is an [airport shuttle bus](https://www.aar.dk/en/to-and-from-aar/) from Aarhus Airport with frequent departures (every 20 minutes after each flight arrival with departures from just outside the main entrance). 
-The fare is about DKK 100 and it takes about 50 minutes to reach downtown Aarhus. The bus stops at the Aarhus University campus (at Nobelparken). 
-Visit [their website](https://www.aar.dk/en/to-and-from-aar/) for more information on airport bus information or call (+45) 8612 8622.
-
-Bus fare can be paid cash (DKK, NOK, SEK, USD, GBP, EUR). 
-The following credit cards are also accepted on the Airport bus: Dankort, VISA, MasterCard or JCB. 
-
-**CPH International Airport**
-<br>
-There are direct flights between Aarhus Airport (Tirstrup) and [Copenhagen International Airport](https://www.cph.dk/en) with many daily departures on weekdays, and some departures on Saturdays and Sundays. The flight takes 35 minutes. 
-In Copenhagen, a free transit bus links the international and domestic airport terminals.
-
-</details>
-
-<details>
-  <summary><strong>Billund Airport</strong></summary>
-
-[Billund Airport](https://www.bll.dk/en) is located 100 km south of Arhus and has direct international flight connections to many European destinations, including Barcelona (Girona), Berlin, Birmingham, Brussels, Edinburgh, Faro, Frankfurt, London, Manchester, Milan, Munich, Oslo, Paris, Riga, Rome, and Stavanger. 
-Please visit [their website](https://www.bll.dk/en) for more information on arrivals and departures.
-
-**Airport Shuttle Bus**
-<br>
-There is an [airport shuttle](https://www.bll.dk/en/parking-and-transport/to-and-from-the-airport/busser) bus between Aarhus and Billund Airport with several daily departures.
-The travel time from Billund Airport to downtown Aarhus is approximately 1 hour and 30 minutes. 
-Tickets are sold on the bus for about 140 DKK. The following credit cards are also accepted on the Airport bus: Dankort, VISA, MasterCard, Visa Electron, V Pay, China Union Pay, American Express or JCB. Visit [their website](https://www.bll.dk/en/parking-and-transport/to-and-from-the-airport/busser) to find more information. 
-
-</details>
-
-<details>
-  <summary><strong>Copenhagen Airport</strong></summary>
-
-Please visit the [Copenhagen Airport website](https://www.cph.dk/en) for more information on arrivals and departures by plane. For connecting trains to Aarhus, see the [DSB website](https://www.dsb.dk/en/). Copenhagen Airport is connected to [Aarhus Airport (Tirstrup)](https://www.aar.dk/?SetLanguage=EN) with many daily departures on weekdays, and some departures on Saturdays and Sundays. 
-The flight takes 35 minutes. In Copenhagen, a free transit bus links the international and domestic airport terminals. 
-Copenhagen Airport has direct flight connections to a large number of international destinations.
-
-</details>
-
-<h2 class="custom-heading">By Train</h2>
-
-<details>
-  <summary><strong>Train From Europe to Aarhus via DSB</strong></summary>
-
-Aarhus lies at one of the most important railway junctions in Denmark. 
-There are hourly departures to the north, south and west. From Southern and Central Europe, the connections are via Hamburg/Flensburg. 
-Travel time from Hamburg to Aarhus is approximately five hours. 
-From Eastern European countries train connections to Aarhus go via Poland and Copenhagen. 
-Aarhus has hourly services to and from Copenhagen. The opening of the Tunnel under the Great Belt has shortened the journey by one hour, so now the trip takes three and a half hours. 
-There are several daily connections to Sweden, Germany and the rest of Europe.
-
-Please visit [DSB](https://www.dsb.dk/en/) or [DSB Journey planner](https://www.rejseplanen.dk/bin/query.exe/en?L=vs_dsb&#38;) to find all your connection route options.
-</details>
-
-<details>
-  <summary><strong>Train from Copenhagen Airport to Aarhus</strong></summary>
-
-Trains bound for Aarhus railway station leave Copenhagen Airport hourly. 
-The price is about DKK 410 for a one-way ticket (including seat reservation). 
-To buy a ticket at the Copenhagen airport, you should go to the DSB Ticket Sales booth in Terminal 3 just above a rolling sidewalk which takes you down to the train.
-</details>
-
-<h2 class="custom-heading">By Ferry</h2>
-
-<details>
-  <summary><strong>Molslinjen from/to Zealand (Sjælland)</strong></summary>
-
-Visit the [Molslinjen website](https://www.molslinjen.com/) for current timetables for ferries to/from Zealand (Aarhus-Odden).
-
-</details>
-
-<h2 class="custom-heading">Other options</h2>
-<details>
-      <summary><strong>Driving by car</strong></summary>
-
-Aarhus has direct connections to the great European network of motorways, making it easy to get to most European cities. Hamburg can be reached within roughly four hours. 
-There are also excellent roads to most places in Denmark. For more information, please check [the location on the map](https://www.google.com/maps?f=q&source=s_q&hl=da&geocode&q=aarhus+universitet+Nordre+Ringgade+1,+8000+%C3%85rhus,+Danmark&sll=56.17074,10.199347&sspn=0.01142,0.032916&ie=UTF8&hq&hnear=Nordre+Ringgade+1,+8000+%C3%85rhus+C,+%C3%85rhus,+Danmark&ll=56.171026)
-
-</details>
-<details>
-      <summary><strong>Ordering a taxi</strong></summary>
-
-Individual taxi services are available - approx. DKK 600 from Aarhus Airport to Aarhus and DKK 1500 from Billund Airport to Aarhus.
-</details>
-
-## Getting around in Aarhus
-In Aarhus, we say that everything is within walking distance and when you arrive to the city, it is obvious to see why. 
-If you arrive at the train station, it is only a few minutes’ walk before arriving at your hotel or conference venue. 
-From here, within minutes, you have the opportunity to experience a vibrant city life with restaurants, shopping, museums and cultural experiences - just waiting for you to explore.
-
-You can travel around by: 
-<details>
-      <summary><strong>Walking</strong></summary>
-
-The entire city is clean, compact and well-organised, which makes walking an excellent and enjoyable way to get around.
-To walk from the centre of the city to the university takes approximately 30 minutes.
-
-</details>
-
-<details>
-      <summary><strong>Taxi</strong></summary>
-
-To book a taxi, please call (+45) 8948 4848 or ask your hotel receptionist. There is also a taxi stand right outside the main exit of the train station and conveniently located taxi stands all over the city.
-
-</details>
-
-
-<details>
-      <summary><strong>Bus</strong></summary>
-
-Aarhus Sporveje, the municipal bus company, runs the yellow buses in the city. The bus route number is indicated at the front and the back of the bus and the destination is displayed at the front and above the rear door.  
-Please note that you cannot buy tickets on the bus or light rail.
-For more information on how to buy a ticket before travelling, please check [your options here](https://www.visitaarhus.com/aarhus-region/plan-your-trip/ticket-bus-and-light-rail-aarhus-region-gdk720815).
-
-</details>
-
-<details>
-      <summary><strong>Letbanen</strong></summary>
-
-Getting around in Aarhus is also easy with Denmark’s first light rail, Letbanen, operated by the company Midttrafik. Stops are located throughout Aarhus, making it easy to experience the city. The area around the Central Station and Dokk1 is the main junction point.
-Please note that you cannot buy tickets on the bus or light rail.
-For more information on how to buy a ticket before travelling, please [your options here](https://www.visitaarhus.com/aarhus-region/plan-your-trip/ticket-bus-and-light-rail-aarhus-region-gdk720815).
-
-</details>
-
-<details>
-      <summary><strong>Cycling</strong></summary>
-
-Denmark is an ideal country for cycling. There are not many (very) steep hills and there are many safe cycling paths. 
-Urban conditions for cyclists are one of the best in the world and constantly being improved. 
-Look out for the special cyclists’ routes (cykelruter) and cycle paths (cykelstier). See [how to rent a bike](https://www.visitaarhus.com/areas-and-cities/aarhus/activities/aarhus-bike).
-
-</details>
-
-
