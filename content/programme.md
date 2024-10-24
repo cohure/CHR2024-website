@@ -2,6 +2,7 @@
 title: "CHR2024 Programme"
 layouttype: "single" 
 ---
+<!-- CSS for tabs -->
 <style>
 /* modified from https://codepen.io/markcaron/pen/MvGRYV */
 /* interaction */
@@ -75,6 +76,8 @@ input:focus-visible + label {
   border-top: 1px solid #ccc;
 }
 </style>
+<!-- HTML FOR PROGRAMME -->
+Programme for the [pre-conference workshops](#parallel-workshops) on [Tuesday](#tuesday), 3rd December 2024, and the main conference days on [Wednesday](#wednesday), [Thursday](#thursday), and [Friday](#friday), 4th-6th December 2024.
 
 *Please note that all times are in Central European Time (CET)*
 
