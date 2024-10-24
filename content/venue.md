@@ -111,7 +111,7 @@ Hotel Oasia is a boutique & design hotel located in the heart of Aarhus. Here yo
 The hotel provides a high standard of service and quality in the stylish and Nordic surroundings. 
 Hotel Oasia is in Aarhus city center, with a large selection of shopping opportunities, restaurants, ARoS and Musikhuset Aarhus just around the corner. Despite its central location, the hotel is a bit hidden as a small oasis.
 
-Book here: [CHR 2024 - Hotel Oasia Bookinglink](https://booking.hoteloasia.com/oasia/hotel/booking/rooms/)
+Book here: [CHR 2024 - Hotel Oasia Bookinglink](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbooking.hoteloasia.com%2Foasia%2Fcustomer%2Fcorporate-login%2F%3Fp_usr%3Dchr2024%26p_pwd%3Dchr2024%26p_arr%3D20241202_0000%26p_dep%3D20241206_0000%26p_pax%3D1_0_0&data=05%7C02%7Cline%40cas.au.dk%7C9b27c0a15d8b47e27bb908dcf35ec70d%7C61fd1d36fecb47cab7d7d0df0370a198%7C1%7C0%7C638652835601208376%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=fjXhoTdTdvtfgvuZBlIGtober7E%2FJxdsAJ%2Bls18Kq8o%3D&reserved=0)
 <br>
 Price: DKK 1.099 DKK ~ 164 USD ~ 147 EUR per night
 </details>
