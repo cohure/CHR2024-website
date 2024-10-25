@@ -29,7 +29,7 @@ As a participant in the upcoming CHR2024 conference, you have a unique opportuni
 [Read more about ARoS and your free voucher](/announcements/aros).
 
 <figure>
-    <img src="/images/announce/aros-outside.jpg" alt="Image inside of Markedshallen Nicolinehus.">
+    <img src="/images/announce/aros-outside.jpg" alt="Image outside of ARoS Art Museum.">
     <figcaption>(Foto: ARoS Art Museum from the outside).</figcaption>
 </figure>
 
@@ -37,17 +37,27 @@ As a participant in the upcoming CHR2024 conference, you have a unique opportuni
 
 A must-visit in Aarhus, Den Gamle By (The Old Town Museum) is an open-air museum located in the city center, offering a captivating journey through Danish life from the 1600s to the present day. This unique museum features beautifully preserved buildings and streets, providing an immersive historical experience.
 
+<figure>
+    <img src="/images/announce/gamleby-outside.jpg" alt="Image of Den Gamle By.">
+    <figcaption>(Foto: Den Gamle By). Image Credit: Den Gamle By.</figcaption>
+</figure>
+
 In December, the museum becomes especially magical as it highlights 400 years of Danish Christmas traditions. Stroll through festively decorated streets illuminated by lanterns, admire traditional Christmas ornaments, and savor seasonal treats like æbleskiver (Danish pancake puffs). You can also step into quaint old-fashioned shops and homes, and even engage with costumed townsfolk and servants who share fascinating stories about Danish Christmas customs.
 
 [Read more about Christmas in *Den Gamle By*](https://www.dengamleby.dk/en/plan-your-visit/annual-themes-and-programme/christmas-in-den-gamle-by/)
+
+<figure>
+    <img src="/images/announce/gamleby-christmas.jpg" alt="Image outside of ARoS Art Museum.">
+    <figcaption>(Foto: Christmas in Den Gamle By). Image Credit: Den Gamle By.</figcaption>
+</figure>
 
 <h3 style="font-weight:bold;">Jul Damperen: A Cozy Christmas Boat Ride</h3>
 
 A delightful way to experience the historic and lively port city of Aarhus during the holiday season is aboard the charming steamship Juldamperen, beautifully adorned for Christmas.
 
 <figure>
-    <img src="/images/venue/juldamperen.jpg" alt="Image inside of Markedshallen Nicolinehus.">
-    <figcaption>(Foto: Inside Markedshallen Nicolinehus). Image credit: Markedshallen Nicolinehus</figcaption>
+    <img src="/images/venue/juldamperen.jpg" alt="Image of the ship 'Juldamperen' in the ocean with Aarhus city in the background.">
+    <figcaption>(Foto: Juldamperen). Image credit: Sail Event Aarhus</figcaption>
 </figure>
 
 This 1.5-hour cruise departs multiple times daily from Herman Sallings Plads. Juldamperen is heated and filled with festive Christmas music, offering seasonal treats and drinks as you take in the views of the city, glowing with holiday lights. The journey showcases both historic landmarks and modern developments, offering a unique perspective of Aarhus from the water.

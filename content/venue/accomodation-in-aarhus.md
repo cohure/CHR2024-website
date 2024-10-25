@@ -1,7 +1,8 @@
 ---
 title: "Accomodation in Aarhus"
 ---
-Aarhus offers a range of excellent hotels – from well-known international ones to unique accommodations. Get an overview of the hotels [here](www.visitaarhus.com/ln-int/denmark/hotels-and-inns-in-aarhus).
+Aarhus offers a range of excellent hotels – from well-known international ones to unique accommodations. Get an overview of the hotels 
+<a href="https://www.visitaarhus.com/ln-int/denmark/hotels-and-inns-in-aarhus">here</a>.
 
 We recommend that participants book their stay at one of the hotels listed below. 
 Networking with fellow researchers is a key aspect of any conference, and this year's event is designed to foster meaningful connections. 
