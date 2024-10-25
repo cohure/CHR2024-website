@@ -126,4 +126,9 @@ The conference will take place in Aarhus, Denmark at Aarhus University, in their
             <p>Rent a bike, take the bus, hop onto "Letbanen" or grab a taxi - travel just as you would like!</p>
             <div class="arrow">&gt;</div>
         </a>
+                <a href="/venue/sights-in-aarhus" class="banner">
+            <h2>Sightseeing in Aarhus</h2>
+            <p>Discover all the incredible sights that Aarhus has to offer and learn about the free ARos voucher that you will get by participating in CHR2024.</p>
+            <div class="arrow">&gt;</div>
+        </a>
 </div>
