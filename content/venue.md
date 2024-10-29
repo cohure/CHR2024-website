@@ -40,6 +40,7 @@ date: 2021-02-19T16:05:25+01:00
     padding-right: 40px;
     line-height: 1.3;
     max-height: 2.6em;  /* limit to two lines */
+    text-decoration: none !important;
 }
 
 .banner-content {
@@ -53,6 +54,7 @@ date: 2021-02-19T16:05:25+01:00
     color: white !important;
     padding-right: 20px;
     line-height: 1.5;
+    text-decoration: none !important;
 }
 
 .banner-footer {
