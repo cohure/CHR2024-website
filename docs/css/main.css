@@ -414,3 +414,13 @@ h4 {
     color: var(--color2);
     font-size: 30px !important;
 }
+
+/* add underline for all in-text links for accesibility */
+a {
+    text-decoration: underline !important;
+}
+
+/* rm underline specifically for menu links */
+#nav-mobile a, .sidenav a {
+    text-decoration: none !important;
+}
