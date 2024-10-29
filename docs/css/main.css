@@ -424,3 +424,8 @@ a {
 #nav-mobile a, .sidenav a {
     text-decoration: none !important;
 }
+
+/* rm underline specifically for logo */
+.brand-logo {
+    text-decoration: none !important;
+}
