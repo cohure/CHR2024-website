@@ -1,5 +1,6 @@
 baseURL = "http://2024.computational-humanities-research/"
 languageCode = "en-us"
+defaultContentLanguage = "en"
 title = "Computational Humanities Research 2024"
 theme = "chr"
 publishDir = "docs"

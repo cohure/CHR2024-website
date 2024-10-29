@@ -11,7 +11,7 @@ date: 2021-02-19T16:05:25+01:00
 </style>
 
 
-<img class="announce" src="/images/announce/leon-derczynski-square-med-forweb.jpg">
+<img class="announce" src="/images/announce/leon-derczynski-square-med-forweb.jpg" alt = "Portrait of Leon Derczynski">
 
 
 We are happy to announce that Professor Leon Derczynski, principal research scientist in LLM Security at [NVIDIA](https://www.nvidia.com/en-us/)
