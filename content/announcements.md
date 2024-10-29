@@ -49,7 +49,7 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="announcements">
     <div class="announce">
-            <a href="/announcements/aros"><img src="/images/announce/aros-outside.jpg" alt="CHR Journal"></a>
+            <a href="/announcements/aros"><img src="/images/announce/aros-outside.jpg" alt="Image outside of ARoS Art Museum"></a>
             <div class="content">
                 <h3>Discover ARoS Art Museum</h3>
                 <p>
@@ -59,7 +59,7 @@ date: 2021-02-19T16:05:25+01:00
             </div>
     </div>
     <div class="announce">
-            <a href="/journal"><img src="/images/announce/journal-announcement.jpg" alt="CHR Journal"></a>
+            <a href="/journal"><img src="/images/announce/journal-announcement.jpg" alt="Digital image of the CHR Journal"></a>
             <div class="content">
                 <h3>CHR Journal</h3>
                 <p>
@@ -69,7 +69,7 @@ date: 2021-02-19T16:05:25+01:00
             </div>
     </div>
     <div class="announce">
-            <a href="https://events.au.dk/chr2024/"><img src="/images/announce/CHR2024-registration-is-open.jpg" alt="Registration is open"></a>
+            <a href="https://events.au.dk/chr2024/"><img src="/images/announce/CHR2024-registration-is-open.jpg" alt="Image with text 'Registration is open'"></a>
             <div class="content">
                 <h3>Registration is now open</h3>
                 <p>
@@ -90,7 +90,7 @@ at ITU Copenhagen (IT University of Copenhagen) will give a keynote speech at th
         </div>
     </div>
     <div class="announce">
-        <a href="/cfp"><img src="/images/announce/CHR2024-extension.jpg" alt="Call for Papers Extension"></a>
+        <a href="/cfp"><img src="/images/announce/CHR2024-extension.jpg" alt="Image with text 'Call for Papers Extension' and new submission deadline"></a>
         <div class="content">
             <h3>CFP Deadline Extension</h3>
             <p>
@@ -114,7 +114,7 @@ Computational Humanities Research 2024 Conference...
         </div>
     </div>
     <div class="announce">
-        <a href="/cfp"><img src="/images/announce/CHR2024-CFP-website.jpg" alt="Call for Papers"></a>
+        <a href="/cfp"><img src="/images/announce/CHR2024-CFP-website.jpg" alt="Image with text 'Call for Papers' and submission deadline"></a>
         <div class="content">
             <h3>Call for Papers</h3>
             <p>

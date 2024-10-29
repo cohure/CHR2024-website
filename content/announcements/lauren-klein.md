@@ -12,7 +12,7 @@ date: 2021-02-19T16:05:25+01:00
 </style>
 
 <div class="announce">
-    <img src="/images/announce/Lauren-Klein-square-med-forweb.jpg">
+    <img src="/images/announce/Lauren-Klein-square-med-forweb.jpg" alt ="Portrait of Lauren Klein">
     <p>
         We are happy to announce that Lauren Klein, Winship Distinguished Research Professor and Associate Professor in the departments of Quantitative 
     Theory & Methods and English at Emory University, will give a keynote speech at the Computational Humanities Research 2024 Conference.

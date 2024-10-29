@@ -97,7 +97,7 @@ We are very honoured and pleased that Lauren Klein and Leon Derczynski have agre
   <div class="card-col">
     <div class="card" onclick="location.href='/announcements/lauren-klein';" style="cursor: pointer;">
       <div class="card-image">
-          <img class="speaker-img" src="/images/announce/lauren-klein.jpg" alt="Card Image">
+          <img class="speaker-img" src="/images/announce/lauren-klein.jpg" alt="Portrait of Lauren Klein on card element">
         </a>
       </div>
       <div class="card-content">
@@ -110,7 +110,7 @@ We are very honoured and pleased that Lauren Klein and Leon Derczynski have agre
   <div class="card-col">
     <div class="card" onclick="location.href='/announcements/leon-derczynski';" style="cursor: pointer;">
       <div class="card-image">
-          <img class="speaker-img" src="/images/announce/leon-derczynski-square-med-forweb.jpg" alt="Card Image">
+          <img class="speaker-img" src="/images/announce/leon-derczynski-square-med-forweb.jpg" alt="Portrait of Leon Derczynski on card element">
         </a>
       </div>
       <div class="card-content">
