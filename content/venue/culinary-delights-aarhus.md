@@ -29,7 +29,7 @@ If street food is more your style, don’t miss [Aarhus Street Food](https://aar
 
 <figure>
     <img src="/images/venue/markedshallen-nicolinehus.jpg" alt="Image inside of Markedshallen Nicolinehus.">
-    <figcaption>(Foto: Inside Markedshallen Nicolinehus). Image credit: Markedshallen Nicolinehus</figcaption>
+    <figcaption>Image credit: Markedshallen Nicolinehus</figcaption>
 </figure>
 
 <h3 style="font-weight:bold;">The Visit Aarhus Guide</h3>
@@ -38,7 +38,7 @@ Looking for something in between gourmet and street food or just looking for som
 
 <figure>
     <img src="/images/venue/havnær-karryis-og-sovs.jpg" alt="Image inside of Havnær Restaurant">
-    <figcaption>(Foto: Karryis). Image credit: Restaurant Havnær</figcaption>
+    <figcaption>Image credit: Restaurant Havnær</figcaption>
 </figure>
 
 <h3 style="font-weight:bold;">Coffee and Baked Goods</h3>
