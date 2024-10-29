@@ -8,7 +8,7 @@ date: 2019-12-15T11:12:14+01:00
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem; /* Small consistent gap */
-    justify-content: flex-start; /* Align cards to the left */
+    justify-content: center; /* Align cards to the left */
     align-items: stretch; /* Make sure all cards are the same height */
   }
 
@@ -16,7 +16,7 @@ date: 2019-12-15T11:12:14+01:00
     display: flex;
     flex-grow:1;
     margin-bottom: 1rem; /* vertical margin between cards */
-    max-width: 400px;
+    max-width: 350px;
     width: 100%;
   }
 
@@ -86,9 +86,7 @@ interdisciplinary community that supports researchers with an interest in comput
 approaches to the humanities. 
 
 The 2024 edition of the Computational Humanities Research conference will take
-place on **December 4-6, 2024** at Aarhus University, Denmark. Expect more
-details about CHR2024 soon!
-
+place on **December 4-6, 2024** at Aarhus University, Denmark. Check out the [Announcements](/announcements) for the latest conference updates, and get practical information about the location on the [Venue](/venue) page.
 
 ### Keynote Speakers 
 
