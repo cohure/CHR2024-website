@@ -1,3 +1,7 @@
+---
+title: "People"
+---
+
 ### Programme Chairs
 
 - Wouter Haverals, Princeton University
