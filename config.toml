@@ -12,12 +12,6 @@ publishDir = "docs"
 [menu]
 
   [[menu.main]]
-    identifier = "contact"
-    name = "Community"
-    url = "/contact"
-    weight = -210
-
-  [[menu.main]]
      identifier = "cfp"
      name = "CfP"
      url = "/cfp"
@@ -40,30 +34,24 @@ publishDir = "docs"
       name = "Programme"
       url = "/programme"
       weight = -1500
-
+    
   [[menu.main]]
-    identifier = "people"
-    name = "People"
-    url = "/people"
-    weight = -1000
-
-  [[menu.main]]
-    identifier = "archive"
-    name = "Archive"
-    url = "/archive"
-    weight = -500
+      identifier = "about"
+      name = "About"
+      url = "/about"
+      weight = -1000
 
    [[menu.main]]
      identifier = "CHR2025"
      name = "CHR2025"
      url = "/hosting"
-     weight = -250
+     weight = -500
 
     # [[menu.main]]
       # identifier = "journal"
-      # name = "Journal" # consider whether it should be called CHR journal or just journal 
+      # name = "Journal" 
       # url = "/journal"
-      # weight = -100 #
+      # weight = -100 
 
 [markup.goldmark.renderer]
 unsafe = true
