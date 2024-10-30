@@ -51,13 +51,6 @@
       <description>CHR2023 CHR2023 was a three-day conference held on December 6 to 8, 2023. The program committee and organizers accepted 49 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3558/. See https://2023.computational-humanities-research.org/ for more information about CHR2023.&#xA;CHR2022 CHR2022 was a three-day conference held on December 12 to 14, 2022. The program committee and organizers accepted 29 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3290/. See https://2022.computational-humanities-research.org/ for more information about CHR2022.</description>
     </item>
     <item>
-      <title>Venue</title>
-      <link>http://2024.computational-humanities-research/venue/</link>
-      <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-      <guid>http://2024.computational-humanities-research/venue/</guid>
-      <description>The CHR2024 Conference will be held on December 4-6 with workshops taking place on the December 3rd. The conference will take place in Aarhus, Denmark at Aarhus University, in their historical buildings located in the city center, close to the urban environment and its vibrant atmosphere as well as nature, including parks, forest and the coastline.&#xA;The Conference Dinner Join us on for the conference dinner at Restaurant Havnær with stunning views of Aarhus Bay and a menu inspired by Nordic and French culinary traditions.</description>
-    </item>
-    <item>
       <title>Call for Bids to Host CHR2025</title>
       <link>http://2024.computational-humanities-research/hosting/</link>
       <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
@@ -154,6 +147,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/venue/travelling-to-aarhus/</guid>
       <description>There is a wide range of travel options for you to arrive to Aarhus - just as you would like:&#xA;By Air Travelling to/from:&#xA;Aarhus Airport Aarhus Airport (Tirstrup) is located 40 km north of the city and offers direct international flights to a number of European destinations, for instance Oslo, Stockholm, Gothenburg, Manchester, London (Stansted and Gatwick), Berlin, Munich, Nice, Rome and Cyprus. Please visit their website for information on flight arrival/departure times.</description>
+    </item>
+    <item>
+      <title>Venue</title>
+      <link>http://2024.computational-humanities-research/venue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/venue/</guid>
+      <description>The CHR2024 Conference will be held on December 4-6 with workshops taking place on the December 3rd. The conference will take place in Aarhus, Denmark at Aarhus University, in their historical buildings located in the city center, close to the urban environment and its vibrant atmosphere as well as nature, including parks, forest and the coastline.&#xA;The Conference Dinner Join us for the conference dinner at Restaurant Havnær with stunning views of Aarhus Bay and a menu inspired by Nordic and French culinary traditions.</description>
     </item>
   </channel>
 </rss>

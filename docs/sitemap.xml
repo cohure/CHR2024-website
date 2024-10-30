@@ -20,9 +20,6 @@
     <loc>http://2024.computational-humanities-research/archive/</loc>
     <lastmod>2021-02-19T16:05:25+01:00</lastmod>
   </url><url>
-    <loc>http://2024.computational-humanities-research/venue/</loc>
-    <lastmod>2021-02-19T16:05:25+01:00</lastmod>
-  </url><url>
     <loc>http://2024.computational-humanities-research/hosting/</loc>
     <lastmod>2019-12-15T11:12:28+01:00</lastmod>
   </url><url>
@@ -61,5 +58,7 @@
     <loc>http://2024.computational-humanities-research/tags/</loc>
   </url><url>
     <loc>http://2024.computational-humanities-research/venue/travelling-to-aarhus/</loc>
+  </url><url>
+    <loc>http://2024.computational-humanities-research/venue/</loc>
   </url>
 </urlset>
