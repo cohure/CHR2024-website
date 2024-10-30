@@ -1,69 +1,207 @@
 <!DOCTYPE html>
-<html><head>
+<html lang="en"><head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
-  <title>Computational Humanities Research</title>
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Computational Humanities Research 2024</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-  <link rel="stylesheet" href=/CoHuRe/css/main.css > 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-</head><body>
-        <div class="page-border"><header>  <nav class="white z-depth-0" role="navigation">
-    <div class="nav-wrapper container">
-      <a href="/CoHuRe" class="brand-logo">CHR</a>
-      <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-      <ul id="nav-mobile" class="right hide-on-med-and-down">
-        
-        
-        <li>
-          <a href="/CoHuRe/cfp/">Call for Papers</a>
-        </li>
-        
-        <li>
-          <a href="/CoHuRe/community/">Community</a>
-        </li>
-        
-        <li>
-          <a href="/CoHuRe/contact/">Contact</a>
-        </li>
-        
-      </ul>
-    </div>
-  </nav>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script>
+  <link rel="stylesheet" href=/css/main.css > 
+  <link rel="shortcut icon" href=/favicon.ico>
+  <bibtex src="/papers.bib"></bibtex>
+</head>
+
+<body>
+        <div class="page-border"><header class="white"><nav class="white z-depth-0" role="navigation">
+  <div class="nav-wrapper container">
+    <a href="/" class="brand-logo">CHR2024</a>
+    <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+    <ul id="nav-mobile" class="right hide-on-med-and-down">
+      
+      
+      <li>
+        <a href="/cfp">CfP</a>
+      </li>
+      
+      <li>
+        <a href="/announcements">Announcements</a>
+      </li>
+      
+      <li>
+        <a href="/venue">Venue</a>
+      </li>
+      
+      <li>
+        <a href="/programme">Programme</a>
+      </li>
+      
+      <li>
+        <a href="/people">People</a>
+      </li>
+      
+      <li>
+        <a href="/archive">Archive</a>
+      </li>
+      
+      <li>
+        <a href="/hosting">CHR2025</a>
+      </li>
+      
+      <li>
+        <a href="/contact">Community</a>
+      </li>
+      
+    </ul>
+  </div>
+</nav>
+
 <ul class="sidenav transparent z-depth-0" id="mobile-demo">
   
   
 <li>
-  <a href="/CoHuRe/cfp/" class="white-text">Call for Papers</a>
+  <a href="/cfp" class="white-text">CfP</a>
 </li>
 
 <li>
-  <a href="/CoHuRe/community/" class="white-text">Community</a>
+  <a href="/announcements" class="white-text">Announcements</a>
 </li>
 
 <li>
-  <a href="/CoHuRe/contact/" class="white-text">Contact</a>
+  <a href="/venue" class="white-text">Venue</a>
+</li>
+
+<li>
+  <a href="/programme" class="white-text">Programme</a>
+</li>
+
+<li>
+  <a href="/people" class="white-text">People</a>
+</li>
+
+<li>
+  <a href="/archive" class="white-text">Archive</a>
+</li>
+
+<li>
+  <a href="/hosting" class="white-text">CHR2025</a>
+</li>
+
+<li>
+  <a href="/contact" class="white-text">Community</a>
 </li>
 
 </ul>
 
 <script>
-  $(document).ready(function(){
-  $('.sidenav').sidenav();
+  $(document).ready(function() {
+      $('.sidenav').sidenav();
   });
-</script></header><div class="bg--white">
+</script>
+</header><div class="bg--white">
                 <main>
                 <div class="section no-pad-bot">
 <div class="section no-pad-bot" id="index-banner">
     <div class="container">
-        <h2 class="header center"></h2>
+        <h2 class="header center">About</h2>
         <h3 class="header center"></h3>
     </div>
 </div>
 <div class="container">
     <div class="section content">
-        
+        <style>
+.banner-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 0px;
+}
+
+.banner {
+    background-color: #002147;
+    color: white;
+    padding: 15px;  /* minimal padding */
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row; /* row to place arrow beside text */
+    align-items: center;
+    justify-content: space-between; /* space between text and arrow */
+    text-decoration: none;
+    transition: all 0.3s ease;
+    height: 100%;  /* controlled height */
+    width: 100%; /* fixed width for consistency */
+    text-decoration: none !important;
+}
+
+.banner h2 {
+    font-size: 1.2rem;
+    margin: 0;
+    color: white;
+    text-align: left; /* align text to left for better flow */
+}
+
+.banner .arrow {
+    margin-left: 10px;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #002147;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.banner:hover {
+    background-color: #4b0033;
+}
+
+.banner:hover .arrow {
+    background-color: white;
+    color: #4b0033;
+}
+
+@media (max-width: 480px) {a
+    .banner h2 {
+        font-size: 1rem;
+    }
+
+    .banner .arrow {
+        width: 28px;
+        height: 28px;
+    }
+}
+
+</style>
+<!-- WRITTEN CONTENT STARTS HERE -->
+<p>The Computational Humanities Research (CHR) community is an international and interdisciplinary community that supports researchers with an interest in computational approaches to the humanities. Learn more about the people behind CHR2024 and the organisation of CHR:
+<br>
+<br></p>
+<div class="banner-grid">
+    <a href="/people" class="banner">
+        <h2>People</h2>
+        <div class="banner-footer">
+            <div class="arrow">→</div>
+        </div>
+    </a>
+    <a href="/contact" class="banner">
+        <h2>Community</h2>
+        <div class="banner-footer">
+            <div class="arrow">→</div>
+        </div>
+    </a>
+    <a href="/archive" class="banner">
+        <h2>Archive</h2>
+        <div class="banner-footer">
+            <div class="arrow">→</div>
+        </div>
+    </a>
+</div>
+<div class="space" style="margin-top:10wv; padding-top:20%;"></div>
     </div>
 </div>
 
@@ -71,21 +209,34 @@
                 </main> 
             </div><footer class="page-footer docs-footer white">
   <div class="container">
-    <div class="row center">
-      <div class="col s6">
-        <a href="community">Join the community!</a>
+    <div class="row center valign-wrapper">
+      <div class="col s12" style="color:black; text-transform: none;">
+        Follow us on: 
+        <a href="https://www.linkedin.com/company/computational-humanities-research"><img src="/images/linkedin.svg" alt="linkedin"></a> 
+        <a href="https://twitter.com/CompHumResearch"><img src="/images/twitter-x.svg" alt="twitter-x"></a> 
+        <a href="https://bsky.app/profile/comphumresearch.bsky.social"><img src="/images/bluesky.svg" alt="bluesky"></a> 
+      </div>    
+    </div>
+  </div>
+  <div class="container">
+    <div class="row center valign-wrapper">
+      <div class="col s4">
+        <img class="organization-logo" width="50%" src="/images/csm_CHC.png" alt = "Center For Humanities Computing"/>
       </div>
-      <div class="col s6">
-        <a href="https://twitter.com/CompHumResearch">Follow us on Twitter!</a>
+      <div class="col s4">
+        <img class="organization-logo" width="30%" src="/images/DigHumLab.png" alt = "DIGHUMLAB"/>
+      </div>      
+      <div class="col s4">
+        <img class="organization-logo" width="50%" src="/images/Aarhus_University_logo.svg.png" alt = "Aarhus University"/>
       </div>
     </div>
   </div>
   <div class="footer-copyright white">
     <div class="container">
-      <p class="center-align">© 2019, Computational Humanities Research</p>
+      <a href="/code-of-conduct/" style="margin:auto; text-align:center; display:block;" >Code of conduct</a>
+      <p class="center-align">© 2024, Computational Humanities Research</p>
     </div>
   </div>
-</footer>
-</div>
+</footer></div>
     </body>
 </html>
