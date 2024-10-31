@@ -28,7 +28,7 @@ At Havnær, the focus is on authentic experiences, combining exquisite gastronom
 
 
 <figure>
-    <img src="/images/venue/havnær-karryis-og-sovs.jpg" alt="Image inside of icecream inside of Havnær Restaurant">
+    <img src="/images/venue/havnær-karryis-og-sovs.jpg" alt="Image of icecream inside of Havnær Restaurant">
     <figcaption>Image credit: Restaurant Havnær</figcaption>
 </figure>
 
