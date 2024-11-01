@@ -6,7 +6,7 @@ date: 2021-02-19T16:05:25+01:00
 <style>
     div.announcements {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(min(400px, 100%), 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(min(350px, 100%), 1fr));
         grid-column-gap: 24px;
         grid-row-gap: 24px;
     }
@@ -44,18 +44,29 @@ date: 2021-02-19T16:05:25+01:00
         border-radius: 24px;
         margin-top: auto;
         align-self: flex-start;
+        text-decoration: none !important;
     }
 </style>
 
 <div class="announcements">
     <div class="announce">
+            <a href="/announcements/aros"><img src="/images/venue/havnær-lokale.jpg" alt="Image of icecream inside of Havnær Restaurant"></a>
+            <div class="content">
+                <h3>The Conference Dinner</h3>
+                <p>
+                Join us for the conference dinner on December 5th at Restaurant Havnær, a name that translates to “close to the ocean” in Danish. Nestled at the edge of Aarhus Ø, this beautiful venue offers breathtaking views over Aarhus Bay, creating the perfect setting for a memorable evening...
+                </p>
+                <a class="link-button" href="/venue/conference-dinner" aria-label="Press to read more about the Conference Dinner">Read More</a>
+            </div>
+    </div>
+    <div class="announce">
             <a href="/announcements/aros"><img src="/images/announce/aros-outside.jpg" alt="Image outside of ARoS Art Museum"></a>
             <div class="content">
                 <h3>Discover ARoS Art Museum</h3>
                 <p>
-    As a participant in the upcoming CHR2024 conference, you have a unique opportunity to explore the renowned ARoS Art Museum, where art truly comes to life. We are excited to offer all attendees vouchers that can be used during your stay in Aarhus, giving you the chance to experience the museum’s extraordinary collections and exhibitions...
+    As a participant in the upcoming CHR2024 conference, you have a unique opportunity to explore the renowned ARoS Art Museum, where art truly comes to life. We are excited to offer all attendees vouchers that can be used during your stay in Aarhus...
                 </p>
-                <a class="link-button" href="/announcements/aros">Read More</a>
+                <a class="link-button" href="/announcements/aros" aria-label="Press to read more about ARoS Art Museum">Read More</a>
             </div>
     </div>
     <div class="announce">
@@ -65,7 +76,7 @@ date: 2021-02-19T16:05:25+01:00
                 <p>
                 The Cambridge University Press journal Computational Humanities Research (CHR) is the official journal of the CHR Conference. CHR is an open access journal in the computational humanities, publishing transdisciplinary papers that are grounded in humanities research questions and use computational, quantitative methodologies...
                 </p>
-                <a class="link-button" href="/journal">Read More</a>
+                <a class="link-button" href="/journal" aria-label="Press to read more about the CHR journal">Read More</a>
             </div>
     </div>
     <div class="announce">
@@ -75,7 +86,7 @@ date: 2021-02-19T16:05:25+01:00
                 <p>
        Registration for the 2024 Computational Humanities Conference (CHR) is now open. This years edition will take place in Aarhus, Denmark at Aarhus University on 4-6 December. The conference will be a hybrid event with an option to attend in person or virtually. Save your seat now and expect more details about CHR2024 soon…
                 </p>
-                <a class="link-button" href="https://events.au.dk/chr2024/">Register Here</a>
+                <a class="link-button" href="https://events.au.dk/chr2024/" aria-label="Press to register for the conference">Register Here</a>
             </div>
     </div>
     <div class="announce">
@@ -84,9 +95,9 @@ date: 2021-02-19T16:05:25+01:00
             <h3>Keynote Leon Derczynski</h3>
             <p>
     We are happy to announce that Professor Leon Derczynski, principal research scientist in LLM Security at NVIDIA and prof in Natural Language Processing (NLP)
-at ITU Copenhagen (IT University of Copenhagen) will give a keynote speech at the Computational Humanities Research 2024 Conference...
+at ITU Copenhagen (IT University of Copenhagen) will give a keynote speech...
             </p>
-            <a class="link-button" href="/announcements/leon-derczynski">Read More</a>
+            <a class="link-button" href="/announcements/leon-derczynski" aria-label="Press to read more about Leon Derczynski">Read More</a>
         </div>
     </div>
     <div class="announce">
@@ -107,10 +118,9 @@ enrich and analyse...
             <h3>Keynote Lauren Klein</h3>
             <p>
     We are happy to announce that Lauren Klein, Winship Distinguished Research Professor and Associate Professor in the 
-departments of Quantitative Theory & Methods and English at Emory University, will give a keynote speech at the 
-Computational Humanities Research 2024 Conference...
+departments of Quantitative Theory & Methods and English at Emory University, will give a keynote speech ...
             </p>
-            <a class="link-button" href="/announcements/lauren-klein">Read More</a>
+            <a class="link-button" href="/announcements/lauren-klein" aria-label="Press to read more about Lauren Klein">Read More</a>
         </div>
     </div>
     <div class="announce">
@@ -125,7 +135,4 @@ humanities data, including new media and cultural heritage data...
             <a class="link-button" href="/cfp">Read More</a>
         </div>
     </div>
-<!--
-
--->
 </div>
