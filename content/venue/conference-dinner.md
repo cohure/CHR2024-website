@@ -17,12 +17,12 @@ title: "Conference Dinner at Restaurant Havnær"
 
 </style>
 
-Join us for the conference dinner on December 5th at **Restaurant Havnær**, a name that translates to "close to the ocean" in Danish. Nestled at the edge of Aarhus Ø, this beautiful venue offers breathtaking views over Aarhus Bay, creating the perfect setting for a memorable evening.
-
 <figure>
     <img src="/images/venue/havnær-lokale.jpg" alt="Image inside of Havnær Restaurant">
     <figcaption>Image credit: Restaurant Havnær</figcaption>
 </figure>
+
+Join us for the conference dinner on December 5th at **Restaurant Havnær**, a name that translates to "close to the ocean" in Danish. Nestled at the edge of Aarhus Ø, this beautiful venue offers breathtaking views over Aarhus Bay, creating the perfect setting for a memorable evening.
 
 At Havnær, the focus is on authentic experiences, combining exquisite gastronomy with warm, informal hospitality. Their approach reflects the charm of Jutland, meeting guests at eye level and offering a relaxed atmosphere where you can simply sit back, enjoy the moment, and take in the stunning surroundings from the SHIP building.
 

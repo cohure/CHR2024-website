@@ -61,7 +61,7 @@ date: 2019-12-15T11:12:14+01:00
       padding: 0.5rem 1rem;
       border: 1px solid;
       border-radius: 24px;
-      text-decoration: none;
+      text-decoration: none !important;
     }
   }
 </style>
