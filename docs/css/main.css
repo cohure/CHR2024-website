@@ -312,16 +312,6 @@ h4 {
     font-style: italic;
 }
 
-#searchbar {
-    /* border-bottom-color: transparent; */
-    font-family: "Fira Code", Monaco, Menlo, Consolas, monospace;
-}
-
-.searchpapers {
-    margin-top: 1rem;
-    margin-bottom: 2rem;
-}
-
 /* label color */
 .input-field label {
     color: #909090;
