@@ -23,120 +23,145 @@ title: "Accepted Papers"
 
 ### Session 1A: Visual Arts and Art History
 
-<p class="paper-entry"><a href="/papers/paper20" class="paper-title">Viability of Zero-Shot Classification and Search of Historical Photos</a><span class="paper-authors">Erika Maksimova, Mari-Anna Meimer, Mari Piirsalu and Priit Järv</span></p>
-<p class="paper-entry"><a href="/papers/paper71" class="paper-title">Transformation of Composition and Gaze Interaction in Noli Me Tangere Depictions from 1300–1600</a><span class="paper-authors">Pepe Ballesteros Zapata, Nina Arnold, Vappu Vilhelmiina Lukander, Ludovica Schaerf and Dario Negueruela del Castillo</span></p>
+<p class="paper-entry"><a href="/papers/paper20" class="paper-title">Viability of Zero-shot Classification and Search of Historical Photos</a><span class="paper-authors">Erika Maksimova, Mari-Anna Meimer, Mari Piirsalu, Priit Järv</span></p>
+<p class="paper-entry"><a href="/papers/paper71" class="paper-title">Transformation of Composition and Gaze Interaction in Noli Me Tangere Depictions from 1300–1600</a><span class="paper-authors">Pepe Ballesteros Zapata, Nina Arnold, Vappu Lukander, Ludovica Schaerf, Dario Negueruela del Castillo</span></p>
 <p class="paper-entry"><a href="/papers/paper123" class="paper-title">Deciphering Still Life Artworks with Linked Open Data</a><span class="paper-authors">Bruno Sartini</span></p>
-<p class="paper-entry"><a href="/papers/paper141" class="paper-title">Computational Segmentation of Wayang Kulit Video Recordings using a Cross-Attention Temporal Model</a><span class="paper-authors">Shawn Hong Wei Liew and Miguel Escobar Varela</span></p>
-<p class="paper-entry"><a href="/papers/paper82" class="paper-title">Assessing Landscape Intervisibility and Prominence at Regional Scale</a><span class="paper-authors">Adela Sobotkova</span></p>
+<p class="paper-entry"><a href="/papers/paper141" class="paper-title">Computational segmentation of Wayang Kulit video recordings using a Cross-Attention Temporal Model</a><span class="paper-authors">Hong Wei Shawn Liew, Miguel Escobar Varela</span></p>
+<p class="paper-entry"><a href="/papers/paper82" class="paper-title">Assessing Burial Mound Intervisibility and Prominence at Regional Scale</a><span class="paper-authors">Adela Sobotkova</span></p>
 
 
 ### Session 1B: Classification & Information Extraction
 
-<p class="paper-entry"><a href="/papers/paper73" class="paper-title">Page Embeddings: Extracting and Classifying Historical Documents with Generic Vector Representations</a><span class="paper-authors">Carsten Schnober, Renate Smit, Manjusha Kuruppath, Kay Pepping, Leon van Wissen and Lodewijk Petram</span></p>
+<p class="paper-entry"><a href="/papers/paper73" class="paper-title">Page Embeddings: Extracting and Classifying Historical Documents with Generic Vector Representations</a><span class="paper-authors">Carsten Schnober, Renate Smit, Manjusha Kuruppath, Kay Pepping, Leon van Wissen, Lodewijk Petram</span></p>
 <p class="paper-entry"><a href="/papers/paper79" class="paper-title">Exploration of Event Extraction Techniques in Late Medieval and Early Modern Administrative Records</a><span class="paper-authors">Ismail Prada Ziegler</span></p>
-<p class="paper-entry"><a href="/papers/paper130" class="paper-title">Characterizing the Subversion of Social Relationships on Television</a><span class="paper-authors">Kent Chang, Anna Ho and David Bamman</span></p>
-<p class="paper-entry"><a href="/papers/paper52" class="paper-title">Extracting social connections from Finnish Karelian refugee interviews using LLMs</a><span class="paper-authors">Joonatan Laato, Jenna Kanerva, John Loehr, Virpi Lummaa and Filip Ginter</span></p>
+<p class="paper-entry"><a href="/papers/paper130" class="paper-title">Subversive Characters and Stereotyping Readers: Characterizing Queer Relationalities with Dialogue-Based Relation Extraction</a><span class="paper-authors">Kent K. Chang, Anna Ho, David Bamman</span></p>
+<p class="paper-entry"><a href="/papers/paper52" class="paper-title">Extracting Social Connections from Finnish Karelian Refugee Interviews Using LLMs</a><span class="paper-authors">Joonatan Laato, Jenna Kanerva, John Loehr, Virpi Lummaa, Filip Ginter</span></p>
 
 
 ### Session 2A: Literature
 
-<p class="paper-entry"><a href="/papers/paper19" class="paper-title">Literary Time Travel: Distinguishing Past and Contemporary Worlds in Danish and Norwegian Fiction</a><span class="paper-authors">Jens Bjerring-Hansen, Ali Al-Laith, Daniel Hershcovich, Alexander Conroy and Sebastian Ørtoft Rasmussen</span></p>
-<p class="paper-entry"><a href="/papers/paper59" class="paper-title">Recognizing Non-named Spatial Entities in Literary Texts: A Novel Spatial Entities Classifier</a><span class="paper-authors">Daniel Kababgi, Giulia Grisot, Federico Pennino and Berenike Herrmann</span></p>
-<p class="paper-entry"><a href="/papers/paper97" class="paper-title">Latent Structures of Intertextuality in French Fiction</a><span class="paper-authors">Jean Barré</span></p>
-<p class="paper-entry"><a href="/papers/paper36" class="paper-title">Global Coherence, Local Uncertainty: Towards a Theoretical Framework for Assessing Literary Quality</a><span class="paper-authors">Yuri Bizzoni, Pascale Moreira and Kristoffer Nielbo</span></p>
-<p class="paper-entry"><a href="/papers/paper90" class="paper-title">Animacy in German Folktales</a><span class="paper-authors">Julian Häußler, Janis von Keitz and Evelyn Gius</span></p>
+<p class="paper-entry"><a href="/papers/paper19" class="paper-title">Literary Time Travel: Distinguishing Past and Contemporary Worlds in Danish and Norwegian Fiction</a><span class="paper-authors">Jens Bjerring-Hansen, Ali Al-Laith, Daniel Hershcovich, Alexander Conroy, Sebastian Ørtoft Rasmussen</span></p>
+<p class="paper-entry"><a href="/papers/paper59" class="paper-title">Recognising non-named spatial entities in literary texts: a novel spatial entities classifier</a><span class="paper-authors">Daniel Kababgi, Giulia Grisot, Federico Pennino, Berenike Herrmann</span></p>
+<p class="paper-entry"><a href="/papers/paper97" class="paper-title">Latent structures in french fiction</a><span class="paper-authors">Jean Barré</span></p>
+<p class="paper-entry"><a href="/papers/paper36" class="paper-title">Global Coherence, Local Uncertainty - Towards a Theoretical Framework for Assessing Literary Quality</a><span class="paper-authors">Yuri Bizzoni, Pascale Feldkamp, Kristoffer Nielbo</span></p>
+<p class="paper-entry"><a href="/papers/paper90" class="paper-title">Animacy in German Folktales</a><span class="paper-authors">Julian Häußler, Janis von Keitz, Evelyn Gius</span></p>
 
 
 ### Session 2B: Semantic Analysis
 
-<p class="paper-entry"><a href="/papers/paper6" class="paper-title">Quantitative Framework for Word-Color Association and Application to 20th Century Anglo-American Poetry</a><span class="paper-authors">Sungpil Wang and Juyong Park</span></p>
+<p class="paper-entry"><a href="/papers/paper6" class="paper-title">Quantitative Framework for Word-Color Association and Application to 20th Century Anglo-American Poetry</a><span class="paper-authors">Sungpil Wang, Juyong Park</span></p>
 <p class="paper-entry"><a href="/papers/paper92" class="paper-title">Domain Adaptation with Linked Encyclopedic Data: A Case Study for Historical German</a><span class="paper-authors">Thora Hagen</span></p>
-<p class="paper-entry"><a href="/papers/paper95" class="paper-title">Tracing the Development of the Virtual Particle Concept Using Semantic Change Detection</a><span class="paper-authors">Michael Zichert and Adrian Wüthrich</span></p>
+<p class="paper-entry"><a href="/papers/paper95" class="paper-title">Tracing the Development of the Virtual Particle Concept Using Semantic Change Detection</a><span class="paper-authors">Michael Zichert, Adrian Wüthrich</span></p>
 
 
 ### Session 3A: Literary Canon & Reception
 
-<p class="paper-entry"><a href="/papers/paper76" class="paper-title">Literary Canonicity and Algorithmic Fairness: The Effect of Author Gender on Classification Models</a><span class="paper-authors">Ida Marie S. Lassen, Pascale Feldkamp, Yuri Bizzoni and Kristoffer Nielbo</span></p>
-<p class="paper-entry"><a href="/papers/paper106" class="paper-title">Patterns of Quality: Comparing Reader Reception Across Fanfiction and Published Literature</a><span class="paper-authors">Mia Jacobsen, Pascale Moreira, Kristoffer Nielbo and Yuri Bizzoni</span></p>
-<p class="paper-entry"><a href="/papers/paper86" class="paper-title">Univariate Statistical Analysis of a Non-Canonical Literary Genre: Quantifying German-Language One-Act Plays (1740–1850)</a><span class="paper-authors">Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer and Lilly Welz</span></p>
+<p class="paper-entry"><a href="/papers/paper76" class="paper-title">Literary Canonicity and Algorithmic Fairness: The Effect of Author Gender on Classification Models</a><span class="paper-authors">Ida Marie S. Lassen, Pascale Feldkamp Moreira, Yuri Bizzoni and Kristoffer Nielbo</span></p>
+<p class="paper-entry"><a href="/papers/paper106" class="paper-title">Patterns of Quality: Comparing Reader Reception Across Fanfiction and Commercially Published Literature </a><span class="paper-authors">Mia Jacobsen, Yuri Bizzoni, Pascale Feldkamp Moreira, Kristoffer L. Nielbo</span></p>
+<p class="paper-entry"><a href="/papers/paper86" class="paper-title">Univariate Statistical Analysis of a Non-Canonical Literary Genre. Quantifying German-Language One-Act Plays (1740–1850)</a><span class="paper-authors">Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Lilly Welz, Carsten Milling</span></p>
 
 
 ### Session 3B: Stylometry
 
-<p class="paper-entry"><a href="/papers/paper15" class="paper-title">Abbreviation Application: A Stylochronometric Study of Abbreviations in the Oeuvre of Herne’s Speculum Scribe</a><span class="paper-authors">Caroline Vandyck and Mike Kestemont</span></p>
-<p class="paper-entry"><a href="/papers/paper61" class="paper-title">Bootstrap Distance Imposters: High Precision Authorship Verification with Improved Interpretability</a><span class="paper-authors">Ben Nagy</span></p>
+<p class="paper-entry"><a href="/papers/paper15" class="paper-title">Abbreviation Application: A Stylochronometric Study of Abbreviations in the Oeuvre of Herne’s Speculum Scribe</a><span class="paper-authors">Caroline Vandyck, Mike Kestemont</span></p>
+<p class="paper-entry"><a href="/papers/paper61" class="paper-title">Bootstrap Distance Imposters: High precision authorship verification with improved interpretability</a><span class="paper-authors">Ben Nagy</span></p>
 <p class="paper-entry"><a href="/papers/paper121" class="paper-title">Promises from an Inferential Approach in Classical Latin Authorship Attribution</a><span class="paper-authors">Giulio Tani Raffaelli</span></p>
-<p class="paper-entry"><a href="/papers/paper9" class="paper-title">Multilingual Stylometry: The influence of language and corpus composition on the performance of authorship attribution using corpora from the European Literary Text Collection (ELTeC)</a><span class="paper-authors">Christof Schoech, Julia Dudar, Evgeniia Fileva and Artjoms Šeļa</span></p>
+<p class="paper-entry"><a href="/papers/paper9" class="paper-title">Multilingual Stylometry: The influence of language on the performance of authorship attribution using corpora from the European Literary Text Collection (ELTeC)</a><span class="paper-authors">Christof Schöch, Julia Dudar, Evgeniia Fileva, Artjoms Šeļa</span></p>
 
 
 ### Session 4A: Large Language Models
 
-<p class="paper-entry"><a href="/papers/paper96" class="paper-title">Remember to forget: A study on verbatim memorization of literature in Large Language Models</a><span class="paper-authors">Xinhao Zhang, Olga Seminck and Pascal Amsili</span></p>
-<p class="paper-entry"><a href="/papers/paper122" class="paper-title">A Preliminary Analysis of ChatGPT's Poetic Style</a><span class="paper-authors">Melanie Walsh, Anna Preus and Elizabeth Gronski</span></p>
-<p class="paper-entry"><a href="/papers/paper119" class="paper-title">On Classification with Large Language Models in Cultural Analytics</a><span class="paper-authors">David Bamman, Kent Chang, Li Lucy and Naitian Zhou</span></p>
+<p class="paper-entry"><a href="/papers/paper96" class="paper-title">Remember to Forget: A Study on Verbatim Memorization of Literature in Large Language Models</a><span class="paper-authors">Xinhao Zhang, Olga Seminck, Pascal Amsili</span></p>
+<p class="paper-entry"><a href="/papers/paper122" class="paper-title">Does ChatGPT Have a Poetic Style?</a><span class="paper-authors">Melanie Walsh, Anna Preus, Elizabeth Gronski</span></p>
+<p class="paper-entry"><a href="/papers/paper119" class="paper-title">On Classification with Large Language Models in Cultural Analytics</a><span class="paper-authors">David Bamman, Kent K. Chang, Li Lucy and Naitian Zhou</span></p>
 
 
 ### Session 4B: Automatic Text Recognition
 
-<p class="paper-entry"><a href="/papers/paper30" class="paper-title">Does Context Matter? Enhancing Handwritten Text Recognition with Metadata in Historical Manuscripts</a><span class="paper-authors">Benjamin Kiessling and Thibault Clérice</span></p>
-<p class="paper-entry"><a href="/papers/paper35" class="paper-title">Enhancing Arabic Maghribi Handwritten Text Recognition with RASAM 2: A Comprehensive Dataset and Benchmarking</a><span class="paper-authors">Chahan Vidal-Gorène, Clément Salah, Noëmie Lucas, Aliénor Decours-Perez and Antoine Perrier</span></p>
-<p class="paper-entry"><a href="/papers/paper110" class="paper-title">Steps Towards Mining Manuscript Images for Untranscribed Texts: A Case Study from the Syriac Collection at the Vatican Library</a><span class="paper-authors">Luigi Bambaci, George Kiraz, Christine M. Roughan, Daniel Stökl Ben Ezra and Matthieu Freyder</span></p>
+<p class="paper-entry"><a href="/papers/paper30" class="paper-title">Does Context Matter ? Enhancing Handwritten Text Recognition with Metadata in Historical Manuscripts</a><span class="paper-authors">Benjamin Kiessling, Thibault Clérice</span></p>
+<p class="paper-entry"><a href="/papers/paper35" class="paper-title">Enhancing Arabic Maghribi Handwritten Text Recognition with RASAM 2: A Comprehensive Dataset and Benchmarking</a><span class="paper-authors">Chahan Vidal-Gorène, Clément Salah, Noëmie Lucas, Aliénor Decours-Perez, Antoine Perrier</span></p>
+<p class="paper-entry"><a href="/papers/paper110" class="paper-title">Steps Towards Mining Manuscript Images for Untranscribed Texts: A Case Study From the Syriac Collection at the Vatican Library</a><span class="paper-authors">Luigi Bambaci, George Kiraz, Christine Roughan, Matthieu Freyder, Daniel Stökl Ben Ezra</span></p>
 
 
 ### Session 5A: Linguistic Change
 
-<p class="paper-entry"><a href="/papers/paper18" class="paper-title">Quantifying Linguistic and Cultural Change in China, 1900-1950</a><span class="paper-authors">Spencer Stewart</span></p>
-<p class="paper-entry"><a href="/papers/paper21" class="paper-title">The Birth of French Orthography: A Computational Analysis of French Spelling Systems in Diachrony</a><span class="paper-authors">Simon Gabay and Thibault Clérice</span></p>
-<p class="paper-entry"><a href="/papers/paper60" class="paper-title">SCIENCE IS EXPLORATION: Computational Frontiers for Conceptual Metaphor Theory</a><span class="paper-authors">Rebecca M. M. Hicke and Ross Deans Kristensen-McLachlan</span></p>
+<p class="paper-entry"><a href="/papers/paper18" class="paper-title">A Methodology for Studying Linguistic and Cultural Change in China, 1900-1950</a><span class="paper-authors">Spencer Dean Stewart</span></p>
+<p class="paper-entry"><a href="/papers/paper21" class="paper-title">The birth of French orthography. A computational analysis of French spelling systems in diachrony</a><span class="paper-authors">Simon Gabay, Thibault Clérice</span></p>
+<p class="paper-entry"><a href="/papers/paper60" class="paper-title">SCIENCE IS EXPLORATION: Computational Frontiers for Conceptual Metaphor Theory</a><span class="paper-authors">Rebecca M. M. Hicke, Ross Deans Kristensen-McLachlan</span></p>
 
 
 ### Session 5B: Search & Discovery
 
-<p class="paper-entry"><a href="/papers/paper1" class="paper-title">Explainable Search and Discovery of Visual Cultural Heritage Collections with Multimodal Large Language Models</a><span class="paper-authors">Taylor Arnold</span></p>
-<p class="paper-entry"><a href="/papers/paper17" class="paper-title">Integrating Visual and Textual Inputs for Searching Large-Scale Map Collections with CLIP</a><span class="paper-authors">James Mahowald and Benjamin Lee</span></p>
-<p class="paper-entry"><a href="/papers/paper55" class="paper-title">Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway’s Digitised Book Collection</a><span class="paper-authors">Marie Roald, Magnus Breder Birkenes and Lars Johnsen</span></p>
+<p class="paper-entry"><a href="/papers/paper1" class="paper-title">Explainable Search and Discovery of Visual Cultural Heritage Collections with Multimodal Large Language Models</a><span class="paper-authors">Taylor Arnold, Lauren Tilton</span></p>
+<p class="paper-entry"><a href="/papers/paper17" class="paper-title">Integrating Visual and Textual Inputs for Searching Large-Scale Map Collections with CLIP</a><span class="paper-authors">Jamie Mahowald, Benjamin Charles Germain Lee</span></p>
+<p class="paper-entry"><a href="/papers/paper55" class="paper-title">Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway’s Digitised Book Collection</a><span class="paper-authors">Marie Roald, Magnus Breder Birkenes, Lars Gunnarsønn Bagøien Johnsen</span></p>
 
 
 ### Session 6A: Annotation
 
-<p class="paper-entry"><a href="/papers/paper75" class="paper-title">Combining Automatic Annotation Tools with Human Validation for the Semantic Enrichment of Cultural Heritage Metadata</a><span class="paper-authors">Eirini Kaldeli, Alexandros Chortaras, Vassilis Lyberatos, Jason Liartis, Spyridon Kantarelis and Giorgos Stamou</span></p>
-<p class="paper-entry"><a href="/papers/paper46" class="paper-title">Models of Literary Evaluation and Web 2.0: An Annotation Experiment with Goodreads Reviews</a><span class="paper-authors">Simone Rebora and Gabriele Vezzani</span></p>
-<p class="paper-entry"><a href="/papers/paper62" class="paper-title">Addressing Uncertainty According to the Annotator’s Expertise in Archaeological Data Collections: an Approach from Fuzzy Logic</a><span class="paper-authors">Patricia Martin-Rodilla and Leticia Tobalina</span></p>
-<p class="paper-entry"><a href="/papers/paper74" class="paper-title">Direct and Indirect Annotation with Generative AI: A Case Study into Finding Animals and Plants in Historical Text</a><span class="paper-authors">Arjan van Dalfsen, Folgert Karsdorp, Ayoub Bagheri, Thirza van Engelen, Dieuwertje Mentink and Els Stronks</span></p>
+<p class="paper-entry"><a href="/papers/paper75" class="paper-title">Combining Automatic Annotation with Human Validation for the Semantic Enrichment of Cultural Heritage Metadata</a><span class="paper-authors">Eirini Kaldeli, Alexandros Chortaras, Vassilis Lyberatos, Jason Liartis, Spyridon Kantarelis, Giorgos Stamou</span></p>
+<p class="paper-entry"><a href="/papers/paper46" class="paper-title">Models of Literary Evaluation and Web 2.0. An Annotation Experiment with Goodreads Reviews</a><span class="paper-authors">Simone Rebora, Gabriele Vezzani</span></p>
+<p class="paper-entry"><a href="/papers/paper62" class="paper-title">Addressing Uncertainty according to the Annotator's Expertise in Archaeological Data Collections: an Approach from Fuzzy Logic</a><span class="paper-authors">Patricia Martin-Rodilla, Leticia Tobalina-Pulido</span></p>
+<p class="paper-entry"><a href="/papers/paper74" class="paper-title">Direct and Indirect Annotation with Generative AI: A Case Study into Finding Animals and Plants in Historical Text</a><span class="paper-authors">Arjan van Dalfsen, Folgert Karsdorp, Ayoub Bagheri, Dieuwertje Mentink, Thirza van Engelen, Els Stronks</span></p>
 
 
 ### Session 6B: Multilingualism & Translation Studies
 
-<p class="paper-entry"><a href="/papers/paper104" class="paper-title">Textual Transmission without Borders: Multiple Multilingual Alignment and Stemmatology of the 'Lancelot en prose'</a><span class="paper-authors">Lucence Ing, Matthias Gille Levenson and Jean-Baptiste Camps</span></p>
+<p class="paper-entry"><a href="/papers/paper104" class="paper-title"> Textual Transmission without Borders: Multiple Multilingual Alignment and Stemmatology of the ``Lancelot en prose'' (Medieval French, Castilian, Italian)</a><span class="paper-authors">Matthias Gille Levenson, Lucence Ing, Jean-Baptiste Camps</span></p>
 <p class="paper-entry"><a href="/papers/paper128" class="paper-title">Automatic Translation Alignment Pipeline for Multilingual Digital Editions of Literary Works</a><span class="paper-authors">Maria Levchenko</span></p>
-<p class="paper-entry"><a href="/papers/paper135" class="paper-title">Early Modern Book Catalogues and Multilingualism: Identifying Multilingual Texts and Translations Using Titles</a><span class="paper-authors">Yann Ciarán Ryan and Margherita Fantoli</span></p>
+<p class="paper-entry"><a href="/papers/paper135" class="paper-title">Early Modern Book Catalogues and Multilingualism: Identifying Multilingual Texts and Translations using Titles</a><span class="paper-authors">Yann Ryan, Margherita Fantoli</span></p>
 <p class="paper-entry"><a href="/papers/paper42" class="paper-title">Computational Paleography of Medieval Hebrew Scripts</a><span class="paper-authors">Berat Kurar-Barakat, Daria Vasyutinsky-Shapira, Sharva Gogawale, Mohammad Suliman and Nachum Dershowitz</span></p>
 
 
 ### Session 7A: Social Patterns
 
-<p class="paper-entry"><a href="/papers/paper93" class="paper-title">And then I saw it: Testing Hypotheses on Turning Points in a Corpus of UFO Sighting Reports</a><span class="paper-authors">Jan Langenhorst, Robert C. Schuppe and Yannick Frommherz</span></p>
-<p class="paper-entry"><a href="/papers/paper13" class="paper-title">Beyond the Register: Demographic Modeling of Arrest Patterns in 1879-1880 Brussels</a><span class="paper-authors">Folgert Karsdorp, Mike Kestemont and Margo De Koster</span></p>
-<p class="paper-entry"><a href="/papers/paper39" class="paper-title">Epistemic Capture through Specialization in Post-World War II Parliamentary Debate</a><span class="paper-authors">Ruben Ros and Melvin Wevers</span></p>
-<p class="paper-entry"><a href="/papers/paper94" class="paper-title">Revolution + Love: Measuring the Entanglements of Violence and Emotions in Post-1949 China</a><span class="paper-authors">Maciej Kurzynski</span></p>
+<p class="paper-entry"><a href="/papers/paper93" class="paper-title">And then I saw it: Testing Hypotheses on Turning Points in a Corpus of UFO Sighting Reports</a><span class="paper-authors">Jan Langenhorst, Robert C. Schuppe, Yannick Frommherz</span></p>
+<p class="paper-entry"><a href="/papers/paper13" class="paper-title">Beyond the Register: Demographic Modeling of Arrest Patterns in 1879-1880 Brussels</a><span class="paper-authors">Folgert Karsdorp, Mike Kestemont, Margo de Koster</span></p>
+<p class="paper-entry"><a href="/papers/paper39" class="paper-title">Epistemic Capture through Specialization in Post-World War II Parliamentary Debate</a><span class="paper-authors">Ruben Ros, Melvin Wevers</span></p>
+<p class="paper-entry"><a href="/papers/paper94" class="paper-title">Revolution + Love: Measuring the Entanglements of State Violence and Emotions in Early PRC</a><span class="paper-authors">Maciej Kurzynski, Aaron Gilkison</span></p>
 
 
 ### Session 7B: Measuring Emotion & Sentiment
 
-<p class="paper-entry"><a href="/papers/paper67" class="paper-title">In the Context of Narrative, We Never Properly Defined the Concept of Valence</a><span class="paper-authors">Peter Boot, Angel Daza, Carsten Schnober and Willem van Hage</span></p>
-<p class="paper-entry"><a href="/papers/paper98" class="paper-title">Sentiment Below the Surface: Omissive and Evocative Strategies in Literature and Beyond</a><span class="paper-authors">Pascale Feldkamp, Ea Lindhardt Overgaard, Kristoffer Nielbo and Yuri Bizzoni</span></p>
-<p class="paper-entry"><a href="/papers/paper124" class="paper-title">Once More, With Feeling: Measuring Emotion of Acting Performances in Contemporary American Film</a><span class="paper-authors">Naitian Zhou and David Bamman</span></p>
+<p class="paper-entry"><a href="/papers/paper67" class="paper-title">In the Context of Narrative, we Never Properly Defined the Concept of Valence</a><span class="paper-authors">Peter Boot, Angel Daza, Carsten Schnober, Willem van Hage</span></p>
+<p class="paper-entry"><a href="/papers/paper98" class="paper-title">Sentiment Below the Surface: Omissive and Evocative Strategies in Literature and Beyond</a><span class="paper-authors">Pascale Feldkamp, Ea Overgaard Lindhardt, Kristoffer L. Nielbo, Yuri Bizzoni</span></p>
+<p class="paper-entry"><a href="/papers/paper124" class="paper-title">Once More, With Feeling: Measuring Emotion of Acting Performances in Contemporary American Film</a><span class="paper-authors">Naitian Zhou, David Bamman</span></p>
 
 
 ### Session 8A: Cultural Dynamics
 
-<p class="paper-entry"><a href="/papers/paper137" class="paper-title">On the Unity of Literary Change: The Development of Emotions in German Poetry, Prose, and Drama between 1850 and 1920 as a Test Case</a><span class="paper-authors">Leonard Konle, Merten Kröncke, Fotis Jannidis and Simone Winko</span></p>
-<p class="paper-entry"><a href="/papers/paper49" class="paper-title">Context is Key(NMF): Modelling Topical Information Dynamics in Chinese Diaspora Media</a><span class="paper-authors">Ross Deans Kristensen-McLachlan, Rebecca M. M. Hicke, Márton Kardos and Mette Thunø</span></p>
-<p class="paper-entry"><a href="/papers/paper70" class="paper-title">Locating the Leading Edge of Cultural Change</a><span class="paper-authors">Sarah Griebel, Becca Cohen, Lucian Li, Jiayu Liu, Jaihyun Park, Jana Perkins and Ted Underwood</span></p>
+<p class="paper-entry"><a href="/papers/paper137" class="paper-title">On the Unity of Literary Change. The Development of Emotions in German Poetry, Prose, and Drama between 1850 and 1920 as a Test Case</a><span class="paper-authors">Leonard Konle, Merten Kröncke, Fotis Jannidis, Simone Winko</span></p>
+<p class="paper-entry"><a href="/papers/paper49" class="paper-title">Context is Key(NMF): Modelling Topical Information Dynamics in Chinese Diaspora Media</a><span class="paper-authors">Ross Deans Kristensen-McLachlan, Rebecca M.M. Hicke, Márton Kardos, Mette Thunø</span></p>
+<p class="paper-entry"><a href="/papers/paper70" class="paper-title">Locating the Leading Edge of Cultural Change</a><span class="paper-authors">Sarah Griebel, Becca Cohen, Lucian Li, Jiayu Liu, Jaihyun Park, Jana Perkins, Ted Underwood</span></p>
 
 
 ### Session 8B: Popular Media
 
-<p class="paper-entry"><a href="/papers/paper132" class="paper-title">Treating Games as Plays? Computational Approaches to the Detection Scenes of Game Dialogs</a><span class="paper-authors">Martin Schlenk, Thomas Efer and Manuel Burghardt</span></p>
-<p class="paper-entry"><a href="/papers/paper57" class="paper-title">Admiration and Frustration: A Multidimensional Analysis of Fanfiction</a><span class="paper-authors">Mia Jacobsen and Ross Deans Kristensen-McLachlan</span></p>
-<p class="paper-entry"><a href="/papers/paper102" class="paper-title">Greatest Hits Versus Deep Cuts: Exploring Variety in Setlists Across Artists and Musical Genres</a><span class="paper-authors">Edward Abel and Andrew Goddard</span></p>
+<p class="paper-entry"><a href="/papers/paper132" class="paper-title">Treating Games as Plays? Computational Approaches to the Detection of Scenes in Game Dialogs</a><span class="paper-authors">Martin Schlenk, Thomas Efer, Manuel Burghardt</span></p>
+<p class="paper-entry"><a href="/papers/paper57" class="paper-title">Admiration and Frustration: A Multidimensional Analysis of Fanfiction</a><span class="paper-authors">Mia Jacobsen, Ross Deans Kristensen-McLachlan</span></p>
+<p class="paper-entry"><a href="/papers/paper102" class="paper-title">Greatest Hits Versus Deep Cuts: Exploring Variety in Set-lists Across Artists and Musical Genres</a><span class="paper-authors">Edward Abel, Andrew Goddard</span></p>
+
+
+### Poster Session
+
+<p class="paper-entry"><a href="/papers/paper4" class="paper-title">FAIR Turn in Epigraphy: Low Barrier Pathways to Quantitative and Reproducible Research in Latin Epigraphy</a><span class="paper-authors">Petra Heřmánková, Brian Ballsun-Stanton, Ray Laurence</span></p>
+<p class="paper-entry"><a href="/papers/paper5" class="paper-title">Sub-optimal Recall in Visual Cluster Retrieval: When Clusters Look Like Bridges</a><span class="paper-authors">Mathieu Jacomy, Matilde Ficozzi, Anders K. Munk</span></p>
+<p class="paper-entry"><a href="/papers/paper12" class="paper-title">Who Advertises in Newspapers? Data Criticism in Mining Historical Job Ads</a><span class="paper-authors">Klara Venglarova, Raven Adam, Wiltrud Mölzer, Saranya Balasubramanian, Jörn Kleinert, Manfred Füllsack, Georg Vogeler</span></p>
+<p class="paper-entry"><a href="/papers/paper23" class="paper-title">Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth</a><span class="paper-authors">Julia Neugarten, Tess Dejaeghere, Pranaydeep Singh, Amanda Robin Hemmons, Julie M. Birkholz</span></p>
+<p class="paper-entry"><a href="/papers/paper24" class="paper-title">Rediscovering the 1890s: A Norwegian Poetry Corpus</a><span class="paper-authors">Ranveig Kvinnsland, Ingerid Løyning Dale, Lars Magne Tungland</span></p>
+<p class="paper-entry"><a href="/papers/paper27" class="paper-title">Exploring the Evolution of Gender Power Difference through the Omegaverse Trope on AO3 Fanfiction</a><span class="paper-authors">Xiaoyan Yang, Federio Pianzola</span></p>
+<p class="paper-entry"><a href="/papers/paper28" class="paper-title">Automated Image Color Mapping for a Historic Photographic Collection</a><span class="paper-authors">Taylor Arnold, Lauren Tilton</span></p>
+<p class="paper-entry"><a href="/papers/paper29" class="paper-title">Getting to grippe with influenza: an investigation of why the disease is called that</a><span class="paper-authors">Maria Bekker-Nielsen Dunbar, Manex Agirrezabal, Tønnes Bekker-Nielsen</span></p>
+<p class="paper-entry"><a href="/papers/paper32" class="paper-title">Treebanks for the ordinary working grammarian</a><span class="paper-authors">Joel Priestley, Anders Nøklestad, Kristin Hagen, Anu Laanemets, Dag Trygve Truslew Haug</span></p>
+<p class="paper-entry"><a href="/papers/paper38" class="paper-title">Censorship as a Dissociative Force: A Case of Sovremennik Magazine, 1847–1866</a><span class="paper-authors">Ekaterina Vozhik, Kirill Maslinsky, Roman Lisiukov</span></p>
+<p class="paper-entry"><a href="/papers/paper41" class="paper-title">A quantitative study of gender representation and authors' gender in a large-market print medium</a><span class="paper-authors">Christoph Bartl, Sharwin Rezagholi, Mareike Schumacher</span></p>
+<p class="paper-entry"><a href="/papers/paper43" class="paper-title">Clustering Tasks and Decision Trees with Augustan Love Poets: Cohesion and Separation in Feature Importance Extraction</a><span class="paper-authors">Carlos Javier Nusch, Gimena Del Río Riande, Leticia Cagnina, Marcelo Luis Errecalde, Leandro Antonelli</span></p>
+<p class="paper-entry"><a href="/papers/paper56" class="paper-title">The discourse of the French method: making old knowledge on market gardening accessible to machines and humans.</a><span class="paper-authors">David Colliaux, Remi van Trijp</span></p>
+<p class="paper-entry"><a href="/papers/paper58" class="paper-title">Bringing Rome to Life: Evaluating Historical Image Generation</a><span class="paper-authors">Phillip B. Ströbel, Zejie Guo, Ülkü Karagöz, Eva Maria Willi, Felix K. Maier</span></p>
+<p class="paper-entry"><a href="/papers/paper63" class="paper-title">Across the Pages: A Comparative Study of Reader Response to Web Novels in Chinese and English on Qidian and WebNovel</a><span class="paper-authors">Ze Yu, Federico Pianzola</span></p>
+<p class="paper-entry"><a href="/papers/paper78" class="paper-title">Discoverability in a Digital Library: A Study of “Rabbit Holes” within Gallica’s corpus</a><span class="paper-authors">Anne-Laure Tettoni, Simon Dumas Primbault</span></p>
+<p class="paper-entry"><a href="/papers/paper80" class="paper-title">The GOLEM-Knowledge Graph and Search Interface: Perspectives into Narrative and Fiction</a><span class="paper-authors">Franziska Pannach, Luotong Cheng, Federico Pianzola</span></p>
+<p class="paper-entry"><a href="/papers/paper99" class="paper-title">Text Mining to unveil Prehistoric Pastness in Museums</a><span class="paper-authors">Haley Anne Schwartz, Paula Jardón Giner, Xavier Rubio Campillo</span></p>
+<p class="paper-entry"><a href="/papers/paper133" class="paper-title">Modeling the Evolution of Harmony in Popular Music from Different Cultural Contexts</a><span class="paper-authors">Fabian C. Moss, Eita Nakamura</span></p>
+<p class="paper-entry"><a href="/papers/paper139" class="paper-title">Fine-Tuning Pre-Trained Language Models for Authorship Attribution of the Pseudo-Dionysian Ars Rhetorica</a><span class="paper-authors">Gleb Schmidt, Veronica Vybornaya, Ivan P. Yamshchikov</span></p>
+<p class="paper-entry"><a href="/papers/paper140" class="paper-title">Sequencing Literary Reception: Trajectories of Russian Novels over the Afterlife Course</a><span class="paper-authors">Kim Alexander</span></p>

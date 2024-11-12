@@ -38,11 +38,11 @@
     }
 </style>
 <main role="main">
-<h2>In the Context of Narrative, We Never Properly Defined the Concept of Valence</h2>
+<h2>In the Context of Narrative, we Never Properly Defined the Concept of Valence</h2>
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Peter Boot, Angel Daza, Carsten Schnober and Willem van Hage</p>
+<p><strong>Authors:</strong> Peter Boot, Angel Daza, Carsten Schnober, Willem van Hage</p>
 <p><strong>Presented in</strong> <a href="/programme/#session7B">Session 7B: Measuring Emotion & Sentiment</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper67.pdf">Download PDF</a></p>
 </section>

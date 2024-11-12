@@ -38,11 +38,11 @@
     }
 </style>
 <main role="main">
-<h2>Revolution + Love: Measuring the Entanglements of Violence and Emotions in Post-1949 China</h2>
+<h2>Revolution + Love: Measuring the Entanglements of State Violence and Emotions in Early PRC</h2>
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(short paper)</i></p>
-<p><strong>Authors:</strong> Maciej Kurzynski</p>
+<p><strong>Authors:</strong> Maciej Kurzynski, Aaron Gilkison</p>
 <p><strong>Presented in</strong> <a href="/programme/#session7A">Session 7A: Social Patterns</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper94.pdf">Download PDF</a></p>
 </section>

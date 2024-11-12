@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(short paper)</i></p>
-<p><strong>Authors:</strong> Arjan van Dalfsen, Folgert Karsdorp, Ayoub Bagheri, Thirza van Engelen, Dieuwertje Mentink and Els Stronks</p>
+<p><strong>Authors:</strong> Arjan van Dalfsen, Folgert Karsdorp, Ayoub Bagheri, Dieuwertje Mentink, Thirza van Engelen, Els Stronks</p>
 <p><strong>Presented in</strong> <a href="/programme/#session6A">Session 6A: Annotation</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper74.pdf">Download PDF</a></p>
 </section>

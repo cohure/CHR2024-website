@@ -38,11 +38,11 @@
     }
 </style>
 <main role="main">
-<h2>Addressing Uncertainty According to the Annotator’s Expertise in Archaeological Data Collections: an Approach from Fuzzy Logic</h2>
+<h2>Addressing Uncertainty according to the Annotator's Expertise in Archaeological Data Collections: an Approach from Fuzzy Logic</h2>
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(short paper)</i></p>
-<p><strong>Authors:</strong> Patricia Martin-Rodilla and Leticia Tobalina</p>
+<p><strong>Authors:</strong> Patricia Martin-Rodilla, Leticia Tobalina-Pulido</p>
 <p><strong>Presented in</strong> <a href="/programme/#session6A">Session 6A: Annotation</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper62.pdf">Download PDF</a></p>
 </section>

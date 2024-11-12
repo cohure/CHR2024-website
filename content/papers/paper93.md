@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(short paper)</i></p>
-<p><strong>Authors:</strong> Jan Langenhorst, Robert C. Schuppe and Yannick Frommherz</p>
+<p><strong>Authors:</strong> Jan Langenhorst, Robert C. Schuppe, Yannick Frommherz</p>
 <p><strong>Presented in</strong> <a href="/programme/#session7A">Session 7A: Social Patterns</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper93.pdf">Download PDF</a></p>
 </section>
