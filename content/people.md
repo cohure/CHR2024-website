@@ -13,6 +13,7 @@ title: "People"
 - Kristoffer Nielbo, Center for Humanities Computing, Aarhus University
 - Line E. Sørensen, Center for Humanities Computing, Aarhus University
 - Ross Deans Kristensen-McLachlan, Center for Humanities Computing, Aarhus University
+- Mina Almasi, Center for Humanities Computing, Aarhus University
 
 ### Programme Committee  
 

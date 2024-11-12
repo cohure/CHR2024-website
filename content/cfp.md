@@ -66,11 +66,13 @@ of the two. More details will follow soon.
 
 <input class="filled-in" type="checkbox"><span>Deadline for updating submissions: <s>July 15, 2024, 23:59:59 UTC-12 (Anywhere on Earth)</s></span>
 
-<input class="filled-in" type="checkbox"><span>Notification to authors: September 16, 2024</span>
+<input class="filled-in" type="checkbox"><span>Notification to authors: <s>September 16, 2024</s></span>
 
-<input class="filled-in" type="checkbox"><span>Registration opens: September 17, 2024</span>
+<input class="filled-in" type="checkbox"><span>Registration opens: <s>September 17, 2024</s></span>
 
-<input class="filled-in" type="checkbox"><span>Deadline final, camera-ready version: 16 October, 2024</span>
+<input class="filled-in" type="checkbox"><span>Deadline final, camera-ready version: <s>16 October, 2024</s></span>
+
+<input class="filled-in" type="checkbox"><span>Deadline for <a href="https://events.au.dk/chr2024/">registration to the conference</a>: 25 November, 2024</span>
 
 <input class="filled-in" type="checkbox"><span>Pre-conference workshops: December 3, 2024</span>
 
