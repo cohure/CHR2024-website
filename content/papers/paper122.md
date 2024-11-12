@@ -44,7 +44,7 @@
 <p style='font-size:1rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Melanie Walsh, Anna Preus, Elizabeth Gronski</p>
 <p><strong>Presented in</strong> <a href="/programme/#session4A">Session 4A: Large Language Models</a></p>
-<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper122.pdf">Download PDF</a></p>
+<p><strong>Paper:</strong> LINK TBA</p>
 </section>
 
 <section>

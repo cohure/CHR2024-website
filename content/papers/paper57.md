@@ -44,7 +44,7 @@
 <p style='font-size:1rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Mia Jacobsen, Ross Deans Kristensen-McLachlan</p>
 <p><strong>Presented in</strong> <a href="/programme/#session8B">Session 8B: Popular Media</a></p>
-<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper57.pdf">Download PDF</a></p>
+<p><strong>Paper:</strong> LINK TBA</p>
 </section>
 
 <section>

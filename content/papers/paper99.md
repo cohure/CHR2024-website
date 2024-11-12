@@ -44,7 +44,7 @@
 <p style='font-size:1rem'><i>(poster)</i></p>
 <p><strong>Authors:</strong> Haley Anne Schwartz, Paula Jardón Giner, Xavier Rubio Campillo</p>
 <p><strong>Presented in</strong> <a href='/programme/#postersession'>Poster Session</a></p>
-<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper99.pdf">Download PDF</a></p>
+<p><strong>Paper:</strong> LINK TBA</p>
 </section>
 
 <section>
