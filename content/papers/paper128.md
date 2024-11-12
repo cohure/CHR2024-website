@@ -44,7 +44,7 @@
 <p style='font-size:1rem'><i>(short paper)</i></p>
 <p><strong>Authors:</strong> Maria Levchenko</p>
 <p><strong>Presented in</strong> <a href="/programme/#session6B">Session 6B: Multilingualism & Translation Studies</a></p>
-<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper128.pdf">Download PDF</a></p>
+<p><strong>Paper:</strong> LINK TBA</p>
 </section>
 
 <section>

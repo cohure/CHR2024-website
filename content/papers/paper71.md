@@ -44,7 +44,7 @@
 <p style='font-size:1rem'><i>(short paper)</i></p>
 <p><strong>Authors:</strong> Pepe Ballesteros Zapata, Nina Arnold, Vappu Lukander, Ludovica Schaerf, Dario Negueruela del Castillo</p>
 <p><strong>Presented in</strong> <a href="/programme/#session1A">Session 1A: Visual Arts and Art History</a></p>
-<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper71.pdf">Download PDF</a></p>
+<p><strong>Paper:</strong> LINK TBA</p>
 </section>
 
 <section>
