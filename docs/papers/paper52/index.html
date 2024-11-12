@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Computational Humanities Research 2024</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script>
+  <link rel="stylesheet" href=/css/main.css > 
+  <link rel="shortcut icon" href=/favicon.ico>
+</head>
+
+<body>
+        <div class="page-border"><header class="white"><nav class="white z-depth-0" role="navigation">
+  <div class="nav-wrapper container">
+    <a href="/" class="brand-logo">CHR2024</a>
+    <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+    <ul id="nav-mobile" class="right hide-on-med-and-down">
+      
+      
+      <li>
+        <a href="/cfp">CfP</a>
+      </li>
+      
+      <li>
+        <a href="/announcements">Announcements</a>
+      </li>
+      
+      <li>
+        <a href="/venue">Venue</a>
+      </li>
+      
+      <li>
+        <a href="/programme">Programme</a>
+      </li>
+      
+      <li>
+        <a href="/about">About</a>
+      </li>
+      
+      <li>
+        <a href="/hosting">CHR2025</a>
+      </li>
+      
+    </ul>
+  </div>
+</nav>
+
+<ul class="sidenav transparent z-depth-0" id="mobile-demo">
+  
+  
+<li>
+  <a href="/cfp" class="white-text">CfP</a>
+</li>
+
+<li>
+  <a href="/announcements" class="white-text">Announcements</a>
+</li>
+
+<li>
+  <a href="/venue" class="white-text">Venue</a>
+</li>
+
+<li>
+  <a href="/programme" class="white-text">Programme</a>
+</li>
+
+<li>
+  <a href="/about" class="white-text">About</a>
+</li>
+
+<li>
+  <a href="/hosting" class="white-text">CHR2025</a>
+</li>
+
+</ul>
+
+<script>
+  $(document).ready(function() {
+      $('.sidenav').sidenav();
+  });
+</script>
+</header><div class="bg--white">
+                <main>
+                <div class="section no-pad-bot">
+<div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+        <h2 class="header center"></h2>
+        <h3 class="header center"></h3>
+    </div>
+</div>
+<div class="container">
+    <div class="section content">
+        <style>    
+    h2 {
+        margin-top: 0;
+        margin-bottom: 1.5rem;
+        line-height: 1.3;
+    }
+    
+    h3 {
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        font-size: 1.4rem;
+        font-weight:bold;
+    }
+    
+    .metadata {
+        background-color: #f7fafc;
+        padding: 1rem;
+        border-radius: 6px;
+        margin-bottom: 2rem;
+    }
+    
+    .metadata p {
+        margin: 0.5rem 0;
+    }
+    
+    .abstract {
+        text-align: justify;
+        padding: 1rem;
+        background-color: #f7fafc;
+        border-left: 4px solid #2c5282;
+        border-radius: 0 6px 6px 0;
+    }
+    
+    strong {
+        color: #2d3748;
+        font-weight: 600;
+    }
+</style>
+<main role="main">
+<h2>Extracting social connections from Finnish Karelian refugee interviews using LLMs</h2>
+<section class="metadata">
+<p style='font-size:1rem'><i>(long paper)</i></p>
+<p><strong>Authors:</strong> Joonatan Laato, Jenna Kanerva, John Loehr, Virpi Lummaa and Filip Ginter</p>
+<p><strong>Presented in</strong> <a href="/programme/#session1B">Session 1B: Classification & Information Extraction</a></p>
+<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper52.pdf">Download PDF</a></p>
+</section>
+<section>
+<h3>Abstract</h3>
+<div class="abstract">
+<p>We performed a zero-shot information extraction study on a historical collection of 89,339 brief Finnish-language interviews of refugee families relocated post-WWII from Finnish Eastern Karelia. Our research objective is two-fold. First, we aim to extract social organizations and hobbies from the free text of the interviews, separately for each family member. These can act as a proxy variable indicating the degree of social integration of refugees in their new environment. Second, we aim to evaluate several alternative ways to approach this task, comparing a number of generative models and a supervised learning approach, to gain a broader insight into the relative merits of these different approaches and their applicability in similar studies.  We find that the best generative model (GPT-4) is roughly on par with human performance, at an F-score of 88.8 %. Interestingly, the best open generative model (Llama-3-70B-Instruct) reaches almost the same performance, at 87.7 %  F-score, demonstrating that open models are becoming a viable alternative for some practical tasks even on non-English data. Additionally, we test a supervised learning alternative, where we fine-tune a Finnish BERT model (FinBERT) using GPT-4 generated training data. By this method, we achieved an F-score of 84.1 %  already with 6K interviews up to an F-score of 86.3 %  with 30k interviews. Such an approach would be particularly appealing in cases where the computational resources are limited, or there is a substantial mass of data to process.</p>
+</div>
+</section>
+</main>
+    </div>
+</div>
+
+                </div>
+                </main> 
+            </div><footer class="page-footer docs-footer white">
+  <div class="container">
+    <div class="row center valign-wrapper">
+      <div class="col s12" style="color:black; text-transform: none;">
+        Follow us on: 
+        <a href="https://www.linkedin.com/company/computational-humanities-research"><img src="/images/linkedin.svg" alt="linkedin"></a> 
+        <a href="https://twitter.com/CompHumResearch"><img src="/images/twitter-x.svg" alt="twitter-x"></a> 
+        <a href="https://bsky.app/profile/comphumresearch.bsky.social"><img src="/images/bluesky.svg" alt="bluesky"></a> 
+      </div>    
+    </div>
+  </div>
+  <div class="container">
+    <div class="row center valign-wrapper">
+      <div class="col s4">
+        <img class="organization-logo" width="50%" src="/images/csm_CHC.png" alt = "Center For Humanities Computing"/>
+      </div>
+      <div class="col s4">
+        <img class="organization-logo" width="30%" src="/images/DigHumLab.png" alt = "DIGHUMLAB"/>
+      </div>      
+      <div class="col s4">
+        <img class="organization-logo" width="50%" src="/images/Aarhus_University_logo.svg.png" alt = "Aarhus University"/>
+      </div>
+    </div>
+  </div>
+  <div class="footer-copyright white">
+    <div class="container">
+      <a href="/code-of-conduct/" style="margin:auto; text-align:center; display:block;" >Code of conduct</a>
+      <p class="center-align">© 2024, Computational Humanities Research</p>
+    </div>
+  </div>
+</footer></div>
+    </body>
+</html>

@@ -79,11 +79,417 @@
       <description>In the arts and humanities, the use of computational, statistical, and mathematical approaches has considerably increased in recent years. This research is characterized by the use of formal methods and the construction of explicit, computational models. This includes quantitative, statistical approaches, but also more generally computational methods for processing and analyzing data, as well as theoretical reflections on these approaches. Despite the undeniable growth of this research area, many scholars still struggle to find suitable research-oriented venues to present and publish computational work that does not lose sight of traditional modes of inquiry in the arts and humanities.</description>
     </item>
     <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper1/</guid>
+      <description>Explainable Search and Discovery of Visual Cultural Heritage Collections with Multimodal Large Language Models (long paper)&#xA;Authors: Taylor Arnold&#xA;Presented in Session 5B: Search &amp; Discovery&#xA;Paper: Download PDF&#xA;Abstract Many cultural institutions have made large digitized visual collections available online, often under permissible re-use licences. Creating interfaces for exploring and searching these collections is difficult, particularly in the absence of granular metadata. In this paper, we introduce a method for using state-of-the-art multimodal large language models (LLMs) to enable an open-ended, explainable search and discovery interface for visual collections.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper102/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper102/</guid>
+      <description>Greatest Hits Versus Deep Cuts: Exploring Variety in Setlists Across Artists and Musical Genres (long paper)&#xA;Authors: Edward Abel and Andrew Goddard&#xA;Presented in Session 8B: Popular Media&#xA;Paper: Download PDF&#xA;Abstract Live music concert analysis provides an opportunity to explore cultural and historical trends. The art of set-list construction, of which songs to play, has many considerations for an artist, and the notion of how much variety different artists play is an interesting topic.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper104/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper104/</guid>
+      <description>Textual Transmission without Borders: Multiple Multilingual Alignment and Stemmatology of the &#39;Lancelot en prose&#39; (long paper)&#xA;Authors: Lucence Ing, Matthias Gille Levenson and Jean-Baptiste Camps&#xA;Presented in Session 6B: Multilingualism &amp; Translation Studies&#xA;Paper: Download PDF&#xA;Abstract This study focuses on the problem of multilingual medieval text alignment, which presents specific challenges, due to the absence of modern punctuation in the texts and the non-standard forms of medieval languages. In order to perform the alignment of several witnesses from the multilingual tradition of the prose Lancelot, we first develop an automatic text segmenter based on BERT and then align the produced segments using Bertalign.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper106/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper106/</guid>
+      <description>Patterns of Quality: Comparing Reader Reception Across Fanfiction and Published Literature (long paper)&#xA;Authors: Mia Jacobsen, Pascale Moreira, Kristoffer Nielbo and Yuri Bizzoni&#xA;Presented in Session 3A: Literary Canon &amp; Reception&#xA;Paper: Download PDF&#xA;Abstract Recent work on the textual features linked to literary quality has primarily focused on commercially published literature, such as canonical or best-selling novels, that are systematically filtered by editorial and market mechanisms. However, the biggest repositories of fiction texts currently in existence are free fanfiction websites, where fans post fictional stories about their favorite characters for the pleasure of writing and engaging with others.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper110/</guid>
+      <description>Steps Towards Mining Manuscript Images for Untranscribed Texts: A Case Study from the Syriac Collection at the Vatican Library (long paper)&#xA;Authors: Luigi Bambaci, George Kiraz, Christine M. Roughan, Daniel Stökl Ben Ezra and Matthieu Freyder&#xA;Presented in Session 4B: Automatic Text Recognition&#xA;Paper: Download PDF&#xA;Abstract Digital libraries and databases of texts are invaluable resources for researchers, yet their reliance on printed editions can lead to significant gaps and potentially exclude works without printed reproductions.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper119/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper119/</guid>
+      <description>On Classification with Large Language Models in Cultural Analytics (long paper)&#xA;Authors: David Bamman, Kent Chang, Li Lucy and Naitian Zhou&#xA;Presented in Session 4A: Large Language Models&#xA;Paper: Download PDF&#xA;Abstract In this work, we survey the way in which classification is used as a sensemaking practice in cultural analytics, and assess where large language models can fit into this landscape. We identify ten tasks supported by publicly available datasets on which we empirically assess the performance of LLMs compared to traditional supervised methods, and explore the ways in which LLMs can be employed for sensemaking goals beyond mere accuracy.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper121/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper121/</guid>
+      <description>Promises from an Inferential Approach in Classical Latin Authorship Attribution (short paper)&#xA;Authors: Giulio Tani Raffaelli&#xA;Presented in Session 3B: Stylometry&#xA;Paper: Download PDF&#xA;Abstract Applying stylometry to Authorship Attribution requires distilling the elements of an author&#39;s style sufficient to recognise their mark in anonymous documents. Often, this is accomplished by contrasting the frequency of selected features in the authors&#39; works. A recent approach, CP2D, uses innovation processes to infer the author&#39;s identity, accounting for their propensity to introduce new elements.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper122/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper122/</guid>
+      <description>A Preliminary Analysis of ChatGPT&#39;s Poetic Style (long paper)&#xA;Authors: Melanie Walsh, Anna Preus and Elizabeth Gronski&#xA;Presented in Session 4A: Large Language Models&#xA;Paper: Download PDF&#xA;Abstract Generating poetry has become a popular application of LLMs, perhaps especially of OpenAI&#39;s widely-used chatbot ChatGPT. What kind of poet is ChatGPT? Does ChatGPT have its own poetic style? Can it successfully produce poems in different styles? To answer these questions, we prompt the GPT-3.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper123/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper123/</guid>
+      <description>Deciphering Still Life Artworks with Linked Open Data (short paper)&#xA;Authors: Bruno Sartini&#xA;Presented in Session 1A: Visual Arts and Art History&#xA;Paper: Download PDF&#xA;Abstract The still life genre is a good example of how even the simplest elements depicted in an artwork can be carriers of deeper, symbolic meanings that influence the overall artistic interpretation of it. In this paper, we present an ongoing study on the use of linked open data (LOD) to quantitatively analyze the symbolic meanings of still life paintings.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper124/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper124/</guid>
+      <description>Once More, With Feeling: Measuring Emotion of Acting Performances in Contemporary American Film (long paper)&#xA;Authors: Naitian Zhou and David Bamman&#xA;Presented in Session 7B: Measuring Emotion &amp; Sentiment&#xA;Paper: Download PDF&#xA;Abstract Narrative film is a composition of writing, cinematography, editing, and performance. While much computational work has focused on the writing or visual style in film, we conduct in this paper a computational exploration of acting performance. Applying speech emotion recognition models and a variationist sociolinguistic analytical framework to a corpus of popular, contemporary American film, we find narrative structure, diachronic shifts, and genre- and dialogue-based constraints located in spoken performances.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper128/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper128/</guid>
+      <description>Automatic Translation Alignment Pipeline for Multilingual Digital Editions of Literary Works (short paper)&#xA;Authors: Maria Levchenko&#xA;Presented in Session 6B: Multilingualism &amp; Translation Studies&#xA;Paper: Download PDF&#xA;Abstract This paper investigates the application of translation alignment algorithms in the creation of a Multilingual Digital Edition (MDE) of Alessandro Manzoni&#39;s Italian novel I promessi sposi (``The Betrothed&#39;&#39;), with translations in eight languages (English, Spanish, French, German, Dutch, Polish, Russian and Chinese) from the 19th and 20th centuries.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper13/</guid>
+      <description>Beyond the Register: Demographic Modeling of Arrest Patterns in 1879-1880 Brussels (long paper)&#xA;Authors: Folgert Karsdorp, Mike Kestemont and Margo De Koster&#xA;Presented in Session 7A: Social Patterns&#xA;Paper: Download PDF&#xA;Abstract Unseen species models from ecology have recently been applied to censored historical cultural datasets to estimate unobserved populations. We extend this approach to historical criminology, analyzing the police registers of Brussels&#39; Amigo prison (1879-1880) using the Generalized Chao estimator.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper130/</guid>
+      <description>Characterizing the Subversion of Social Relationships on Television (long paper)&#xA;Authors: Kent Chang, Anna Ho and David Bamman&#xA;Presented in Session 1B: Classification &amp; Information Extraction&#xA;Paper: Download PDF&#xA;Abstract Television is often seen as a site for subcultural identification and subversive fantasy, including in queer cultures. How might we measure subversion, or the degree to which the depiction of social relationship between a dyad (e.g. two characters who are colleagues) deviates from its typical representation on TV?</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper132/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper132/</guid>
+      <description>Treating Games as Plays? Computational Approaches to the Detection Scenes of Game Dialogs (short paper)&#xA;Authors: Martin Schlenk, Thomas Efer and Manuel Burghardt&#xA;Presented in Session 8B: Popular Media&#xA;Paper: Download PDF&#xA;Abstract Digital games are a complex multimodal phenomenon that is examined in a variety of ways by the highly interdisciplinary field of game studies. In this article, we focus on the structural aspect of the diegetic language of games and examine the extent to which established methods of computational drama analysis can also be successfully applied to digital games.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper135/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper135/</guid>
+      <description>Early Modern Book Catalogues and Multilingualism: Identifying Multilingual Texts and Translations Using Titles (long paper)&#xA;Authors: Yann Ciarán Ryan and Margherita Fantoli&#xA;Presented in Session 6B: Multilingualism &amp; Translation Studies&#xA;Paper: Download PDF&#xA;Abstract With this paper we aim to assess whether Early Modern book titles can be exploited to track two aspects of multilingualism in book publishing: publications featuring multiple languages and the distinction between editions of works in their original language and in translation.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper137/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper137/</guid>
+      <description>On the Unity of Literary Change: The Development of Emotions in German Poetry, Prose, and Drama between 1850 and 1920 as a Test Case (long paper)&#xA;Authors: Leonard Konle, Merten Kröncke, Fotis Jannidis and Simone Winko&#xA;Presented in Session 8A: Cultural Dynamics&#xA;Paper: Download PDF&#xA;Abstract In this study, we use the development of emotions in German-language poetry, drama, and prose from 1850 to 1920 to informally test three hypotheses about literature: (1) Literature is a unified field, and therefore genres develop similarly at the same time.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper141/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper141/</guid>
+      <description>Computational Segmentation of Wayang Kulit Video Recordings using a Cross-Attention Temporal Model (short paper)&#xA;Authors: Shawn Hong Wei Liew and Miguel Escobar Varela&#xA;Presented in Session 1A: Visual Arts and Art History&#xA;Paper: Download PDF&#xA;Abstract We report preliminary findings on a novel approach to automatically segment Javanese wayang kulit (traditional leather puppet) performances using computational methods. We focus on identifying comic interludes, which have been the subject of scholarly debate regarding their increasing duration.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper15/</guid>
+      <description>Abbreviation Application: A Stylochronometric Study of Abbreviations in the Oeuvre of Herne’s Speculum Scribe (short paper)&#xA;Authors: Caroline Vandyck and Mike Kestemont&#xA;Presented in Session 3B: Stylometry&#xA;Paper: Download PDF&#xA;Abstract This research examines the Carthusian monastery of Herne, a major cultural hotspot during the Middle Ages. Between 1350 and 1400, the monks residing in Herne produced an impressive 46 production units, with 40 of them written in the Middle Dutch vernacular.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper17/</guid>
+      <description>Integrating Visual and Textual Inputs for Searching Large-Scale Map Collections with CLIP (long paper)&#xA;Authors: James Mahowald and Benjamin Lee&#xA;Presented in Session 5B: Search &amp; Discovery&#xA;Paper: Download PDF&#xA;Abstract Despite the prevalence and historical importance of maps in digital collections, current methods of navigating and exploring map collections are largely restricted to catalog records and structured metadata. In this paper, we explore the potential for interactively searching large-scale map collections using natural language inputs (``maps with sea monsters&#39;&#39;), visual inputs (i.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper18/</guid>
+      <description>Quantifying Linguistic and Cultural Change in China, 1900-1950 (long paper)&#xA;Authors: Spencer Stewart&#xA;Presented in Session 5A: Linguistic Change&#xA;Paper: Download PDF&#xA;Abstract This paper presents a quantitative approach to studying linguistic and cultural change in China during the first half of the twentieth century, a period that remains understudied in computational humanities research. The dramatic changes in Chinese language and culture during this time call for greater reflection on the tools and methods used for text analysis.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper19/</guid>
+      <description>Literary Time Travel: Distinguishing Past and Contemporary Worlds in Danish and Norwegian Fiction (long paper)&#xA;Authors: Jens Bjerring-Hansen, Ali Al-Laith, Daniel Hershcovich, Alexander Conroy and Sebastian Ørtoft Rasmussen&#xA;Presented in Session 2A: Literature&#xA;Paper: Download PDF&#xA;Abstract The classification of historical and contemporary novels is a nuanced task that has traditionally relied on expert literary analysis. This paper introduces a novel dataset comprising Danish and Norwegian novels from the last 30 years of the 19 th century, annotated by literary scholars to distinguish between historical and contemporary works.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper20/</guid>
+      <description>Viability of Zero-Shot Classification and Search of Historical Photos (long paper)&#xA;Authors: Erika Maksimova, Mari-Anna Meimer, Mari Piirsalu and Priit Järv&#xA;Presented in Session 1A: Visual Arts and Art History&#xA;Paper: Download PDF&#xA;Abstract Multimodal neural networks are models that learn concepts in multiple modalities. The models can perform tasks like zero-shot classification: associating images with textual labels without specific training. This promises both easier and more flexible use of digital photo archives, e.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper21/</guid>
+      <description>The Birth of French Orthography: A Computational Analysis of French Spelling Systems in Diachrony (long paper)&#xA;Authors: Simon Gabay and Thibault Clérice&#xA;Presented in Session 5A: Linguistic Change&#xA;Paper: Download PDF&#xA;Abstract The 17th~c. is crucial for the French language, as it sees the creation of a strict orthographic norm that largely persists to this day. Despite its significance, the history of spelling systems remains however an overlooked area in French linguistics for two reasons.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper30/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper30/</guid>
+      <description>Does Context Matter? Enhancing Handwritten Text Recognition with Metadata in Historical Manuscripts (long paper)&#xA;Authors: Benjamin Kiessling and Thibault Clérice&#xA;Presented in Session 4B: Automatic Text Recognition&#xA;Paper: Download PDF&#xA;Abstract The digitization of historical manuscripts has significantly advanced in recent decades, yet many documents remain as images without machine-readable text. Handwritten Text Recognition (HTR) has emerged as a crucial tool for converting these images into text, facilitating large-scale analysis of historical collections.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper35/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper35/</guid>
+      <description>Enhancing Arabic Maghribi Handwritten Text Recognition with RASAM 2: A Comprehensive Dataset and Benchmarking (long paper)&#xA;Authors: Chahan Vidal-Gorène, Clément Salah, Noëmie Lucas, Aliénor Decours-Perez and Antoine Perrier&#xA;Presented in Session 4B: Automatic Text Recognition&#xA;Paper: Download PDF&#xA;Abstract Recent advancements in handwritten text recognition (HTR) for historical documents have demonstrated high performance on cursive Arabic scripts, achieving accuracy comparable to Latin scripts. The initial RASAM dataset, focused on three Arabic Maghribi manuscripts, facilitated rapid coverage of new documents via fine-tuning.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper36/</guid>
+      <description>Global Coherence, Local Uncertainty: Towards a Theoretical Framework for Assessing Literary Quality (short paper)&#xA;Authors: Yuri Bizzoni, Pascale Moreira and Kristoffer Nielbo&#xA;Presented in Session 2A: Literature&#xA;Paper: Download PDF&#xA;Abstract A theoretical framework for evaluating literary quality through analyzing narrative structures using simplified narrative representations in the form of story arcs is presented. This framework proposes two complementary models: the first employs Approximate Entropy to measure local unpredictability, while the second utilizes fractal analysis to assess global coherence.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper39/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper39/</guid>
+      <description>Epistemic Capture through Specialization in Post-World War II Parliamentary Debate (long paper)&#xA;Authors: Ruben Ros and Melvin Wevers&#xA;Presented in Session 7A: Social Patterns&#xA;Paper: Download PDF&#xA;Abstract This study examines specialization in Dutch Lower House debates between 1945 and 1994. We study how specialization translates in the phenomenon of ``epistemic capture&#39;&#39; in democratic politics. We combine topic modeling, network analysis and community detection to complement lexical ``distant reading&#39;&#39; approaches the history of political ideas with a network-based analysis that illuminates political-intellectual processes.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper42/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper42/</guid>
+      <description>Computational Paleography of Medieval Hebrew Scripts (short paper)&#xA;Authors: Berat Kurar-Barakat, Daria Vasyutinsky-Shapira, Sharva Gogawale, Mohammad Suliman and Nachum Dershowitz&#xA;Presented in Session 6B: Multilingualism &amp; Translation Studies&#xA;Paper: Download PDF&#xA;Abstract We present ongoing work as part of an international multidisciplinary project, called MiDRASH, on the computational analysis of medieval manuscripts. We focus here on clustering manuscripts written in Ashkenazi square script using a dataset of 206 pages from 59 manuscripts.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper46/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper46/</guid>
+      <description>Models of Literary Evaluation and Web 2.0: An Annotation Experiment with Goodreads Reviews (long paper)&#xA;Authors: Simone Rebora and Gabriele Vezzani&#xA;Presented in Session 6A: Annotation&#xA;Paper: Download PDF&#xA;Abstract In the context of the Web 2.0, user-genrated reviews are becoming more and more prominent. The particular case of book reviews, often shared through digital social reading platforms such as Goodreads or Wattpad, is of particular interest, in that it offers scholars data regarding literary reception of unprecedented size and diversity.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper49/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper49/</guid>
+      <description>Context is Key(NMF): Modelling Topical Information Dynamics in Chinese Diaspora Media (long paper)&#xA;Authors: Ross Deans Kristensen-McLachlan, Rebecca M. M. Hicke, Márton Kardos and Mette Thunø&#xA;Presented in Session 8A: Cultural Dynamics&#xA;Paper: Download PDF&#xA;Abstract Does the People&#39;s Republic of China (PRC) interfere with European elections through ethnic Chinese diaspora media? This question forms the basis of an ongoing research project exploring how PRC narratives about European elections are represented in Chinese diaspora media, and thus the objectives of PRC news media manipulation.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper52/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper52/</guid>
+      <description>Extracting social connections from Finnish Karelian refugee interviews using LLMs (long paper)&#xA;Authors: Joonatan Laato, Jenna Kanerva, John Loehr, Virpi Lummaa and Filip Ginter&#xA;Presented in Session 1B: Classification &amp; Information Extraction&#xA;Paper: Download PDF&#xA;Abstract We performed a zero-shot information extraction study on a historical collection of 89,339 brief Finnish-language interviews of refugee families relocated post-WWII from Finnish Eastern Karelia. Our research objective is two-fold. First, we aim to extract social organizations and hobbies from the free text of the interviews, separately for each family member.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper55/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper55/</guid>
+      <description>Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway’s Digitised Book Collection (short paper)&#xA;Authors: Marie Roald, Magnus Breder Birkenes and Lars Johnsen&#xA;Presented in Session 5B: Search &amp; Discovery&#xA;Paper: Download PDF&#xA;Abstract Digital tools for text analysis have long been essential for the searchability and accessibility of digitised library collections. Recent computer vision advances have introduced similar capabilities for visual materials, with deep learning-based embeddings showing promise for analysing visual heritage.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper57/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper57/</guid>
+      <description>Admiration and Frustration: A Multidimensional Analysis of Fanfiction (long paper)&#xA;Authors: Mia Jacobsen and Ross Deans Kristensen-McLachlan&#xA;Presented in Session 8B: Popular Media&#xA;Paper: Download PDF&#xA;Abstract Why do people write fanfiction? How, if at all, does fanfiction differ from the source material on which it is based? In this paper, we use quantitative text analysis to address these questions by investigating linguistic differences and similarities between fan-produced texts and their original sources.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper59/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper59/</guid>
+      <description>Recognizing Non-named Spatial Entities in Literary Texts: A Novel Spatial Entities Classifier (short paper)&#xA;Authors: Daniel Kababgi, Giulia Grisot, Federico Pennino and Berenike Herrmann&#xA;Presented in Session 2A: Literature&#xA;Paper: Download PDF&#xA;Abstract Predicting spatial representations in literature is a challenging task that requires advanced machine learning methods and manual annotations. In this paper, we present a study that leverages manual annotations and a BERT language model to automatically detect and recognise non-named spatial entities in a historical corpus of Swiss novels.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper6/</guid>
+      <description>Quantitative Framework for Word-Color Association and Application to 20th Century Anglo-American Poetry (long paper)&#xA;Authors: Sungpil Wang and Juyong Park&#xA;Presented in Session 2B: Semantic Analysis&#xA;Paper: Download PDF&#xA;Abstract Color symbolism is considered a critical element in art and literature, yet determining the relationship between colors and words has remained largely subjective. This research presents a systematic methodology for quantifying the correlation between language and color. We utilize text-based image search, optical character recognition (OCR), and advanced image processing techniques to establish a connection between words and their corresponding color distributions in the CIELch color space.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper60/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper60/</guid>
+      <description>SCIENCE IS EXPLORATION: Computational Frontiers for Conceptual Metaphor Theory (short paper)&#xA;Authors: Rebecca M. M. Hicke and Ross Deans Kristensen-McLachlan&#xA;Presented in Session 5A: Linguistic Change&#xA;Paper: Download PDF&#xA;Abstract Metaphors are everywhere. They appear extensively across all domains of natural language, from the most sophisticated poetry to seemingly dry academic prose. A significant body of research in the cognitive science of language argues for the existence of conceptual metaphors, the systematic structuring of one domain of experience in the language of another.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper61/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper61/</guid>
+      <description>Bootstrap Distance Imposters: High Precision Authorship Verification with Improved Interpretability (long paper)&#xA;Authors: Ben Nagy&#xA;Presented in Session 3B: Stylometry&#xA;Paper: Download PDF&#xA;Abstract This paper describes an update to the open-source Python implementation of the General Imposters method of authorship verification by Mike Kestemont et al. The new algorithm, called Bootstrap Distance Imposters (henceforth BDI), incorporates a key improvement introduced by Potha and Stamatatos, as well as introducing a novel method of bootstrapping that has several attractive properties when compared to the reference algorithm.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper62/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper62/</guid>
+      <description>Addressing Uncertainty According to the Annotator’s Expertise in Archaeological Data Collections: an Approach from Fuzzy Logic (short paper)&#xA;Authors: Patricia Martin-Rodilla and Leticia Tobalina&#xA;Presented in Session 6A: Annotation&#xA;Paper: Download PDF&#xA;Abstract Archaeological data allow us to synthetically represent the past of individuals and communities over time. This complex representation task requires an amalgamation of variables and makes the intrinsic data vagueness. The study of vagueness as an archaeological data dimension has become a dynamic focus of archaeologists&#39; work in recent years, presenting theoretical and practical approaches for the representation, mainly with fuzzy logic, of archaeological variables.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper67/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper67/</guid>
+      <description>In the Context of Narrative, We Never Properly Defined the Concept of Valence (long paper)&#xA;Authors: Peter Boot, Angel Daza, Carsten Schnober and Willem van Hage&#xA;Presented in Session 7B: Measuring Emotion &amp; Sentiment&#xA;Paper: Download PDF&#xA;Abstract Valence is a concept that is increasingly being used in the computational study of narrative texts. We discuss the history of the concept and show that the word has been interpreted in various ways.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper70/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper70/</guid>
+      <description>Locating the Leading Edge of Cultural Change (short paper)&#xA;Authors: Sarah Griebel, Becca Cohen, Lucian Li, Jiayu Liu, Jaihyun Park, Jana Perkins and Ted Underwood&#xA;Presented in Session 8A: Cultural Dynamics&#xA;Paper: Download PDF&#xA;Abstract Measures of textual similarity and divergence are increasingly used to study cultural change. But which measures align, in practice, with social evidence about change? We apply three different representations of text (topic models, document embeddings, and word-level perplexity) to three different corpora (literary studies, economics, and fiction).</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper71/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper71/</guid>
+      <description>Transformation of Composition and Gaze Interaction in Noli Me Tangere Depictions from 1300–1600 (short paper)&#xA;Authors: Pepe Ballesteros Zapata, Nina Arnold, Vappu Vilhelmiina Lukander, Ludovica Schaerf and Dario Negueruela del Castillo&#xA;Presented in Session 1A: Visual Arts and Art History&#xA;Paper: Download PDF&#xA;Abstract This paper examines the development of figure composition and gaze dynamics between Mary Magdalene and Christ in Italian noli me tangere depictions from 1300 to 1600 in the context of the emergence of perspective painting.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper73/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper73/</guid>
+      <description>Page Embeddings: Extracting and Classifying Historical Documents with Generic Vector Representations (short paper)&#xA;Authors: Carsten Schnober, Renate Smit, Manjusha Kuruppath, Kay Pepping, Leon van Wissen and Lodewijk Petram&#xA;Presented in Session 1B: Classification &amp; Information Extraction&#xA;Paper: Download PDF&#xA;Abstract We propose a neural network architecture designed to generate region and page embeddings for boundary detection and classification of documents within a large and heterogeneous historical archive. Our approach is versatile and can be applied to other tasks and datasets.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper74/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper74/</guid>
+      <description>Direct and Indirect Annotation with Generative AI: A Case Study into Finding Animals and Plants in Historical Text (short paper)&#xA;Authors: Arjan van Dalfsen, Folgert Karsdorp, Ayoub Bagheri, Thirza van Engelen, Dieuwertje Mentink and Els Stronks&#xA;Presented in Session 6A: Annotation&#xA;Paper: Download PDF&#xA;Abstract This study explores the use of generative AI (GenAI) for annotation in the humanities, comparing direct and indirect annotation approaches with human annotations. Direct annotation involves using GenAI to annotate the entire corpus, while indirect annotation uses GenAI to create training data for a specialized model.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper75/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper75/</guid>
+      <description>Combining Automatic Annotation Tools with Human Validation for the Semantic Enrichment of Cultural Heritage Metadata (long paper)&#xA;Authors: Eirini Kaldeli, Alexandros Chortaras, Vassilis Lyberatos, Jason Liartis, Spyridon Kantarelis and Giorgos Stamou&#xA;Presented in Session 6A: Annotation&#xA;Paper: Download PDF&#xA;Abstract The addition of controlled terms from linked open datasets and vocabularies to metadata can increase the discoverability and accessibility of digital collections. However, the task of semantic enrichment requires a lot of effort and resources that cultural heritage organizations often lack.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper76/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper76/</guid>
+      <description>Literary Canonicity and Algorithmic Fairness: The Effect of Author Gender on Classification Models (long paper)&#xA;Authors: Ida Marie S. Lassen, Pascale Feldkamp, Yuri Bizzoni and Kristoffer Nielbo&#xA;Presented in Session 3A: Literary Canon &amp; Reception&#xA;Paper: Download PDF&#xA;Abstract This study examines gender biases in machine learning models that predict literary canonicity. Using algorithmic fairness metrics like equality of opportunity, equalised odds, and calibration within groups, we show that models violate the fairness metrics, especially by misclassifying non-canonical books by men as canonical.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper79/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper79/</guid>
+      <description>Exploration of Event Extraction Techniques in Late Medieval and Early Modern Administrative Records (short paper)&#xA;Authors: Ismail Prada Ziegler&#xA;Presented in Session 1B: Classification &amp; Information Extraction&#xA;Paper: Download PDF&#xA;Abstract While an increasing amount of studies exploring named entity recognition in historical corpora are published, application of other information extraction tasks such as event extraction remains scarce. This study explores two accessible methods to facilitate the detection of events and the classification of entities into roles: rule-based systems and RNN-based machine learning techniques.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper82/</guid>
+      <description>Assessing Landscape Intervisibility and Prominence at Regional Scale (short paper)&#xA;Authors: Adela Sobotkova&#xA;Presented in Session 1A: Visual Arts and Art History&#xA;Paper: Download PDF&#xA;Abstract Visibility and intervisibility have been important aspects of spatial analysis in landscape archaeological studies, but remain hampered by computational intensity, small-scale study area, edge effects, and bare-earth digital elevation models. This paper assesses intervisibility and prominence in a dataset of over 1000 burial mounds in the Middle Tundzha River watershed in Bulgaria.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper86/</guid>
+      <description>Univariate Statistical Analysis of a Non-Canonical Literary Genre: Quantifying German-Language One-Act Plays (1740–1850) (long paper)&#xA;Authors: Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer and Lilly Welz&#xA;Presented in Session 3A: Literary Canon &amp; Reception&#xA;Paper: Download PDF&#xA;Abstract This article explores the use of metadata to analyse German-language one-act plays from 1740 to 1850, addressing the need to expand beyond canonical texts in literary studies. Utilising the Database of German-Language One-Act Plays, we examine aspects such as the number of scenes and characters as well as the role of different original languages on which the translated plays in the corpus are based.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper9/</guid>
+      <description>Multilingual Stylometry: The influence of language and corpus composition on the performance of authorship attribution using corpora from the European Literary Text Collection (ELTeC) (long paper)&#xA;Authors: Christof Schoech, Julia Dudar, Evgeniia Fileva and Artjoms Šeļa&#xA;Presented in Session 3B: Stylometry&#xA;Paper: Download PDF&#xA;Abstract Stylometric authorship attribution is concerned with the task of assigning texts of unknown, pseudonymous or disputed authorship to their most likely author, often based on a comparison of the frequency of a selected set of features that represent the texts.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper90/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper90/</guid>
+      <description>Animacy in German Folktales (short paper)&#xA;Authors: Julian Häußler, Janis von Keitz and Evelyn Gius&#xA;Presented in Session 2A: Literature&#xA;Paper: Download PDF&#xA;Abstract This paper explores the phenomenon of animacy in prose by the example of German folktales. We present a manually annotated corpus of 19 German folktales from the Brothers Grimm collection and train a classifier on these annotations. Building on previous work in animacy detection, we evaluate the classifier’s performance and its application to a larger corpus.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper92/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper92/</guid>
+      <description>Domain Adaptation with Linked Encyclopedic Data: A Case Study for Historical German (long paper)&#xA;Authors: Thora Hagen&#xA;Presented in Session 2B: Semantic Analysis&#xA;Paper: Download PDF&#xA;Abstract This paper outlines a proposal for the use of knowledge graphs for historical German domain adaptation. From the EncycNet project, the encyclopedia-based knowledge graph from the early 20th century was borrowed to examine whether text-based domain adaptation using the source encyclopedia&#39;s text or graph-based adaptation produces a better domain-specific model.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper93/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper93/</guid>
+      <description>And then I saw it: Testing Hypotheses on Turning Points in a Corpus of UFO Sighting Reports (short paper)&#xA;Authors: Jan Langenhorst, Robert C. Schuppe and Yannick Frommherz&#xA;Presented in Session 7A: Social Patterns&#xA;Paper: Download PDF&#xA;Abstract As part of developing a Computational Narrative Understanding, modeling events within stories has recently received significant attention within the digital humanities community. Most of the current research aims at good performance when predicting events.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper94/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper94/</guid>
+      <description>Revolution + Love: Measuring the Entanglements of Violence and Emotions in Post-1949 China (short paper)&#xA;Authors: Maciej Kurzynski&#xA;Presented in Session 7A: Social Patterns&#xA;Paper: Download PDF&#xA;Abstract This paper examines the relationship between violent discourse and emotional intensity in the early revolutionary rhetoric of the People&#39;s Republic of China (PRC). Using two fine-tuned bert-base-chinese models—one for detecting violent content in texts and another for assessing their affective charge—we analyze over 185,000 articles published between 1956 and 1989 in the People&#39;s Liberation Army Daily ( Jiefangjun Bao ), the official journal of China&#39;s armed forces.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper95/</guid>
+      <description>Tracing the Development of the Virtual Particle Concept Using Semantic Change Detection (long paper)&#xA;Authors: Michael Zichert and Adrian Wüthrich&#xA;Presented in Session 2B: Semantic Analysis&#xA;Paper: Download PDF&#xA;Abstract Virtual particles are peculiar objects. They figure prominently in much of theoretical and experimental research in elementary particle physics. But exactly what they are is far from obvious. In particular, to what extent they should be considered real remains a matter of controversy in philosophy of science.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper96/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper96/</guid>
+      <description>Remember to forget: A study on verbatim memorization of literature in Large Language Models (long paper)&#xA;Authors: Xinhao Zhang, Olga Seminck and Pascal Amsili&#xA;Presented in Session 4A: Large Language Models&#xA;Paper: Download PDF&#xA;Abstract We examine the extent to which English and French literature is memorized by freely accessible LLMs, using a name cloze inference task (which focuses on the model&#39;s ability to recall proper names from a book).</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper97/</guid>
+      <description>Latent Structures of Intertextuality in French Fiction (short paper)&#xA;Authors: Jean Barré&#xA;Presented in Session 2A: Literature&#xA;Paper: Download PDF&#xA;Abstract Intertextuality is a key concept in literary theory that challenges traditional notions of text, signification or authorship. It views texts as part of a vast intertextual network that is constantly evolving and being reconfigured. This paper argues that the field of computational literary studies is the ideal place to conduct a study of intertextuality since we have now the ability to systematically compare texts with each others.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://2024.computational-humanities-research/papers/paper98/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/paper98/</guid>
+      <description>Sentiment Below the Surface: Omissive and Evocative Strategies in Literature and Beyond (long paper)&#xA;Authors: Pascale Feldkamp, Ea Lindhardt Overgaard, Kristoffer Nielbo and Yuri Bizzoni&#xA;Presented in Session 7B: Measuring Emotion &amp; Sentiment&#xA;Paper: Download PDF&#xA;Abstract As they represent one of the most complex forms of expression, literary texts continue to challenge Sentiment Analysis (SA) tools, often developed for other domains. At the same time, SA is becoming an increasingly central method in literary analysis itself, which raises the question of what are the challenges inherent to literary SA.</description>
+    </item>
+    <item>
       <title>About</title>
       <link>http://2024.computational-humanities-research/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/about/</guid>
       <description> The Computational Humanities Research (CHR) community is an international and interdisciplinary community that supports researchers with an interest in computational approaches to the humanities. Learn more about the people behind CHR2024 and the organisation of CHR: People → Community → Archive → </description>
+    </item>
+    <item>
+      <title>Accepted Papers</title>
+      <link>http://2024.computational-humanities-research/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://2024.computational-humanities-research/papers/</guid>
+      <description>Session 1A: Visual Arts and Art History Viability of Zero-Shot Classification and Search of Historical PhotosErika Maksimova, Mari-Anna Meimer, Mari Piirsalu and Priit Järv&#xA;Transformation of Composition and Gaze Interaction in Noli Me Tangere Depictions from 1300–1600Pepe Ballesteros Zapata, Nina Arnold, Vappu Vilhelmiina Lukander, Ludovica Schaerf and Dario Negueruela del Castillo&#xA;Deciphering Still Life Artworks with Linked Open DataBruno Sartini&#xA;Computational Segmentation of Wayang Kulit Video Recordings using a Cross-Attention Temporal ModelShawn Hong Wei Liew and Miguel Escobar Varela</description>
     </item>
     <item>
       <title>Accomodation in Aarhus</title>
@@ -104,7 +510,7 @@
       <link>http://2024.computational-humanities-research/programme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/programme/</guid>
-      <description>Programme for the pre-conference workshops on Tuesday, 3rd December 2024, and the main conference days on Wednesday, Thursday, and Friday, 4th-6th December 2024.&#xA;Please note that all times are in Central European Time (CET)&#xA;Tuesday Wednesday Thursday Friday Tuesday, December 3, 2024 (Pre-conference workshops) 09:00-12:30: Workshop sessions 12:30-13:30: Lunch 13:30-17:00: Workshop sessions Parallel Workshops Digital Methods for Mythological Research dm4myth aims to bring together researchers from various disciplines who are interested in studying myths with digital tools and methods.</description>
+      <description>Programme for the pre-conference workshops on Tuesday, 3rd December 2024, and the main conference days on Wednesday, Thursday, and Friday, 4th-6th December 2024.&#xA;You can also get an overview of all accepted papers here.&#xA;Note: Changes may occur in the programme. Please check regularly for the latest information.&#xA;Tuesday Wednesday Thursday Friday Tuesday, December 3, 2024 (Pre-conference workshops) Note: Times are in Central European Time (CET)&#xA;09:00-12:30: Workshop sessions 12:30-13:30: Lunch 13:30-17:00: Workshop sessions Parallel Workshops Digital Methods for Mythological Research dm4myth aims to bring together researchers from various disciplines who are interested in studying myths with digital tools and methods.</description>
     </item>
     <item>
       <title>Conference Dinner at Restaurant Havnær</title>
