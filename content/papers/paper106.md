@@ -38,11 +38,11 @@
     }
 </style>
 <main role="main">
-<h2>Patterns of Quality: Comparing Reader Reception Across Fanfiction and Published Literature</h2>
+<h2>Patterns of Quality: Comparing Reader Reception Across Fanfiction and Commercially Published Literature </h2>
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Mia Jacobsen, Pascale Moreira, Kristoffer Nielbo and Yuri Bizzoni</p>
+<p><strong>Authors:</strong> Mia Jacobsen, Yuri Bizzoni, Pascale Feldkamp Moreira, Kristoffer L. Nielbo</p>
 <p><strong>Presented in</strong> <a href="/programme/#session3A">Session 3A: Literary Canon & Reception</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper106.pdf">Download PDF</a></p>
 </section>

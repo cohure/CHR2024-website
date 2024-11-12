@@ -38,7 +38,7 @@
     }
 </style>
 <main role="main">
-<h2>Bootstrap Distance Imposters: High Precision Authorship Verification with Improved Interpretability</h2>
+<h2>Bootstrap Distance Imposters: High precision authorship verification with improved interpretability</h2>
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>

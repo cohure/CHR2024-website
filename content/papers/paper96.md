@@ -38,11 +38,11 @@
     }
 </style>
 <main role="main">
-<h2>Remember to forget: A study on verbatim memorization of literature in Large Language Models</h2>
+<h2>Remember to Forget: A Study on Verbatim Memorization of Literature in Large Language Models</h2>
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Xinhao Zhang, Olga Seminck and Pascal Amsili</p>
+<p><strong>Authors:</strong> Xinhao Zhang, Olga Seminck, Pascal Amsili</p>
 <p><strong>Presented in</strong> <a href="/programme/#session4A">Session 4A: Large Language Models</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper96.pdf">Download PDF</a></p>
 </section>

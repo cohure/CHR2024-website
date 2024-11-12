@@ -38,11 +38,11 @@
     }
 </style>
 <main role="main">
-<h2>Extracting social connections from Finnish Karelian refugee interviews using LLMs</h2>
+<h2>Extracting Social Connections from Finnish Karelian Refugee Interviews Using LLMs</h2>
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Joonatan Laato, Jenna Kanerva, John Loehr, Virpi Lummaa and Filip Ginter</p>
+<p><strong>Authors:</strong> Joonatan Laato, Jenna Kanerva, John Loehr, Virpi Lummaa, Filip Ginter</p>
 <p><strong>Presented in</strong> <a href="/programme/#session1B">Session 1B: Classification & Information Extraction</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper52.pdf">Download PDF</a></p>
 </section>

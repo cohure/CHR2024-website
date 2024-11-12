@@ -38,7 +38,7 @@
     }
 </style>
 <main role="main">
-<h2>Assessing Landscape Intervisibility and Prominence at Regional Scale</h2>
+<h2>Assessing Burial Mound Intervisibility and Prominence at Regional Scale</h2>
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(short paper)</i></p>

@@ -38,11 +38,11 @@
     }
 </style>
 <main role="main">
-<h2>Early Modern Book Catalogues and Multilingualism: Identifying Multilingual Texts and Translations Using Titles</h2>
+<h2>Early Modern Book Catalogues and Multilingualism: Identifying Multilingual Texts and Translations using Titles</h2>
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Yann Ciarán Ryan and Margherita Fantoli</p>
+<p><strong>Authors:</strong> Yann Ryan, Margherita Fantoli</p>
 <p><strong>Presented in</strong> <a href="/programme/#session6B">Session 6B: Multilingualism & Translation Studies</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper135.pdf">Download PDF</a></p>
 </section>

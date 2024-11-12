@@ -38,11 +38,11 @@
     }
 </style>
 <main role="main">
-<h2>Univariate Statistical Analysis of a Non-Canonical Literary Genre: Quantifying German-Language One-Act Plays (1740–1850)</h2>
+<h2>Univariate Statistical Analysis of a Non-Canonical Literary Genre. Quantifying German-Language One-Act Plays (1740–1850)</h2>
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer and Lilly Welz</p>
+<p><strong>Authors:</strong> Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Lilly Welz, Carsten Milling</p>
 <p><strong>Presented in</strong> <a href="/programme/#session3A">Session 3A: Literary Canon & Reception</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper86.pdf">Download PDF</a></p>
 </section>
