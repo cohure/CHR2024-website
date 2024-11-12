@@ -30,7 +30,7 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper71" class="paper-title">Transformation of Composition and Gaze Interaction in Noli Me Tangere Depictions from 1300–1600</a>
-    <span class="paper-authors">Pepe Ballesteros Zapata, Nina Arnold, Vappu Lukander, Ludovica Schaerf and Dario Negueruela del Castillo</span>
+    <span class="paper-authors">Pepe Ballesteros Zapata, Nina Arnold, Vappu Vilhelmiina Lukander, Ludovica Schaerf and Dario Negueruela del Castillo</span>
 </p>
 
 
@@ -42,7 +42,7 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper141" class="paper-title">Computational Segmentation of Wayang Kulit Video Recordings using a Cross-Attention Temporal Model</a>
-    <span class="paper-authors">Hong Wei Shawn Liew and Miguel Escobar Varela</span>
+    <span class="paper-authors">Shawn Hong Wei Liew and Miguel Escobar Varela</span>
 </p>
 
 
@@ -68,7 +68,7 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper130" class="paper-title">Characterizing the Subversion of Social Relationships on Television</a>
-    <span class="paper-authors">Kent K. Chang, Anna Ho and David Bamman</span>
+    <span class="paper-authors">Kent Chang, Anna Ho and David Bamman</span>
 </p>
 
 
@@ -100,7 +100,7 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper36" class="paper-title">Global Coherence, Local Uncertainty: Towards a Theoretical Framework for Assessing Literary Quality</a>
-    <span class="paper-authors">Yuri Bizzoni, Pascale Feldkamp and Kristoffer Nielbo</span>
+    <span class="paper-authors">Yuri Bizzoni, Pascale Moreira and Kristoffer Nielbo</span>
 </p>
 
 
@@ -134,19 +134,19 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper76" class="paper-title">Literary Canonicity and Algorithmic Fairness: The Effect of Author Gender on Classification Models</a>
-    <span class="paper-authors">Ida Marie S. Lassen, Pascale Feldkamp Moreira and Yuri Bizzoni and Kristoffer Nielbo</span>
+    <span class="paper-authors">Ida Marie S. Lassen, Pascale Feldkamp, Yuri Bizzoni and Kristoffer Nielbo</span>
 </p>
 
 
 <p class="paper-entry">
     <a href="/papers/paper106" class="paper-title">Patterns of Quality: Comparing Reader Reception Across Fanfiction and Published Literature</a>
-    <span class="paper-authors">Mia Jacobsen, Yuri Bizzoni, Pascale Feldkamp Moreira and Kristoffer L. Nielbo</span>
+    <span class="paper-authors">Mia Jacobsen, Pascale Moreira, Kristoffer Nielbo and Yuri Bizzoni</span>
 </p>
 
 
 <p class="paper-entry">
     <a href="/papers/paper86" class="paper-title">Univariate Statistical Analysis of a Non-Canonical Literary Genre: Quantifying German-Language One-Act Plays (1740–1850)</a>
-    <span class="paper-authors">Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Lilly Welz and Carsten Milling</span>
+    <span class="paper-authors">Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer and Lilly Welz</span>
 </p>
 
 ### Session 3B: Stylometry
@@ -172,7 +172,7 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper9" class="paper-title">Multilingual Stylometry: The influence of language and corpus composition on the performance of authorship attribution using corpora from the European Literary Text Collection (ELTeC)</a>
-    <span class="paper-authors">Christof Schöch, Julia Dudar, Evgeniia Fileva and Artjoms Šeļa</span>
+    <span class="paper-authors">Christof Schoech, Julia Dudar, Evgeniia Fileva and Artjoms Šeļa</span>
 </p>
 
 ### Session 4A: Large Language Models
@@ -192,7 +192,7 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper119" class="paper-title">On Classification with Large Language Models in Cultural Analytics</a>
-    <span class="paper-authors">David Bamman, Kent K. Chang and Li Lucy and Naitian Zhou</span>
+    <span class="paper-authors">David Bamman, Kent Chang, Li Lucy and Naitian Zhou</span>
 </p>
 
 ### Session 4B: Automatic Text Recognition
@@ -212,7 +212,7 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper110" class="paper-title">Steps Towards Mining Manuscript Images for Untranscribed Texts: A Case Study from the Syriac Collection at the Vatican Library</a>
-    <span class="paper-authors">Luigi Bambaci, George Kiraz, Christine Roughan, Matthieu Freyder and Daniel Stökl Ben Ezra</span>
+    <span class="paper-authors">Luigi Bambaci, George Kiraz, Christine M. Roughan, Daniel Stökl Ben Ezra and Matthieu Freyder</span>
 </p>
 
 ### Session 5A: Linguistic Change
@@ -220,7 +220,7 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper18" class="paper-title">Quantifying Linguistic and Cultural Change in China, 1900-1950</a>
-    <span class="paper-authors">Spencer Dean Stewart</span>
+    <span class="paper-authors">Spencer Stewart</span>
 </p>
 
 
@@ -240,19 +240,19 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper1" class="paper-title">Explainable Search and Discovery of Visual Cultural Heritage Collections with Multimodal Large Language Models</a>
-    <span class="paper-authors">Taylor Arnold and Lauren Tilton</span>
+    <span class="paper-authors">Taylor Arnold</span>
 </p>
 
 
 <p class="paper-entry">
     <a href="/papers/paper17" class="paper-title">Integrating Visual and Textual Inputs for Searching Large-Scale Map Collections with CLIP</a>
-    <span class="paper-authors">Jamie Mahowald and Benjamin Charles Germain Lee</span>
+    <span class="paper-authors">James Mahowald and Benjamin Lee</span>
 </p>
 
 
 <p class="paper-entry">
     <a href="/papers/paper55" class="paper-title">Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway’s Digitised Book Collection</a>
-    <span class="paper-authors">Marie Roald, Magnus Breder Birkenes and Lars Gunnarsønn Bagøien Johnsen</span>
+    <span class="paper-authors">Marie Roald, Magnus Breder Birkenes and Lars Johnsen</span>
 </p>
 
 ### Session 6A: Annotation
@@ -272,13 +272,13 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper62" class="paper-title">Addressing Uncertainty According to the Annotator’s Expertise in Archaeological Data Collections: an Approach from Fuzzy Logic</a>
-    <span class="paper-authors">Patricia Martin-Rodilla and Leticia Tobalina-Pulido</span>
+    <span class="paper-authors">Patricia Martin-Rodilla and Leticia Tobalina</span>
 </p>
 
 
 <p class="paper-entry">
     <a href="/papers/paper74" class="paper-title">Direct and Indirect Annotation with Generative AI: A Case Study into Finding Animals and Plants in Historical Text</a>
-    <span class="paper-authors">Arjan van Dalfsen, Folgert Karsdorp, Ayoub Bagheri, Dieuwertje Mentink, Thirza van Engelen and Els Stronks</span>
+    <span class="paper-authors">Arjan van Dalfsen, Folgert Karsdorp, Ayoub Bagheri, Thirza van Engelen, Dieuwertje Mentink and Els Stronks</span>
 </p>
 
 ### Session 6B: Multilingualism & Translation Studies
@@ -286,7 +286,7 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper104" class="paper-title">Textual Transmission without Borders: Multiple Multilingual Alignment and Stemmatology of the 'Lancelot en prose'</a>
-    <span class="paper-authors">Matthias Gille Levenson, Lucence Ing and Jean-Baptiste Camps</span>
+    <span class="paper-authors">Lucence Ing, Matthias Gille Levenson and Jean-Baptiste Camps</span>
 </p>
 
 
@@ -298,13 +298,13 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper135" class="paper-title">Early Modern Book Catalogues and Multilingualism: Identifying Multilingual Texts and Translations Using Titles</a>
-    <span class="paper-authors">Yann Ryan and Margherita Fantoli</span>
+    <span class="paper-authors">Yann Ciarán Ryan and Margherita Fantoli</span>
 </p>
 
 
 <p class="paper-entry">
     <a href="/papers/paper42" class="paper-title">Computational Paleography of Medieval Hebrew Scripts</a>
-    <span class="paper-authors">Berat Kurar-Barakat, Daria Vasyutinsky-Shapira, Sharva Gogawale and Mohammad Suliman and Nachum Dershowitz</span>
+    <span class="paper-authors">Berat Kurar-Barakat, Daria Vasyutinsky-Shapira, Sharva Gogawale, Mohammad Suliman and Nachum Dershowitz</span>
 </p>
 
 ### Session 7A: Social Patterns
@@ -318,7 +318,7 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper13" class="paper-title">Beyond the Register: Demographic Modeling of Arrest Patterns in 1879-1880 Brussels</a>
-    <span class="paper-authors">Folgert Karsdorp, Mike Kestemont and Margo de Koster</span>
+    <span class="paper-authors">Folgert Karsdorp, Mike Kestemont and Margo De Koster</span>
 </p>
 
 
@@ -330,7 +330,7 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper94" class="paper-title">Revolution + Love: Measuring the Entanglements of Violence and Emotions in Post-1949 China</a>
-    <span class="paper-authors">Maciej Kurzynski and Aaron Gilkison</span>
+    <span class="paper-authors">Maciej Kurzynski</span>
 </p>
 
 ### Session 7B: Measuring Emotion & Sentiment
@@ -344,7 +344,7 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper98" class="paper-title">Sentiment Below the Surface: Omissive and Evocative Strategies in Literature and Beyond</a>
-    <span class="paper-authors">Pascale Feldkamp, Ea Overgaard Lindhardt, Kristoffer L. Nielbo and Yuri Bizzoni</span>
+    <span class="paper-authors">Pascale Feldkamp, Ea Lindhardt Overgaard, Kristoffer Nielbo and Yuri Bizzoni</span>
 </p>
 
 
@@ -364,7 +364,7 @@ title: "Accepted Papers"
 
 <p class="paper-entry">
     <a href="/papers/paper49" class="paper-title">Context is Key(NMF): Modelling Topical Information Dynamics in Chinese Diaspora Media</a>
-    <span class="paper-authors">Ross Deans Kristensen-McLachlan, Rebecca M.M. Hicke, Márton Kardos and Mette Thunø</span>
+    <span class="paper-authors">Ross Deans Kristensen-McLachlan, Rebecca M. M. Hicke, Márton Kardos and Mette Thunø</span>
 </p>
 
 

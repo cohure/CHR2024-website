@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Lilly Welz and Carsten Milling</p>
+<p><strong>Authors:</strong> Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer and Lilly Welz</p>
 <p><strong>Presented in</strong> <a href="/programme/#session3">Session 3A: Literary Canon & Reception</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper86.pdf">Download PDF</a></p>
 </section>

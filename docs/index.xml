@@ -83,7 +83,7 @@
       <link>http://2024.computational-humanities-research/papers/paper1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper1/</guid>
-      <description>Explainable Search and Discovery of Visual Cultural Heritage Collections with Multimodal Large Language Models (long paper)&#xA;Authors: Taylor Arnold and Lauren Tilton&#xA;Presented in Session 5B: Search &amp; Discovery&#xA;Paper: Download PDF&#xA;Abstract Many cultural institutions have made large digitized visual collections available online, often under permissible re-use licences. Creating interfaces for exploring and searching these collections is difficult, particularly in the absence of granular metadata. In this paper, we introduce a method for using state-of-the-art multimodal large language models (LLMs) to enable an open-ended, explainable search and discovery interface for visual collections.</description>
+      <description>Explainable Search and Discovery of Visual Cultural Heritage Collections with Multimodal Large Language Models (long paper)&#xA;Authors: Taylor Arnold&#xA;Presented in Session 5B: Search &amp; Discovery&#xA;Paper: Download PDF&#xA;Abstract Many cultural institutions have made large digitized visual collections available online, often under permissible re-use licences. Creating interfaces for exploring and searching these collections is difficult, particularly in the absence of granular metadata. In this paper, we introduce a method for using state-of-the-art multimodal large language models (LLMs) to enable an open-ended, explainable search and discovery interface for visual collections.</description>
     </item>
     <item>
       <title></title>
@@ -97,28 +97,28 @@
       <link>http://2024.computational-humanities-research/papers/paper104/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper104/</guid>
-      <description>Textual Transmission without Borders: Multiple Multilingual Alignment and Stemmatology of the &#39;Lancelot en prose&#39; (long paper)&#xA;Authors: Matthias Gille Levenson, Lucence Ing and Jean-Baptiste Camps&#xA;Presented in Session 6B: Multilingualism &amp; Translation Studies&#xA;Paper: Download PDF&#xA;Abstract This study focuses on the problem of multilingual medieval text alignment, which presents specific challenges, due to the absence of modern punctuation in the texts and the non-standard forms of medieval languages. In order to perform the alignment of several witnesses from the multilingual tradition of the prose Lancelot, we first develop an automatic text segmenter based on BERT and then align the produced segments using Bertalign.</description>
+      <description>Textual Transmission without Borders: Multiple Multilingual Alignment and Stemmatology of the &#39;Lancelot en prose&#39; (long paper)&#xA;Authors: Lucence Ing, Matthias Gille Levenson and Jean-Baptiste Camps&#xA;Presented in Session 6B: Multilingualism &amp; Translation Studies&#xA;Paper: Download PDF&#xA;Abstract This study focuses on the problem of multilingual medieval text alignment, which presents specific challenges, due to the absence of modern punctuation in the texts and the non-standard forms of medieval languages. In order to perform the alignment of several witnesses from the multilingual tradition of the prose Lancelot, we first develop an automatic text segmenter based on BERT and then align the produced segments using Bertalign.</description>
     </item>
     <item>
       <title></title>
       <link>http://2024.computational-humanities-research/papers/paper106/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper106/</guid>
-      <description>Patterns of Quality: Comparing Reader Reception Across Fanfiction and Published Literature (long paper)&#xA;Authors: Mia Jacobsen, Yuri Bizzoni, Pascale Feldkamp Moreira and Kristoffer L. Nielbo&#xA;Presented in Session 3A: Literary Canon &amp; Reception&#xA;Paper: Download PDF&#xA;Abstract Recent work on the textual features linked to literary quality has primarily focused on commercially published literature, such as canonical or best-selling novels, that are systematically filtered by editorial and market mechanisms. However, the biggest repositories of fiction texts currently in existence are free fanfiction websites, where fans post fictional stories about their favorite characters for the pleasure of writing and engaging with others.</description>
+      <description>Patterns of Quality: Comparing Reader Reception Across Fanfiction and Published Literature (long paper)&#xA;Authors: Mia Jacobsen, Pascale Moreira, Kristoffer Nielbo and Yuri Bizzoni&#xA;Presented in Session 3A: Literary Canon &amp; Reception&#xA;Paper: Download PDF&#xA;Abstract Recent work on the textual features linked to literary quality has primarily focused on commercially published literature, such as canonical or best-selling novels, that are systematically filtered by editorial and market mechanisms. However, the biggest repositories of fiction texts currently in existence are free fanfiction websites, where fans post fictional stories about their favorite characters for the pleasure of writing and engaging with others.</description>
     </item>
     <item>
       <title></title>
       <link>http://2024.computational-humanities-research/papers/paper110/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper110/</guid>
-      <description>Steps Towards Mining Manuscript Images for Untranscribed Texts: A Case Study from the Syriac Collection at the Vatican Library (long paper)&#xA;Authors: Luigi Bambaci, George Kiraz, Christine Roughan, Matthieu Freyder and Daniel Stökl Ben Ezra&#xA;Presented in Session 4B: Automatic Text Recognition&#xA;Paper: Download PDF&#xA;Abstract Digital libraries and databases of texts are invaluable resources for researchers, yet their reliance on printed editions can lead to significant gaps and potentially exclude works without printed reproductions.</description>
+      <description>Steps Towards Mining Manuscript Images for Untranscribed Texts: A Case Study from the Syriac Collection at the Vatican Library (long paper)&#xA;Authors: Luigi Bambaci, George Kiraz, Christine M. Roughan, Daniel Stökl Ben Ezra and Matthieu Freyder&#xA;Presented in Session 4B: Automatic Text Recognition&#xA;Paper: Download PDF&#xA;Abstract Digital libraries and databases of texts are invaluable resources for researchers, yet their reliance on printed editions can lead to significant gaps and potentially exclude works without printed reproductions.</description>
     </item>
     <item>
       <title></title>
       <link>http://2024.computational-humanities-research/papers/paper119/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper119/</guid>
-      <description>On Classification with Large Language Models in Cultural Analytics (long paper)&#xA;Authors: David Bamman, Kent K. Chang and Li Lucy and Naitian Zhou&#xA;Presented in Session 4A: Large Language Models&#xA;Paper: Download PDF&#xA;Abstract In this work, we survey the way in which classification is used as a sensemaking practice in cultural analytics, and assess where large language models can fit into this landscape. We identify ten tasks supported by publicly available datasets on which we empirically assess the performance of LLMs compared to traditional supervised methods, and explore the ways in which LLMs can be employed for sensemaking goals beyond mere accuracy.</description>
+      <description>On Classification with Large Language Models in Cultural Analytics (long paper)&#xA;Authors: David Bamman, Kent Chang, Li Lucy and Naitian Zhou&#xA;Presented in Session 4A: Large Language Models&#xA;Paper: Download PDF&#xA;Abstract In this work, we survey the way in which classification is used as a sensemaking practice in cultural analytics, and assess where large language models can fit into this landscape. We identify ten tasks supported by publicly available datasets on which we empirically assess the performance of LLMs compared to traditional supervised methods, and explore the ways in which LLMs can be employed for sensemaking goals beyond mere accuracy.</description>
     </item>
     <item>
       <title></title>
@@ -160,14 +160,14 @@
       <link>http://2024.computational-humanities-research/papers/paper13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper13/</guid>
-      <description>Beyond the Register: Demographic Modeling of Arrest Patterns in 1879-1880 Brussels (long paper)&#xA;Authors: Folgert Karsdorp, Mike Kestemont and Margo de Koster&#xA;Presented in Session 7A: Social Patterns&#xA;Paper: Download PDF&#xA;Abstract Unseen species models from ecology have recently been applied to censored historical cultural datasets to estimate unobserved populations. We extend this approach to historical criminology, analyzing the police registers of Brussels&#39; Amigo prison (1879-1880) using the Generalized Chao estimator.</description>
+      <description>Beyond the Register: Demographic Modeling of Arrest Patterns in 1879-1880 Brussels (long paper)&#xA;Authors: Folgert Karsdorp, Mike Kestemont and Margo De Koster&#xA;Presented in Session 7A: Social Patterns&#xA;Paper: Download PDF&#xA;Abstract Unseen species models from ecology have recently been applied to censored historical cultural datasets to estimate unobserved populations. We extend this approach to historical criminology, analyzing the police registers of Brussels&#39; Amigo prison (1879-1880) using the Generalized Chao estimator.</description>
     </item>
     <item>
       <title></title>
       <link>http://2024.computational-humanities-research/papers/paper130/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper130/</guid>
-      <description>Characterizing the Subversion of Social Relationships on Television (long paper)&#xA;Authors: Kent K. Chang, Anna Ho and David Bamman&#xA;Presented in Session 1B: Classification &amp; Information Extraction&#xA;Paper: Download PDF&#xA;Abstract Television is often seen as a site for subcultural identification and subversive fantasy, including in queer cultures. How might we measure subversion, or the degree to which the depiction of social relationship between a dyad (e.g. two characters who are colleagues) deviates from its typical representation on TV?</description>
+      <description>Characterizing the Subversion of Social Relationships on Television (long paper)&#xA;Authors: Kent Chang, Anna Ho and David Bamman&#xA;Presented in Session 1B: Classification &amp; Information Extraction&#xA;Paper: Download PDF&#xA;Abstract Television is often seen as a site for subcultural identification and subversive fantasy, including in queer cultures. How might we measure subversion, or the degree to which the depiction of social relationship between a dyad (e.g. two characters who are colleagues) deviates from its typical representation on TV?</description>
     </item>
     <item>
       <title></title>
@@ -181,7 +181,7 @@
       <link>http://2024.computational-humanities-research/papers/paper135/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper135/</guid>
-      <description>Early Modern Book Catalogues and Multilingualism: Identifying Multilingual Texts and Translations Using Titles (long paper)&#xA;Authors: Yann Ryan and Margherita Fantoli&#xA;Presented in Session 6B: Multilingualism &amp; Translation Studies&#xA;Paper: Download PDF&#xA;Abstract With this paper we aim to assess whether Early Modern book titles can be exploited to track two aspects of multilingualism in book publishing: publications featuring multiple languages and the distinction between editions of works in their original language and in translation.</description>
+      <description>Early Modern Book Catalogues and Multilingualism: Identifying Multilingual Texts and Translations Using Titles (long paper)&#xA;Authors: Yann Ciarán Ryan and Margherita Fantoli&#xA;Presented in Session 6B: Multilingualism &amp; Translation Studies&#xA;Paper: Download PDF&#xA;Abstract With this paper we aim to assess whether Early Modern book titles can be exploited to track two aspects of multilingualism in book publishing: publications featuring multiple languages and the distinction between editions of works in their original language and in translation.</description>
     </item>
     <item>
       <title></title>
@@ -195,7 +195,7 @@
       <link>http://2024.computational-humanities-research/papers/paper141/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper141/</guid>
-      <description>Computational Segmentation of Wayang Kulit Video Recordings using a Cross-Attention Temporal Model (short paper)&#xA;Authors: Hong Wei Shawn Liew and Miguel Escobar Varela&#xA;Presented in Session 1A: Visual Arts and Art History&#xA;Paper: Download PDF&#xA;Abstract We report preliminary findings on a novel approach to automatically segment Javanese wayang kulit (traditional leather puppet) performances using computational methods. We focus on identifying comic interludes, which have been the subject of scholarly debate regarding their increasing duration.</description>
+      <description>Computational Segmentation of Wayang Kulit Video Recordings using a Cross-Attention Temporal Model (short paper)&#xA;Authors: Shawn Hong Wei Liew and Miguel Escobar Varela&#xA;Presented in Session 1A: Visual Arts and Art History&#xA;Paper: Download PDF&#xA;Abstract We report preliminary findings on a novel approach to automatically segment Javanese wayang kulit (traditional leather puppet) performances using computational methods. We focus on identifying comic interludes, which have been the subject of scholarly debate regarding their increasing duration.</description>
     </item>
     <item>
       <title></title>
@@ -209,14 +209,14 @@
       <link>http://2024.computational-humanities-research/papers/paper17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper17/</guid>
-      <description>Integrating Visual and Textual Inputs for Searching Large-Scale Map Collections with CLIP (long paper)&#xA;Authors: Jamie Mahowald and Benjamin Charles Germain Lee&#xA;Presented in Session 5B: Search &amp; Discovery&#xA;Paper: Download PDF&#xA;Abstract Despite the prevalence and historical importance of maps in digital collections, current methods of navigating and exploring map collections are largely restricted to catalog records and structured metadata. In this paper, we explore the potential for interactively searching large-scale map collections using natural language inputs (``maps with sea monsters&#39;&#39;), visual inputs (i.</description>
+      <description>Integrating Visual and Textual Inputs for Searching Large-Scale Map Collections with CLIP (long paper)&#xA;Authors: James Mahowald and Benjamin Lee&#xA;Presented in Session 5B: Search &amp; Discovery&#xA;Paper: Download PDF&#xA;Abstract Despite the prevalence and historical importance of maps in digital collections, current methods of navigating and exploring map collections are largely restricted to catalog records and structured metadata. In this paper, we explore the potential for interactively searching large-scale map collections using natural language inputs (``maps with sea monsters&#39;&#39;), visual inputs (i.</description>
     </item>
     <item>
       <title></title>
       <link>http://2024.computational-humanities-research/papers/paper18/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper18/</guid>
-      <description>Quantifying Linguistic and Cultural Change in China, 1900-1950 (long paper)&#xA;Authors: Spencer Dean Stewart&#xA;Presented in Session 5A: Linguistic Change&#xA;Paper: Download PDF&#xA;Abstract This paper presents a quantitative approach to studying linguistic and cultural change in China during the first half of the twentieth century, a period that remains understudied in computational humanities research. The dramatic changes in Chinese language and culture during this time call for greater reflection on the tools and methods used for text analysis.</description>
+      <description>Quantifying Linguistic and Cultural Change in China, 1900-1950 (long paper)&#xA;Authors: Spencer Stewart&#xA;Presented in Session 5A: Linguistic Change&#xA;Paper: Download PDF&#xA;Abstract This paper presents a quantitative approach to studying linguistic and cultural change in China during the first half of the twentieth century, a period that remains understudied in computational humanities research. The dramatic changes in Chinese language and culture during this time call for greater reflection on the tools and methods used for text analysis.</description>
     </item>
     <item>
       <title></title>
@@ -258,7 +258,7 @@
       <link>http://2024.computational-humanities-research/papers/paper36/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper36/</guid>
-      <description>Global Coherence, Local Uncertainty: Towards a Theoretical Framework for Assessing Literary Quality (short paper)&#xA;Authors: Yuri Bizzoni, Pascale Feldkamp and Kristoffer Nielbo&#xA;Presented in Session 2A: Literature&#xA;Paper: Download PDF&#xA;Abstract A theoretical framework for evaluating literary quality through analyzing narrative structures using simplified narrative representations in the form of story arcs is presented. This framework proposes two complementary models: the first employs Approximate Entropy to measure local unpredictability, while the second utilizes fractal analysis to assess global coherence.</description>
+      <description>Global Coherence, Local Uncertainty: Towards a Theoretical Framework for Assessing Literary Quality (short paper)&#xA;Authors: Yuri Bizzoni, Pascale Moreira and Kristoffer Nielbo&#xA;Presented in Session 2A: Literature&#xA;Paper: Download PDF&#xA;Abstract A theoretical framework for evaluating literary quality through analyzing narrative structures using simplified narrative representations in the form of story arcs is presented. This framework proposes two complementary models: the first employs Approximate Entropy to measure local unpredictability, while the second utilizes fractal analysis to assess global coherence.</description>
     </item>
     <item>
       <title></title>
@@ -272,7 +272,7 @@
       <link>http://2024.computational-humanities-research/papers/paper42/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper42/</guid>
-      <description>Computational Paleography of Medieval Hebrew Scripts (short paper)&#xA;Authors: Berat Kurar-Barakat, Daria Vasyutinsky-Shapira, Sharva Gogawale and Mohammad Suliman and Nachum Dershowitz&#xA;Presented in Session 6B: Multilingualism &amp; Translation Studies&#xA;Paper: Download PDF&#xA;Abstract We present ongoing work as part of an international multidisciplinary project, called MiDRASH, on the computational analysis of medieval manuscripts. We focus here on clustering manuscripts written in Ashkenazi square script using a dataset of 206 pages from 59 manuscripts.</description>
+      <description>Computational Paleography of Medieval Hebrew Scripts (short paper)&#xA;Authors: Berat Kurar-Barakat, Daria Vasyutinsky-Shapira, Sharva Gogawale, Mohammad Suliman and Nachum Dershowitz&#xA;Presented in Session 6B: Multilingualism &amp; Translation Studies&#xA;Paper: Download PDF&#xA;Abstract We present ongoing work as part of an international multidisciplinary project, called MiDRASH, on the computational analysis of medieval manuscripts. We focus here on clustering manuscripts written in Ashkenazi square script using a dataset of 206 pages from 59 manuscripts.</description>
     </item>
     <item>
       <title></title>
@@ -286,7 +286,7 @@
       <link>http://2024.computational-humanities-research/papers/paper49/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper49/</guid>
-      <description>Context is Key(NMF): Modelling Topical Information Dynamics in Chinese Diaspora Media (long paper)&#xA;Authors: Ross Deans Kristensen-McLachlan, Rebecca M.M. Hicke, Márton Kardos and Mette Thunø&#xA;Presented in Session 8A: Cultural Dynamics&#xA;Paper: Download PDF&#xA;Abstract Does the People&#39;s Republic of China (PRC) interfere with European elections through ethnic Chinese diaspora media? This question forms the basis of an ongoing research project exploring how PRC narratives about European elections are represented in Chinese diaspora media, and thus the objectives of PRC news media manipulation.</description>
+      <description>Context is Key(NMF): Modelling Topical Information Dynamics in Chinese Diaspora Media (long paper)&#xA;Authors: Ross Deans Kristensen-McLachlan, Rebecca M. M. Hicke, Márton Kardos and Mette Thunø&#xA;Presented in Session 8A: Cultural Dynamics&#xA;Paper: Download PDF&#xA;Abstract Does the People&#39;s Republic of China (PRC) interfere with European elections through ethnic Chinese diaspora media? This question forms the basis of an ongoing research project exploring how PRC narratives about European elections are represented in Chinese diaspora media, and thus the objectives of PRC news media manipulation.</description>
     </item>
     <item>
       <title></title>
@@ -300,7 +300,7 @@
       <link>http://2024.computational-humanities-research/papers/paper55/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper55/</guid>
-      <description>Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway’s Digitised Book Collection (short paper)&#xA;Authors: Marie Roald, Magnus Breder Birkenes and Lars Gunnarsønn Bagøien Johnsen&#xA;Presented in Session 5B: Search &amp; Discovery&#xA;Paper: Download PDF&#xA;Abstract Digital tools for text analysis have long been essential for the searchability and accessibility of digitised library collections. Recent computer vision advances have introduced similar capabilities for visual materials, with deep learning-based embeddings showing promise for analysing visual heritage.</description>
+      <description>Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway’s Digitised Book Collection (short paper)&#xA;Authors: Marie Roald, Magnus Breder Birkenes and Lars Johnsen&#xA;Presented in Session 5B: Search &amp; Discovery&#xA;Paper: Download PDF&#xA;Abstract Digital tools for text analysis have long been essential for the searchability and accessibility of digitised library collections. Recent computer vision advances have introduced similar capabilities for visual materials, with deep learning-based embeddings showing promise for analysing visual heritage.</description>
     </item>
     <item>
       <title></title>
@@ -342,7 +342,7 @@
       <link>http://2024.computational-humanities-research/papers/paper62/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper62/</guid>
-      <description>Addressing Uncertainty According to the Annotator’s Expertise in Archaeological Data Collections: an Approach from Fuzzy Logic (short paper)&#xA;Authors: Patricia Martin-Rodilla and Leticia Tobalina-Pulido&#xA;Presented in Session 6A: Annotation&#xA;Paper: Download PDF&#xA;Abstract Archaeological data allow us to synthetically represent the past of individuals and communities over time. This complex representation task requires an amalgamation of variables and makes the intrinsic data vagueness. The study of vagueness as an archaeological data dimension has become a dynamic focus of archaeologists&#39; work in recent years, presenting theoretical and practical approaches for the representation, mainly with fuzzy logic, of archaeological variables.</description>
+      <description>Addressing Uncertainty According to the Annotator’s Expertise in Archaeological Data Collections: an Approach from Fuzzy Logic (short paper)&#xA;Authors: Patricia Martin-Rodilla and Leticia Tobalina&#xA;Presented in Session 6A: Annotation&#xA;Paper: Download PDF&#xA;Abstract Archaeological data allow us to synthetically represent the past of individuals and communities over time. This complex representation task requires an amalgamation of variables and makes the intrinsic data vagueness. The study of vagueness as an archaeological data dimension has become a dynamic focus of archaeologists&#39; work in recent years, presenting theoretical and practical approaches for the representation, mainly with fuzzy logic, of archaeological variables.</description>
     </item>
     <item>
       <title></title>
@@ -363,7 +363,7 @@
       <link>http://2024.computational-humanities-research/papers/paper71/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper71/</guid>
-      <description>Transformation of Composition and Gaze Interaction in Noli Me Tangere Depictions from 1300–1600 (short paper)&#xA;Authors: Pepe Ballesteros Zapata, Nina Arnold, Vappu Lukander, Ludovica Schaerf and Dario Negueruela del Castillo&#xA;Presented in Session 1A: Visual Arts and Art History&#xA;Paper: Download PDF&#xA;Abstract This paper examines the development of figure composition and gaze dynamics between Mary Magdalene and Christ in Italian noli me tangere depictions from 1300 to 1600 in the context of the emergence of perspective painting.</description>
+      <description>Transformation of Composition and Gaze Interaction in Noli Me Tangere Depictions from 1300–1600 (short paper)&#xA;Authors: Pepe Ballesteros Zapata, Nina Arnold, Vappu Vilhelmiina Lukander, Ludovica Schaerf and Dario Negueruela del Castillo&#xA;Presented in Session 1A: Visual Arts and Art History&#xA;Paper: Download PDF&#xA;Abstract This paper examines the development of figure composition and gaze dynamics between Mary Magdalene and Christ in Italian noli me tangere depictions from 1300 to 1600 in the context of the emergence of perspective painting.</description>
     </item>
     <item>
       <title></title>
@@ -377,7 +377,7 @@
       <link>http://2024.computational-humanities-research/papers/paper74/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper74/</guid>
-      <description>Direct and Indirect Annotation with Generative AI: A Case Study into Finding Animals and Plants in Historical Text (short paper)&#xA;Authors: Arjan van Dalfsen, Folgert Karsdorp, Ayoub Bagheri, Dieuwertje Mentink, Thirza van Engelen and Els Stronks&#xA;Presented in Session 6A: Annotation&#xA;Paper: Download PDF&#xA;Abstract This study explores the use of generative AI (GenAI) for annotation in the humanities, comparing direct and indirect annotation approaches with human annotations. Direct annotation involves using GenAI to annotate the entire corpus, while indirect annotation uses GenAI to create training data for a specialized model.</description>
+      <description>Direct and Indirect Annotation with Generative AI: A Case Study into Finding Animals and Plants in Historical Text (short paper)&#xA;Authors: Arjan van Dalfsen, Folgert Karsdorp, Ayoub Bagheri, Thirza van Engelen, Dieuwertje Mentink and Els Stronks&#xA;Presented in Session 6A: Annotation&#xA;Paper: Download PDF&#xA;Abstract This study explores the use of generative AI (GenAI) for annotation in the humanities, comparing direct and indirect annotation approaches with human annotations. Direct annotation involves using GenAI to annotate the entire corpus, while indirect annotation uses GenAI to create training data for a specialized model.</description>
     </item>
     <item>
       <title></title>
@@ -391,7 +391,7 @@
       <link>http://2024.computational-humanities-research/papers/paper76/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper76/</guid>
-      <description>Literary Canonicity and Algorithmic Fairness: The Effect of Author Gender on Classification Models (long paper)&#xA;Authors: Ida Marie S. Lassen, Pascale Feldkamp Moreira and Yuri Bizzoni and Kristoffer Nielbo&#xA;Presented in Session 3A: Literary Canon &amp; Reception&#xA;Paper: Download PDF&#xA;Abstract This study examines gender biases in machine learning models that predict literary canonicity. Using algorithmic fairness metrics like equality of opportunity, equalised odds, and calibration within groups, we show that models violate the fairness metrics, especially by misclassifying non-canonical books by men as canonical.</description>
+      <description>Literary Canonicity and Algorithmic Fairness: The Effect of Author Gender on Classification Models (long paper)&#xA;Authors: Ida Marie S. Lassen, Pascale Feldkamp, Yuri Bizzoni and Kristoffer Nielbo&#xA;Presented in Session 3A: Literary Canon &amp; Reception&#xA;Paper: Download PDF&#xA;Abstract This study examines gender biases in machine learning models that predict literary canonicity. Using algorithmic fairness metrics like equality of opportunity, equalised odds, and calibration within groups, we show that models violate the fairness metrics, especially by misclassifying non-canonical books by men as canonical.</description>
     </item>
     <item>
       <title></title>
@@ -412,14 +412,14 @@
       <link>http://2024.computational-humanities-research/papers/paper86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper86/</guid>
-      <description>Univariate Statistical Analysis of a Non-Canonical Literary Genre: Quantifying German-Language One-Act Plays (1740–1850) (long paper)&#xA;Authors: Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Lilly Welz and Carsten Milling&#xA;Presented in Session 3A: Literary Canon &amp; Reception&#xA;Paper: Download PDF&#xA;Abstract This article explores the use of metadata to analyse German-language one-act plays from 1740 to 1850, addressing the need to expand beyond canonical texts in literary studies. Utilising the Database of German-Language One-Act Plays, we examine aspects such as the number of scenes and characters as well as the role of different original languages on which the translated plays in the corpus are based.</description>
+      <description>Univariate Statistical Analysis of a Non-Canonical Literary Genre: Quantifying German-Language One-Act Plays (1740–1850) (long paper)&#xA;Authors: Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer and Lilly Welz&#xA;Presented in Session 3A: Literary Canon &amp; Reception&#xA;Paper: Download PDF&#xA;Abstract This article explores the use of metadata to analyse German-language one-act plays from 1740 to 1850, addressing the need to expand beyond canonical texts in literary studies. Utilising the Database of German-Language One-Act Plays, we examine aspects such as the number of scenes and characters as well as the role of different original languages on which the translated plays in the corpus are based.</description>
     </item>
     <item>
       <title></title>
       <link>http://2024.computational-humanities-research/papers/paper9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper9/</guid>
-      <description>Multilingual Stylometry: The influence of language and corpus composition on the performance of authorship attribution using corpora from the European Literary Text Collection (ELTeC) (long paper)&#xA;Authors: Christof Schöch, Julia Dudar, Evgeniia Fileva and Artjoms Šeļa&#xA;Presented in Session 3B: Stylometry&#xA;Paper: Download PDF&#xA;Abstract Stylometric authorship attribution is concerned with the task of assigning texts of unknown, pseudonymous or disputed authorship to their most likely author, often based on a comparison of the frequency of a selected set of features that represent the texts.</description>
+      <description>Multilingual Stylometry: The influence of language and corpus composition on the performance of authorship attribution using corpora from the European Literary Text Collection (ELTeC) (long paper)&#xA;Authors: Christof Schoech, Julia Dudar, Evgeniia Fileva and Artjoms Šeļa&#xA;Presented in Session 3B: Stylometry&#xA;Paper: Download PDF&#xA;Abstract Stylometric authorship attribution is concerned with the task of assigning texts of unknown, pseudonymous or disputed authorship to their most likely author, often based on a comparison of the frequency of a selected set of features that represent the texts.</description>
     </item>
     <item>
       <title></title>
@@ -447,7 +447,7 @@
       <link>http://2024.computational-humanities-research/papers/paper94/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper94/</guid>
-      <description>Revolution + Love: Measuring the Entanglements of Violence and Emotions in Post-1949 China (short paper)&#xA;Authors: Maciej Kurzynski and Aaron Gilkison&#xA;Presented in Session 7A: Social Patterns&#xA;Paper: Download PDF&#xA;Abstract This paper examines the relationship between violent discourse and emotional intensity in the early revolutionary rhetoric of the People&#39;s Republic of China (PRC). Using two fine-tuned bert-base-chinese models—one for detecting violent content in texts and another for assessing their affective charge—we analyze over 185,000 articles published between 1956 and 1989 in the People&#39;s Liberation Army Daily ( Jiefangjun Bao ), the official journal of China&#39;s armed forces.</description>
+      <description>Revolution + Love: Measuring the Entanglements of Violence and Emotions in Post-1949 China (short paper)&#xA;Authors: Maciej Kurzynski&#xA;Presented in Session 7A: Social Patterns&#xA;Paper: Download PDF&#xA;Abstract This paper examines the relationship between violent discourse and emotional intensity in the early revolutionary rhetoric of the People&#39;s Republic of China (PRC). Using two fine-tuned bert-base-chinese models—one for detecting violent content in texts and another for assessing their affective charge—we analyze over 185,000 articles published between 1956 and 1989 in the People&#39;s Liberation Army Daily ( Jiefangjun Bao ), the official journal of China&#39;s armed forces.</description>
     </item>
     <item>
       <title></title>
@@ -475,7 +475,7 @@
       <link>http://2024.computational-humanities-research/papers/paper98/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/paper98/</guid>
-      <description>Sentiment Below the Surface: Omissive and Evocative Strategies in Literature and Beyond (long paper)&#xA;Authors: Pascale Feldkamp, Ea Overgaard Lindhardt, Kristoffer L. Nielbo and Yuri Bizzoni&#xA;Presented in Session 7B: Measuring Emotion &amp; Sentiment&#xA;Paper: Download PDF&#xA;Abstract As they represent one of the most complex forms of expression, literary texts continue to challenge Sentiment Analysis (SA) tools, often developed for other domains. At the same time, SA is becoming an increasingly central method in literary analysis itself, which raises the question of what are the challenges inherent to literary SA.</description>
+      <description>Sentiment Below the Surface: Omissive and Evocative Strategies in Literature and Beyond (long paper)&#xA;Authors: Pascale Feldkamp, Ea Lindhardt Overgaard, Kristoffer Nielbo and Yuri Bizzoni&#xA;Presented in Session 7B: Measuring Emotion &amp; Sentiment&#xA;Paper: Download PDF&#xA;Abstract As they represent one of the most complex forms of expression, literary texts continue to challenge Sentiment Analysis (SA) tools, often developed for other domains. At the same time, SA is becoming an increasingly central method in literary analysis itself, which raises the question of what are the challenges inherent to literary SA.</description>
     </item>
     <item>
       <title>About</title>
@@ -489,7 +489,7 @@
       <link>http://2024.computational-humanities-research/papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://2024.computational-humanities-research/papers/</guid>
-      <description>Session 1A: Visual Arts and Art History Viability of Zero-Shot Classification and Search of Historical Photos Erika Maksimova, Mari-Anna Meimer, Mari Piirsalu and Priit Järv Transformation of Composition and Gaze Interaction in Noli Me Tangere Depictions from 1300–1600 Pepe Ballesteros Zapata, Nina Arnold, Vappu Lukander, Ludovica Schaerf and Dario Negueruela del Castillo Deciphering Still Life Artworks with Linked Open Data Bruno Sartini Computational Segmentation of Wayang Kulit Video Recordings using a Cross-Attention Temporal Model Hong Wei Shawn Liew and Miguel Escobar Varela Assessing Landscape Intervisibility and Prominence at Regional Scale Adela Sobotkova Session 1B: Classification &amp;amp; Information Extraction Page Embeddings: Extracting and Classifying Historical Documents with Generic Vector Representations Carsten Schnober, Renate Smit, Manjusha Kuruppath, Kay Pepping, Leon van Wissen and Lodewijk Petram Exploration of Event Extraction Techniques in Late Medieval and Early Modern Administrative Records Ismail Prada Ziegler Characterizing the Subversion of Social Relationships on Television Kent K.</description>
+      <description>Session 1A: Visual Arts and Art History Viability of Zero-Shot Classification and Search of Historical Photos Erika Maksimova, Mari-Anna Meimer, Mari Piirsalu and Priit Järv Transformation of Composition and Gaze Interaction in Noli Me Tangere Depictions from 1300–1600 Pepe Ballesteros Zapata, Nina Arnold, Vappu Vilhelmiina Lukander, Ludovica Schaerf and Dario Negueruela del Castillo Deciphering Still Life Artworks with Linked Open Data Bruno Sartini Computational Segmentation of Wayang Kulit Video Recordings using a Cross-Attention Temporal Model Shawn Hong Wei Liew and Miguel Escobar Varela Assessing Landscape Intervisibility and Prominence at Regional Scale Adela Sobotkova Session 1B: Classification &amp;amp; Information Extraction Page Embeddings: Extracting and Classifying Historical Documents with Generic Vector Representations Carsten Schnober, Renate Smit, Manjusha Kuruppath, Kay Pepping, Leon van Wissen and Lodewijk Petram Exploration of Event Extraction Techniques in Late Medieval and Early Modern Administrative Records Ismail Prada Ziegler Characterizing the Subversion of Social Relationships on Television Kent Chang, Anna Ho and David Bamman Extracting social connections from Finnish Karelian refugee interviews using LLMs Joonatan Laato, Jenna Kanerva, John Loehr, Virpi Lummaa and Filip Ginter Session 2A: Literature Literary Time Travel: Distinguishing Past and Contemporary Worlds in Danish and Norwegian Fiction Jens Bjerring-Hansen, Ali Al-Laith, Daniel Hershcovich, Alexander Conroy and Sebastian Ørtoft Rasmussen Recognizing Non-named Spatial Entities in Literary Texts: A Novel Spatial Entities Classifier Daniel Kababgi, Giulia Grisot, Federico Pennino and Berenike Herrmann Latent Structures of Intertextuality in French Fiction Jean Barré Global Coherence, Local Uncertainty: Towards a Theoretical Framework for Assessing Literary Quality Yuri Bizzoni, Pascale Moreira and Kristoffer Nielbo Animacy in German Folktales Julian Häußler, Janis von Keitz and Evelyn Gius Session 2B: Semantic Analysis Quantitative Framework for Word-Color Association and Application to 20th Century Anglo-American Poetry Sungpil Wang and Juyong Park Domain Adaptation with Linked Encyclopedic Data: A Case Study for Historical German Thora Hagen Tracing the Development of the Virtual Particle Concept Using Semantic Change Detection Michael Zichert and Adrian Wüthrich Session 3A: Literary Canon &amp;amp; Reception Literary Canonicity and Algorithmic Fairness: The Effect of Author Gender on Classification Models Ida Marie S.</description>
     </item>
     <item>
       <title>Accomodation in Aarhus</title>

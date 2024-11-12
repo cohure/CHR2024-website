@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Mia Jacobsen, Yuri Bizzoni, Pascale Feldkamp Moreira and Kristoffer L. Nielbo</p>
+<p><strong>Authors:</strong> Mia Jacobsen, Pascale Moreira, Kristoffer Nielbo and Yuri Bizzoni</p>
 <p><strong>Presented in</strong> <a href="/programme/#session3">Session 3A: Literary Canon & Reception</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper106.pdf">Download PDF</a></p>
 </section>

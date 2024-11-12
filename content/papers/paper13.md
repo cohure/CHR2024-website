@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Folgert Karsdorp, Mike Kestemont and Margo de Koster</p>
+<p><strong>Authors:</strong> Folgert Karsdorp, Mike Kestemont and Margo De Koster</p>
 <p><strong>Presented in</strong> <a href="/programme/#session7">Session 7A: Social Patterns</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper13.pdf">Download PDF</a></p>
 </section>

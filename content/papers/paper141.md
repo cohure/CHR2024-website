@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(short paper)</i></p>
-<p><strong>Authors:</strong> Hong Wei Shawn Liew and Miguel Escobar Varela</p>
+<p><strong>Authors:</strong> Shawn Hong Wei Liew and Miguel Escobar Varela</p>
 <p><strong>Presented in</strong> <a href="/programme/#session1">Session 1A: Visual Arts and Art History</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper141.pdf">Download PDF</a></p>
 </section>
