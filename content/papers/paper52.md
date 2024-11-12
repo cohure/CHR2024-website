@@ -43,7 +43,7 @@
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Joonatan Laato, Jenna Kanerva, John Loehr, Virpi Lummaa and Filip Ginter</p>
-<p><strong>Presented in</strong> <a href="/programme/#session1">Session 1B: Classification & Information Extraction</a></p>
+<p><strong>Presented in</strong> <a href="/programme/#session1B">Session 1B: Classification & Information Extraction</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper52.pdf">Download PDF</a></p>
 </section>
 

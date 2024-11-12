@@ -43,7 +43,7 @@
 <section class="metadata">
 <p style='font-size:1rem'><i>(short paper)</i></p>
 <p><strong>Authors:</strong> Caroline Vandyck and Mike Kestemont</p>
-<p><strong>Presented in</strong> <a href="/programme/#session3">Session 3B: Stylometry</a></p>
+<p><strong>Presented in</strong> <a href="/programme/#session3B">Session 3B: Stylometry</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper15.pdf">Download PDF</a></p>
 </section>
 

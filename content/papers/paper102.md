@@ -43,7 +43,7 @@
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Edward Abel and Andrew Goddard</p>
-<p><strong>Presented in</strong> <a href="/programme/#session8">Session 8B: Popular Media</a></p>
+<p><strong>Presented in</strong> <a href="/programme/#session8B">Session 8B: Popular Media</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper102.pdf">Download PDF</a></p>
 </section>
 

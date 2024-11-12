@@ -43,7 +43,7 @@
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Xinhao Zhang, Olga Seminck and Pascal Amsili</p>
-<p><strong>Presented in</strong> <a href="/programme/#session4">Session 4A: Large Language Models</a></p>
+<p><strong>Presented in</strong> <a href="/programme/#session4A">Session 4A: Large Language Models</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper96.pdf">Download PDF</a></p>
 </section>
 

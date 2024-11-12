@@ -43,7 +43,7 @@
 <section class="metadata">
 <p style='font-size:1rem'><i>(short paper)</i></p>
 <p><strong>Authors:</strong> Marie Roald, Magnus Breder Birkenes and Lars Johnsen</p>
-<p><strong>Presented in</strong> <a href="/programme/#session5">Session 5B: Search & Discovery</a></p>
+<p><strong>Presented in</strong> <a href="/programme/#session5B">Session 5B: Search & Discovery</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper55.pdf">Download PDF</a></p>
 </section>
 

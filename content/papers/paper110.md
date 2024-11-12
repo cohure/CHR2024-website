@@ -43,7 +43,7 @@
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Luigi Bambaci, George Kiraz, Christine M. Roughan, Daniel Stökl Ben Ezra and Matthieu Freyder</p>
-<p><strong>Presented in</strong> <a href="/programme/#session4">Session 4B: Automatic Text Recognition</a></p>
+<p><strong>Presented in</strong> <a href="/programme/#session4B">Session 4B: Automatic Text Recognition</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper110.pdf">Download PDF</a></p>
 </section>
 

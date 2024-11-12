@@ -43,7 +43,7 @@
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Yann Ciarán Ryan and Margherita Fantoli</p>
-<p><strong>Presented in</strong> <a href="/programme/#session6">Session 6B: Multilingualism & Translation Studies</a></p>
+<p><strong>Presented in</strong> <a href="/programme/#session6B">Session 6B: Multilingualism & Translation Studies</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper135.pdf">Download PDF</a></p>
 </section>
 

@@ -43,7 +43,7 @@
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Benjamin Kiessling and Thibault Clérice</p>
-<p><strong>Presented in</strong> <a href="/programme/#session4">Session 4B: Automatic Text Recognition</a></p>
+<p><strong>Presented in</strong> <a href="/programme/#session4B">Session 4B: Automatic Text Recognition</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper30.pdf">Download PDF</a></p>
 </section>
 

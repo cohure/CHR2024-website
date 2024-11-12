@@ -43,7 +43,7 @@
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Pascale Feldkamp, Ea Lindhardt Overgaard, Kristoffer Nielbo and Yuri Bizzoni</p>
-<p><strong>Presented in</strong> <a href="/programme/#session7">Session 7B: Measuring Emotion & Sentiment</a></p>
+<p><strong>Presented in</strong> <a href="/programme/#session7B">Session 7B: Measuring Emotion & Sentiment</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper98.pdf">Download PDF</a></p>
 </section>
 

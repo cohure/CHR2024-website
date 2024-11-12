@@ -9,6 +9,7 @@ title: "Accepted Papers"
     }
     .paper-entry {
         font-size: 1.3em; 
+        margin-bottom: 1.5em; 
     }
     .paper-title {
         display: block;

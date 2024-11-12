@@ -43,7 +43,7 @@
 <section class="metadata">
 <p style='font-size:1rem'><i>(short paper)</i></p>
 <p><strong>Authors:</strong> Julian Häußler, Janis von Keitz and Evelyn Gius</p>
-<p><strong>Presented in</strong> <a href="/programme/#session2">Session 2A: Literature</a></p>
+<p><strong>Presented in</strong> <a href="/programme/#session2A">Session 2A: Literature</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper90.pdf">Download PDF</a></p>
 </section>
 

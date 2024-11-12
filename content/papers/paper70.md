@@ -43,7 +43,7 @@
 <section class="metadata">
 <p style='font-size:1rem'><i>(short paper)</i></p>
 <p><strong>Authors:</strong> Sarah Griebel, Becca Cohen, Lucian Li, Jiayu Liu, Jaihyun Park, Jana Perkins and Ted Underwood</p>
-<p><strong>Presented in</strong> <a href="/programme/#session8">Session 8A: Cultural Dynamics</a></p>
+<p><strong>Presented in</strong> <a href="/programme/#session8A">Session 8A: Cultural Dynamics</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper70.pdf">Download PDF</a></p>
 </section>
 
