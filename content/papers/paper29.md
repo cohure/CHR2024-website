@@ -43,7 +43,7 @@
 <section class="metadata">
 <p style='font-size:1rem'><i>(poster)</i></p>
 <p><strong>Authors:</strong> Maria Bekker-Nielsen Dunbar, Manex Agirrezabal, Tønnes Bekker-Nielsen</p>
-<p><strong>Presented in</strong> <a href="/programme/#session<NA>nan">Poster Session</a></p>
+<p><strong>Presented in</strong> <a href='/programme/#postersession'>Poster Session</a></p>
 <p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3558/paper29.pdf">Download PDF</a></p>
 </section>
 

@@ -206,7 +206,7 @@ You can also get an overview of all accepted papers [here](/papers).
       </li>
       <li>15:00-15:30: <em>Coffee break</em></li>
       <li>15:30-17:00: <a href="#session5A"><strong>Session 5A</strong></a> / <a href="#session5B"><strong>Session 5B</strong></a>
-      </li>      <li>17:00: <em>Poster walk-around</em></li>
+      </li>      <li>17:00: <a href="#postersession"><em>Poster walk-around</em></a></li>
       <li>20:00: <em>Conference dinner</em></li>
       </ul>
       </p>
@@ -242,6 +242,29 @@ You can also get an overview of all accepted papers [here](/papers).
       <p class="paper-entry"><a href="/papers/paper1" class="paper-title">Explainable Search and Discovery of Visual Cultural Heritage Collections with Multimodal Large Language Models</a><span class="paper-authors">Taylor Arnold, Lauren Tilton</span></p>
       <p class="paper-entry"><a href="/papers/paper17" class="paper-title">Integrating Visual and Textual Inputs for Searching Large-Scale Map Collections with CLIP</a><span class="paper-authors">Jamie Mahowald, Benjamin Charles Germain Lee</span></p>
       <p class="paper-entry"><a href="/papers/paper55" class="paper-title">Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway’s Digitised Book Collection</a><span class="paper-authors">Marie Roald, Magnus Breder Birkenes, Lars Gunnarsønn Bagøien Johnsen</span></p>
+      <!-- Poster Session -->
+      <h3 id="postersession" alt="Poster Session (17:00)" style="font-weight:bold;">Poster Session (17:00)</h3>
+      <p class="paper-entry"><a href="/papers/paper4" class="paper-title">FAIR Turn in Epigraphy: Low Barrier Pathways to Quantitative and Reproducible Research in Latin Epigraphy</a><span class="paper-authors">Petra Heřmánková, Brian Ballsun-Stanton, Ray Laurence</span></p>
+      <p class="paper-entry"><a href="/papers/paper5" class="paper-title">Sub-optimal Recall in Visual Cluster Retrieval: When Clusters Look Like Bridges</a><span class="paper-authors">Mathieu Jacomy, Matilde Ficozzi, Anders K. Munk</span></p>
+      <p class="paper-entry"><a href="/papers/paper12" class="paper-title">Who Advertises in Newspapers? Data Criticism in Mining Historical Job Ads</a><span class="paper-authors">Klara Venglarova, Raven Adam, Wiltrud Mölzer, Saranya Balasubramanian, Jörn Kleinert, Manfred Füllsack, Georg Vogeler</span></p>
+      <p class="paper-entry"><a href="/papers/paper23" class="paper-title">Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth</a><span class="paper-authors">Julia Neugarten, Tess Dejaeghere, Pranaydeep Singh, Amanda Robin Hemmons, Julie M. Birkholz</span></p>
+      <p class="paper-entry"><a href="/papers/paper24" class="paper-title">Rediscovering the 1890s: A Norwegian Poetry Corpus</a><span class="paper-authors">Ranveig Kvinnsland, Ingerid Løyning Dale, Lars Magne Tungland</span></p>
+      <p class="paper-entry"><a href="/papers/paper27" class="paper-title">Exploring the Evolution of Gender Power Difference through the Omegaverse Trope on AO3 Fanfiction</a><span class="paper-authors">Xiaoyan Yang, Federio Pianzola</span></p>
+      <p class="paper-entry"><a href="/papers/paper28" class="paper-title">Automated Image Color Mapping for a Historic Photographic Collection</a><span class="paper-authors">Taylor Arnold, Lauren Tilton</span></p>
+      <p class="paper-entry"><a href="/papers/paper29" class="paper-title">Getting to grippe with influenza: an investigation of why the disease is called that</a><span class="paper-authors">Maria Bekker-Nielsen Dunbar, Manex Agirrezabal, Tønnes Bekker-Nielsen</span></p>
+      <p class="paper-entry"><a href="/papers/paper32" class="paper-title">Treebanks for the ordinary working grammarian</a><span class="paper-authors">Joel Priestley, Anders Nøklestad, Kristin Hagen, Anu Laanemets, Dag Trygve Truslew Haug</span></p>
+      <p class="paper-entry"><a href="/papers/paper38" class="paper-title">Censorship as a Dissociative Force: A Case of Sovremennik Magazine, 1847–1866</a><span class="paper-authors">Ekaterina Vozhik, Kirill Maslinsky, Roman Lisiukov</span></p>
+      <p class="paper-entry"><a href="/papers/paper41" class="paper-title">A quantitative study of gender representation and authors' gender in a large-market print medium</a><span class="paper-authors">Christoph Bartl, Sharwin Rezagholi, Mareike Schumacher</span></p>
+      <p class="paper-entry"><a href="/papers/paper43" class="paper-title">Clustering Tasks and Decision Trees with Augustan Love Poets: Cohesion and Separation in Feature Importance Extraction</a><span class="paper-authors">Carlos Javier Nusch, Gimena Del Río Riande, Leticia Cagnina, Marcelo Luis Errecalde, Leandro Antonelli</span></p>
+      <p class="paper-entry"><a href="/papers/paper56" class="paper-title">The discourse of the French method: making old knowledge on market gardening accessible to machines and humans.</a><span class="paper-authors">David Colliaux, Remi van Trijp</span></p>
+      <p class="paper-entry"><a href="/papers/paper58" class="paper-title">Bringing Rome to Life: Evaluating Historical Image Generation</a><span class="paper-authors">Phillip B. Ströbel, Zejie Guo, Ülkü Karagöz, Eva Maria Willi, Felix K. Maier</span></p>
+      <p class="paper-entry"><a href="/papers/paper63" class="paper-title">Across the Pages: A Comparative Study of Reader Response to Web Novels in Chinese and English on Qidian and WebNovel</a><span class="paper-authors">Ze Yu, Federico Pianzola</span></p>
+      <p class="paper-entry"><a href="/papers/paper78" class="paper-title">Discoverability in a Digital Library: A Study of “Rabbit Holes” within Gallica’s corpus</a><span class="paper-authors">Anne-Laure Tettoni, Simon Dumas Primbault</span></p>
+      <p class="paper-entry"><a href="/papers/paper80" class="paper-title">The GOLEM-Knowledge Graph and Search Interface: Perspectives into Narrative and Fiction</a><span class="paper-authors">Franziska Pannach, Luotong Cheng, Federico Pianzola</span></p>
+      <p class="paper-entry"><a href="/papers/paper99" class="paper-title">Text Mining to unveil Prehistoric Pastness in Museums</a><span class="paper-authors">Haley Anne Schwartz, Paula Jardón Giner, Xavier Rubio Campillo</span></p>
+      <p class="paper-entry"><a href="/papers/paper133" class="paper-title">Modeling the Evolution of Harmony in Popular Music from Different Cultural Contexts</a><span class="paper-authors">Fabian C. Moss, Eita Nakamura</span></p>
+      <p class="paper-entry"><a href="/papers/paper139" class="paper-title">Fine-Tuning Pre-Trained Language Models for Authorship Attribution of the Pseudo-Dionysian Ars Rhetorica</a><span class="paper-authors">Gleb Schmidt, Veronica Vybornaya, Ivan P. Yamshchikov</span></p>
+      <p class="paper-entry"><a href="/papers/paper140" class="paper-title">Sequencing Literary Reception: Trajectories of Russian Novels over the Afterlife Course</a><span class="paper-authors">Kim Alexander</span></p>
     </section>
     <!-- FRI -->
     <section id="friday" class="tab-panel" alt="tab showing the schedule for friday">
