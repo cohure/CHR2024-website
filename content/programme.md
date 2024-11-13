@@ -231,7 +231,7 @@ You can also get an overview of all accepted papers [here](/papers).
           <li>17:00: Opening reception</li>
       </ul>
       </p>
-      <h3 style="font-weight:bold; font-size:2.3em;">Detailed Overview</h3>
+      <h3 style="font-weight:bold; font-size:2.3em;">Overview of sessions</h3>
       <!-- Session 1A -->
       <h2 id="session1" style="font-weight:bold; font-size:1.8em;">Session 1</h2>
       <div class="session-block session-a">
@@ -283,11 +283,11 @@ You can also get an overview of all accepted papers [here](/papers).
       </li>
       <li>15:00-15:30: <em>Coffee break</em></li>
       <li>15:30-17:00: <a href="#session5A"><strong>Session 5A</strong></a> / <a href="#session5B"><strong>Session 5B</strong></a>
-      </li>      <li>17:00: <a href="#postersession"><em>Poster walk-around</em></a></li>
+      </li>      <li>17:00: <a href="#postersession"><strong>Poster walk-around</strong></a></li>
       <li>20:00: <em>Conference dinner</em></li>
       </ul>
       </p>
-      <h3 style="font-weight:bold; font-size:2.3em;">Session Overview</h3>
+      <h3 style="font-weight:bold; font-size:2.3em;">Overview of Sessions</h3>
       <h2 id="session3" style="font-weight:bold; font-size:1.8em;">Session 3</h2>
       <!-- Session 3A -->
       <div class="session-block session-a">
@@ -399,7 +399,7 @@ You can also get an overview of all accepted papers [here](/papers).
           <li>16:30-17:00: <em>Award ceremony, concluding remarks</em></li>
         </ul>
       </p>
-      <h3 style="font-weight:bold; font-size:2em;">Sessions<h3>     
+      <h3 style="font-weight:bold; font-size:2em;">Overview of Sessions<h3>     
       <h2 id="session6" style="font-weight:bold; font-size:1.8em;">Session 6</h2>
       <!-- Session 6A -->
       <div class="session-block session-a">
