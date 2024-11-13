@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Ida Marie S. Lassen, Pascale Feldkamp Moreira, Yuri Bizzoni and Kristoffer Nielbo</p>
+<p><strong>Authors:</strong> Ida Marie S. Lassen, Pascale Feldkamp Moreira and Yuri Bizzoni and Kristoffer Nielbo</p>
 <p><strong>Presented in</strong> <a href="/programme/#session3A">Session 3A: Literary Canon & Reception</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

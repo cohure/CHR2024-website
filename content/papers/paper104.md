@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Matthias Gille Levenson, Lucence Ing, Jean-Baptiste Camps</p>
+<p><strong>Authors:</strong> Matthias Gille Levenson, Lucence Ing and Jean-Baptiste Camps</p>
 <p><strong>Presented in</strong> <a href="/programme/#session6B">Session 6B: Multilingualism & Translation Studies</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

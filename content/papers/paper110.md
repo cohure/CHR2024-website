@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Luigi Bambaci, George Kiraz, Christine Roughan, Matthieu Freyder, Daniel Stökl Ben Ezra</p>
+<p><strong>Authors:</strong> Luigi Bambaci, George Kiraz, Christine Roughan, Matthieu Freyder and Daniel Stökl Ben Ezra</p>
 <p><strong>Presented in</strong> <a href="/programme/#session4B">Session 4B: Automatic Text Recognition</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

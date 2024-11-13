@@ -41,9 +41,9 @@
 <h2>FAIR Turn in Epigraphy: Low Barrier Pathways to Quantitative and Reproducible Research in Latin Epigraphy</h2>
 
 <section class="metadata">
-<p style='font-size:1rem'><i>(poster)</i></p>
-<p><strong>Authors:</strong> Petra Heřmánková, Brian Ballsun-Stanton, Ray Laurence</p>
-<p><strong>Presented in</strong> <a href='/programme/#postersession'>Poster Session</a></p>
+<p style='font-size:1rem'><i>(short paper)</i></p>
+<p><strong>Authors:</strong> Petra Heřmánková, Brian Ballsun-Stanton and Ray Laurence</p>
+<p><strong>Presented in</strong> <a href="/programme/#session<NA>nan">Poster Session</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>
 

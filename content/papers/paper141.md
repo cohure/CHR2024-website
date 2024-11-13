@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(short paper)</i></p>
-<p><strong>Authors:</strong> Hong Wei Shawn Liew, Miguel Escobar Varela</p>
+<p><strong>Authors:</strong> Hong Wei Shawn Liew and Miguel Escobar Varela</p>
 <p><strong>Presented in</strong> <a href="/programme/#session1A">Session 1A: Visual Arts and Art History</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

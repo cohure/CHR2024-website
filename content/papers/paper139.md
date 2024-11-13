@@ -41,9 +41,9 @@
 <h2>Fine-Tuning Pre-Trained Language Models for Authorship Attribution of the Pseudo-Dionysian Ars Rhetorica</h2>
 
 <section class="metadata">
-<p style='font-size:1rem'><i>(poster)</i></p>
-<p><strong>Authors:</strong> Gleb Schmidt, Veronica Vybornaya, Ivan P. Yamshchikov</p>
-<p><strong>Presented in</strong> <a href='/programme/#postersession'>Poster Session</a></p>
+<p style='font-size:1rem'><i>(short paper)</i></p>
+<p><strong>Authors:</strong> Gleb Schmidt, Veronica Vybornaya and Ivan P. Yamshchikov</p>
+<p><strong>Presented in</strong> <a href="/programme/#session<NA>nan">Poster Session</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>
 

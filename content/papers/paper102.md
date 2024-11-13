@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Edward Abel, Andrew Goddard</p>
+<p><strong>Authors:</strong> Edward Abel and Andrew Goddard</p>
 <p><strong>Presented in</strong> <a href="/programme/#session8B">Session 8B: Popular Media</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

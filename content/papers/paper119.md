@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> David Bamman, Kent K. Chang, Li Lucy and Naitian Zhou</p>
+<p><strong>Authors:</strong> David Bamman, Kent K. Chang and Li Lucy and Naitian Zhou</p>
 <p><strong>Presented in</strong> <a href="/programme/#session4A">Session 4A: Large Language Models</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

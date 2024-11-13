@@ -41,9 +41,9 @@
 <h2>The discourse of the French method: making old knowledge on market gardening accessible to machines and humans.</h2>
 
 <section class="metadata">
-<p style='font-size:1rem'><i>(poster)</i></p>
-<p><strong>Authors:</strong> David Colliaux, Remi van Trijp</p>
-<p><strong>Presented in</strong> <a href='/programme/#postersession'>Poster Session</a></p>
+<p style='font-size:1rem'><i>(short paper)</i></p>
+<p><strong>Authors:</strong> David Colliaux and Remi van Trijp</p>
+<p><strong>Presented in</strong> <a href="/programme/#session<NA>nan">Poster Session</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>
 

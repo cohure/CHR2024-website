@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(short paper)</i></p>
-<p><strong>Authors:</strong> Patricia Martin-Rodilla, Leticia Tobalina-Pulido</p>
+<p><strong>Authors:</strong> Patricia Martin-Rodilla and Leticia Tobalina-Pulido</p>
 <p><strong>Presented in</strong> <a href="/programme/#session6A">Session 6A: Annotation</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

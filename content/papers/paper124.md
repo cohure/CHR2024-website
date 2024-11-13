@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Naitian Zhou, David Bamman</p>
+<p><strong>Authors:</strong> Naitian Zhou and David Bamman</p>
 <p><strong>Presented in</strong> <a href="/programme/#session7B">Session 7B: Measuring Emotion & Sentiment</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

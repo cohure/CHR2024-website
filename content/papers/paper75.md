@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Eirini Kaldeli, Alexandros Chortaras, Vassilis Lyberatos, Jason Liartis, Spyridon Kantarelis, Giorgos Stamou</p>
+<p><strong>Authors:</strong> Eirini Kaldeli, Alexandros Chortaras, Vassilis Lyberatos, Jason Liartis, Spyridon Kantarelis and Giorgos Stamou</p>
 <p><strong>Presented in</strong> <a href="/programme/#session6A">Session 6A: Annotation</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

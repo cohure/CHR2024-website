@@ -41,7 +41,7 @@
 <h2>Sequencing Literary Reception: Trajectories of Russian Novels over the Afterlife Course</h2>
 
 <section class="metadata">
-<p style='font-size:1rem'><i>(poster)</i></p>
+<p style='font-size:1rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Kim Alexander</p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Christof Schöch, Julia Dudar, Evgeniia Fileva, Artjoms Šeļa</p>
+<p><strong>Authors:</strong> Christof Schöch, Julia Dudar, Evgeniia Fileva and Artjoms Šeļa</p>
 <p><strong>Presented in</strong> <a href="/programme/#session3B">Session 3B: Stylometry</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

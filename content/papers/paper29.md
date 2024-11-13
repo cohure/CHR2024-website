@@ -41,9 +41,9 @@
 <h2>Getting to grippe with influenza: an investigation of why the disease is called that</h2>
 
 <section class="metadata">
-<p style='font-size:1rem'><i>(poster)</i></p>
-<p><strong>Authors:</strong> Maria Bekker-Nielsen Dunbar, Manex Agirrezabal, Tønnes Bekker-Nielsen</p>
-<p><strong>Presented in</strong> <a href='/programme/#postersession'>Poster Session</a></p>
+<p style='font-size:1rem'><i>(short paper)</i></p>
+<p><strong>Authors:</strong> Maria Bekker-Nielsen Dunbar, Manex Agirrezabal and Tønnes Bekker-Nielsen</p>
+<p><strong>Presented in</strong> <a href="/programme/#session<NA>nan">Poster Session</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>
 

@@ -41,9 +41,9 @@
 <h2>Across the Pages: A Comparative Study of Reader Response to Web Novels in Chinese and English on Qidian and WebNovel</h2>
 
 <section class="metadata">
-<p style='font-size:1rem'><i>(poster)</i></p>
-<p><strong>Authors:</strong> Ze Yu, Federico Pianzola</p>
-<p><strong>Presented in</strong> <a href='/programme/#postersession'>Poster Session</a></p>
+<p style='font-size:1rem'><i>(short paper)</i></p>
+<p><strong>Authors:</strong> Ze Yu and Federico Pianzola</p>
+<p><strong>Presented in</strong> <a href="/programme/#session<NA>nan">Poster Session</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>
 

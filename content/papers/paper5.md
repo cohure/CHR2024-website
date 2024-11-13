@@ -41,9 +41,9 @@
 <h2>Sub-optimal Recall in Visual Cluster Retrieval: When Clusters Look Like Bridges</h2>
 
 <section class="metadata">
-<p style='font-size:1rem'><i>(poster)</i></p>
-<p><strong>Authors:</strong> Mathieu Jacomy, Matilde Ficozzi, Anders K. Munk</p>
-<p><strong>Presented in</strong> <a href='/programme/#postersession'>Poster Session</a></p>
+<p style='font-size:1rem'><i>(short paper)</i></p>
+<p><strong>Authors:</strong> Mathieu Jacomy, Matilde Ficozzi and Anders K. Munk</p>
+<p><strong>Presented in</strong> <a href="/programme/#session<NA>nan">Poster Session</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>
 

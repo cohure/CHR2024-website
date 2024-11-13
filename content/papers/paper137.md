@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Leonard Konle, Merten Kröncke, Fotis Jannidis, Simone Winko</p>
+<p><strong>Authors:</strong> Leonard Konle, Merten Kröncke, Fotis Jannidis and Simone Winko</p>
 <p><strong>Presented in</strong> <a href="/programme/#session8A">Session 8A: Cultural Dynamics</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

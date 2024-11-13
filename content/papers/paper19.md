@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Jens Bjerring-Hansen, Ali Al-Laith, Daniel Hershcovich, Alexander Conroy, Sebastian Ørtoft Rasmussen</p>
+<p><strong>Authors:</strong> Jens Bjerring-Hansen, Ali Al-Laith, Daniel Hershcovich, Alexander Conroy and Sebastian Ørtoft Rasmussen</p>
 <p><strong>Presented in</strong> <a href="/programme/#session2A">Session 2A: Literature</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

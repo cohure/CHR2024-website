@@ -41,9 +41,9 @@
 <h2>Clustering Tasks and Decision Trees with Augustan Love Poets: Cohesion and Separation in Feature Importance Extraction</h2>
 
 <section class="metadata">
-<p style='font-size:1rem'><i>(poster)</i></p>
-<p><strong>Authors:</strong> Carlos Javier Nusch, Gimena Del Río Riande, Leticia Cagnina, Marcelo Luis Errecalde, Leandro Antonelli</p>
-<p><strong>Presented in</strong> <a href='/programme/#postersession'>Poster Session</a></p>
+<p style='font-size:1rem'><i>(short paper)</i></p>
+<p><strong>Authors:</strong> Carlos Javier Nusch, Gimena Del Río Riande, Leticia Cagnina, Marcelo Luis Errecalde and Leandro Antonelli</p>
+<p><strong>Presented in</strong> <a href="/programme/#session<NA>nan">Poster Session</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>
 

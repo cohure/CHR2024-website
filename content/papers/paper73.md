@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(short paper)</i></p>
-<p><strong>Authors:</strong> Carsten Schnober, Renate Smit, Manjusha Kuruppath, Kay Pepping, Leon van Wissen, Lodewijk Petram</p>
+<p><strong>Authors:</strong> Carsten Schnober, Renate Smit, Manjusha Kuruppath, Kay Pepping, Leon van Wissen and Lodewijk Petram</p>
 <p><strong>Presented in</strong> <a href="/programme/#session1B">Session 1B: Classification & Information Extraction</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

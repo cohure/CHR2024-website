@@ -42,7 +42,7 @@
 
 <section class="metadata">
 <p style='font-size:1rem'><i>(long paper)</i></p>
-<p><strong>Authors:</strong> Michael Zichert, Adrian Wüthrich</p>
+<p><strong>Authors:</strong> Michael Zichert and Adrian Wüthrich</p>
 <p><strong>Presented in</strong> <a href="/programme/#session2B">Session 2B: Semantic Analysis</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

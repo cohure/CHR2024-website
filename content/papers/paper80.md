@@ -41,9 +41,9 @@
 <h2>The GOLEM-Knowledge Graph and Search Interface: Perspectives into Narrative and Fiction</h2>
 
 <section class="metadata">
-<p style='font-size:1rem'><i>(poster)</i></p>
-<p><strong>Authors:</strong> Franziska Pannach, Luotong Cheng, Federico Pianzola</p>
-<p><strong>Presented in</strong> <a href='/programme/#postersession'>Poster Session</a></p>
+<p style='font-size:1rem'><i>(short paper)</i></p>
+<p><strong>Authors:</strong> Franziska Pannach, Luotong Cheng and Federico Pianzola</p>
+<p><strong>Presented in</strong> <a href="/programme/#session<NA>nan">Poster Session</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>
 
