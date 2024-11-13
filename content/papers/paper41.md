@@ -14,8 +14,9 @@
     }
     
     .metadata {
-        background-color: #f7fafc;
+        background-color: rgba(96,24,67,0.03);
         padding: 1rem;
+        font-size:0.8rem;
         border-radius: 6px;
         margin-bottom: 2rem;
     }
@@ -26,8 +27,9 @@
     
     .abstract {
         text-align: justify;
+        font-size:0.8rem;
         padding: 1rem;
-        background-color: #f7fafc;
+        background-color: rgba(96,24,67,0.03);
         border-left: 4px solid #2c5282;
         border-radius: 0 6px 6px 0;
     }
@@ -41,9 +43,9 @@
 <h2>A quantitative study of gender representation and authors' gender in a large-market print medium</h2>
 
 <section class="metadata">
-<p style='font-size:1rem'><i>(poster)</i></p>
-<p><strong>Authors:</strong> Christoph Bartl, Sharwin Rezagholi, Mareike Schumacher</p>
-<p><strong>Presented in</strong> <a href='/programme/#postersession'>Poster Session</a></p>
+<p style='font-size:0.8rem'><i>(short paper)</i></p>
+<p><strong>Authors:</strong> Christoph Bartl, Sharwin Rezagholi and Mareike Schumacher</p>
+<p><strong>Presented in</strong> <a href="/programme/#session<NA>nan">Poster Session</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>
 

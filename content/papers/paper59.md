@@ -14,8 +14,9 @@
     }
     
     .metadata {
-        background-color: #f7fafc;
+        background-color: rgba(96,24,67,0.03);
         padding: 1rem;
+        font-size:0.8rem;
         border-radius: 6px;
         margin-bottom: 2rem;
     }
@@ -26,8 +27,9 @@
     
     .abstract {
         text-align: justify;
+        font-size:0.8rem;
         padding: 1rem;
-        background-color: #f7fafc;
+        background-color: rgba(96,24,67,0.03);
         border-left: 4px solid #2c5282;
         border-radius: 0 6px 6px 0;
     }
@@ -41,8 +43,8 @@
 <h2>Recognising non-named spatial entities in literary texts: a novel spatial entities classifier</h2>
 
 <section class="metadata">
-<p style='font-size:1rem'><i>(short paper)</i></p>
-<p><strong>Authors:</strong> Daniel Kababgi, Giulia Grisot, Federico Pennino, Berenike Herrmann</p>
+<p style='font-size:0.8rem'><i>(short paper)</i></p>
+<p><strong>Authors:</strong> Daniel Kababgi, Giulia Grisot, Federico Pennino and Berenike Herrmann</p>
 <p><strong>Presented in</strong> <a href="/programme/#session2A">Session 2A: Literature</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>

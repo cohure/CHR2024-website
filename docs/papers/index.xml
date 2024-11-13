@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on Computational Humanities Research 2024</title>
+    <link>http://localhost:1313/papers/</link>
+    <description>Recent content in Papers on Computational Humanities Research 2024</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/papers/paper12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper12/</guid>
+      <description>Who Advertises in Newspapers? Data Criticism in Mining Historical Job Ads (short paper)&#xA;Authors: Klara Venglarova, Raven Adam, Wiltrud Mölzer, Saranya Balasubramanian, Jörn Kleinert, Manfred Füllsack and Georg Vogeler&#xA;Presented in Session nan: nan&#xA;Paper: LINK TBA&#xA;Abstract Digitized newspapers are a source of unique and rich historical data but pose significant challenges in the interpretation of results obtained through their mining. The JobAds project (FWF P35783) explores the evolution of the labor market through job advertisements from digitized newspapers between 1850-1950, aiming to reveal regional and temporal trends in job offers, required skills, media strategies, and social aspects such as gender-specific ads.</description>
+    </item>
+  </channel>
+</rss>

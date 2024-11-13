@@ -14,8 +14,9 @@
     }
     
     .metadata {
-        background-color: #f7fafc;
+        background-color: rgba(96,24,67,0.03);
         padding: 1rem;
+        font-size:0.8rem;
         border-radius: 6px;
         margin-bottom: 2rem;
     }
@@ -26,8 +27,9 @@
     
     .abstract {
         text-align: justify;
+        font-size:0.8rem;
         padding: 1rem;
-        background-color: #f7fafc;
+        background-color: rgba(96,24,67,0.03);
         border-left: 4px solid #2c5282;
         border-radius: 0 6px 6px 0;
     }
@@ -41,8 +43,8 @@
 <h2>Direct and Indirect Annotation with Generative AI: A Case Study into Finding Animals and Plants in Historical Text</h2>
 
 <section class="metadata">
-<p style='font-size:1rem'><i>(short paper)</i></p>
-<p><strong>Authors:</strong> Arjan van Dalfsen, Folgert Karsdorp, Ayoub Bagheri, Dieuwertje Mentink, Thirza van Engelen, Els Stronks</p>
+<p style='font-size:0.8rem'><i>(short paper)</i></p>
+<p><strong>Authors:</strong> Arjan van Dalfsen, Folgert Karsdorp, Ayoub Bagheri, Dieuwertje Mentink, Thirza van Engelen and Els Stronks</p>
 <p><strong>Presented in</strong> <a href="/programme/#session6A">Session 6A: Annotation</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>
