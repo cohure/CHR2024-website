@@ -197,7 +197,7 @@ You can also get an overview of all accepted papers [here](/papers).
       <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
       <p>
       <ul>
-      <li>09:00-10:30: <a href="#lightning-talks"><strong>Lightning talks session</strong></a></li>
+      <li>09:00-10:30: <a href="#lightningtalks"><strong>Lightning talks session</strong></a></li>
       <li>10:30-11:00: <em>Coffee break</em></li>
       <li>11:00-12:30: <a href="#session3A"><strong>Session 3A</strong></a> / <a href="#session3B"><strong>Session 3B</strong></a>
       </li>
