@@ -95,18 +95,16 @@ input:focus-visible + label {
         margin-left: 0;
         margin-top: 0em;
         display: block;
+        font-style: italic;
         font-size: 0.9em;
-        color: #666;
     }
     .paper-type {
-        font-size: 0.8em;
+        font-size: 0.9em;
         vertical-align: super;
-        color: #999;
-        font-style: italic;
         margin-left: 0.4em;
     }
     .session-block {
-        margin-bottom: 1rem;
+        margin-bottom: 1.5rem;
         background: #fff;
         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
     }
@@ -233,9 +231,9 @@ You can also get an overview of all accepted papers [here](/papers).
           <li>17:00: Opening reception</li>
       </ul>
       </p>
-      <h3 style="font-weight:bold; font-size:2.3em;">Session Overview</h3>
+      <h3 style="font-weight:bold; font-size:2.3em;">Detailed Overview</h3>
       <!-- Session 1A -->
-      <h2 style="font-weight:bold; font-size:1.8em;">Session 1</h2>
+      <h2 id="session1" style="font-weight:bold; font-size:1.8em;">Session 1</h2>
       <div class="session-block session-a">
       <h3 id="session1A" alt="Session 1A: Visual Arts and Art History (13:30-15:00)">Session 1A: Visual Arts and Art History (13:30-15:00)</h3>
       <p class="paper-entry"><a href="/papers/paper20" class="paper-title">Viability of Zero-shot Classification and Search of Historical Photos</a><span class="paper-type">(long)</span><span class="paper-authors">Erika Maksimova, Mari-Anna Meimer, Mari Piirsalu and Priit Järv</span></p>
@@ -253,7 +251,7 @@ You can also get an overview of all accepted papers [here](/papers).
       <p class="paper-entry"><a href="/papers/paper52" class="paper-title">Extracting Social Connections from Finnish Karelian Refugee Interviews Using LLMs</a><span class="paper-type">(long)</span><span class="paper-authors">Joonatan Laato, Jenna Kanerva, John Loehr, Virpi Lummaa and Filip Ginter</span></p>
       </div>
       <!-- Session 2A -->
-      <h2 style="font-weight:bold; font-size:1.8em;">Session 2</h2>
+      <h2 id="session2" style="font-weight:bold; font-size:1.8em;">Session 2</h2>
       <div class="session-block session-a">
       <h3 id="session2A" alt="Session 2A: Literature (15:30-17:00)">Session 2A: Literature (15:30-17:00)</h3>
       <p class="paper-entry"><a href="/papers/paper19" class="paper-title">Literary Time Travel: Distinguishing Past and Contemporary Worlds in Danish and Norwegian Fiction</a><span class="paper-type">(long)</span><span class="paper-authors">Jens Bjerring-Hansen, Ali Al-Laith, Daniel Hershcovich, Alexander Conroy and Sebastian Ørtoft Rasmussen</span></p>
@@ -290,7 +288,7 @@ You can also get an overview of all accepted papers [here](/papers).
       </ul>
       </p>
       <h3 style="font-weight:bold; font-size:2.3em;">Session Overview</h3>
-      <h2 style="font-weight:bold; font-size:1.8em;">Session 3</h2>
+      <h2 id="session3" style="font-weight:bold; font-size:1.8em;">Session 3</h2>
       <!-- Session 3A -->
       <div class="session-block session-a">
       <h3 id="session3A" alt="Session 3A: Literary Canon & Reception (11:00-12:30)">Session 3A: Literary Canon & Reception (11:00-12:30)</h3>
@@ -307,7 +305,7 @@ You can also get an overview of all accepted papers [here](/papers).
       <p class="paper-entry"><a href="/papers/paper9" class="paper-title">Multilingual Stylometry: The influence of language on the performance of authorship attribution using corpora from the European Literary Text Collection (ELTeC)</a><span class="paper-type">(long)</span><span class="paper-authors">Christof Schöch, Julia Dudar, Evgeniia Fileva and Artjoms Šeļa</span></p>
       </div>
       <!-- Session 4A -->
-      <h2 style="font-weight:bold; font-size:1.8em;">Session 4</h2>
+      <h2 id="session4" style="font-weight:bold; font-size:1.8em;">Session 4</h2>
       <div class="session-block session-a">
       <h3 id="session4A" alt="Session 4A: Large Language Models (13:30-15:00)">Session 4A: Large Language Models (13:30-15:00)</h3>
       <p class="paper-entry"><a href="/papers/paper96" class="paper-title">Remember to Forget: A Study on Verbatim Memorization of Literature in Large Language Models</a><span class="paper-type">(long)</span><span class="paper-authors">Xinhao Zhang, Olga Seminck and Pascal Amsili</span></p>
@@ -322,7 +320,7 @@ You can also get an overview of all accepted papers [here](/papers).
       <p class="paper-entry"><a href="/papers/paper110" class="paper-title">Steps Towards Mining Manuscript Images for Untranscribed Texts: A Case Study From the Syriac Collection at the Vatican Library</a><span class="paper-type">(long)</span><span class="paper-authors">Luigi Bambaci, George Kiraz, Christine Roughan, Matthieu Freyder and Daniel Stökl Ben Ezra</span></p>
       </div>
       <!-- Session 5A -->
-      <h2 style="font-weight:bold; font-size:1.8em;">Session 5</h2>
+      <h2 id="session5" style="font-weight:bold; font-size:1.8em;">Session 5</h2>
       <div class="session-block session-a">
       <h3 id="session5A" alt="Session 5A: Linguistic Change (15:30-17:00)">Session 5A: Linguistic Change (15:30-17:00)</h3>
       <p class="paper-entry"><a href="/papers/paper18" class="paper-title">A Methodology for Studying Linguistic and Cultural Change in China, 1900-1950</a><span class="paper-type">(long)</span><span class="paper-authors">Spencer Dean Stewart</span></p>
@@ -363,24 +361,24 @@ You can also get an overview of all accepted papers [here](/papers).
       <!-- Lightning Session -->
       <div class="session-block alt-session">
       <h3 id="lightningtalks" alt="Lightning Talks (9:00-10:30)">Lightning Talks (9:00-10:30)</h3>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Beauty, mediated: A media archeology of archived moving images for understanding local representations of human beauty</span><span class="paper-type">(lightning)</span><span class="paper-authors">Dana Kaplan and Vered Silber-Varod</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Well-Documented Terror: Navigating the Digital Records of the September 11th Attacks</span><span class="paper-type">(lightning)</span><span class="paper-authors">Ian Milligan</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Investigating Individual Composers' Style Evolution Using Deep Audio Features</span><span class="paper-type">(lightning)</span><span class="paper-authors">Benjamin Henzel and Christof Weiß</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">PoeTree: Poetry Treebanks in Ten Languages</span><span class="paper-type">(lightning)</span><span class="paper-authors">Petr Plecháč and Artjoms Šeļa</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Exploring Ecological Bias in Depictions of NYC Rivers in The New York Times</span><span class="paper-type">(lightning)</span><span class="paper-authors">Dez Miller</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Enhancing access to Danish radio and television archives through advanced speech-to-text technologies</span><span class="paper-type">(lightning)</span><span class="paper-authors">Lasse Rogers Nielsen, Lars Flemming Mydtskov and Ditte Laursen</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Metaphors of Artificial Intelligence in Contemporary Philosophy: A Computational Text Analysis of the PhilPapers Database</span><span class="paper-type">(lightning)</span><span class="paper-authors">Vojtech Kase, Jana Švadlenková and Jan Tvrz</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Towards Operationalizing Linguistic Creativity in Literary and Non-literary Text</span><span class="paper-type">(lightning)</span><span class="paper-authors">Emilie Sitter, Yaru Wu, Sina Zarrieß and J. Berenike Herrmann</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">A quest to build phylogenetic networks of literary fiction</span><span class="paper-type">(lightning)</span><span class="paper-authors">Oleg Sobchuk, Mason Youngblood, Artjoms Šeļa, Angela Chira, Olivier Morin and Ted Underwood</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Predictably Unpredictable? Characterizing Collective Cultural Consumption Shifts in Nation-Level Library Data</span><span class="paper-type">(lightning)</span><span class="paper-authors">Anders Weile and Vedran Sekara</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Leveraging ChatGPT for Multilingual Philosophical Logic Education: A Case Study with Hebrew and Arabic Translations</span><span class="paper-type">(lightning)</span><span class="paper-authors">Stav Klein and Ofra Rechter</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Finding pointers of discursively constructed news values in Danish journalism using computer-assisted methods</span><span class="paper-type">(lightning)</span><span class="paper-authors">Elisabeth Muth Andersen, Edward Abel and Kamilla Jensen Husen</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">From Kyiv to Paris, from Moscow to Siberia: mapping the ‘outward turn’ of Russian Literature in the 19th century</span><span class="paper-type">(lightning)</span><span class="paper-authors">Daniil Skorinkin and Orekhov Boris</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Second-order observation through AI: Towards a humanistic approach of augmenting human intellect</span><span class="paper-type">(lightning)</span><span class="paper-authors">Christian Wachter</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Modelling Book Auctions</span><span class="paper-type">(lightning)</span><span class="paper-authors">Marika Fox</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">What’s the Issue? Overcoming Copyright and Cataloguing Challenges for Computational Periodicals in the HathiTrust Collections</span><span class="paper-type">(lightning)</span><span class="paper-authors">Zoe LeBlanc and Daniel Evans</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Can Computationally Derived Metadata Help in the Bibliographic Recognition of “New” Nations? A Case for Learning-based Prediction</span><span class="paper-type">(lightning)</span><span class="paper-authors">Sayan Bhattacharyya</span></p>
-      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Friendships, emotions and data driven literary studies</span><span class="paper-type">(lightning)</span><span class="paper-authors">Kirstine Nielsen Degn</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Beauty, mediated: A media archeology of archived moving images for understanding local representations of human beauty</span><span class="paper-authors">Dana Kaplan and Vered Silber-Varod</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Well-Documented Terror: Navigating the Digital Records of the September 11th Attacks</span><span class="paper-authors">Ian Milligan</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Investigating Individual Composers' Style Evolution Using Deep Audio Features</span><span class="paper-authors">Benjamin Henzel and Christof Weiß</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">PoeTree: Poetry Treebanks in Ten Languages</span><span class="paper-authors">Petr Plecháč and Artjoms Šeļa</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Exploring Ecological Bias in Depictions of NYC Rivers in The New York Times</span><span class="paper-authors">Dez Miller</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Enhancing access to Danish radio and television archives through advanced speech-to-text technologies</span><span class="paper-authors">Lasse Rogers Nielsen, Lars Flemming Mydtskov and Ditte Laursen</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Metaphors of Artificial Intelligence in Contemporary Philosophy: A Computational Text Analysis of the PhilPapers Database</span><span class="paper-authors">Vojtech Kase, Jana Švadlenková and Jan Tvrz</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Towards Operationalizing Linguistic Creativity in Literary and Non-literary Text</span><span class="paper-authors">Emilie Sitter, Yaru Wu, Sina Zarrieß and J. Berenike Herrmann</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">A quest to build phylogenetic networks of literary fiction</span><span class="paper-authors">Oleg Sobchuk, Mason Youngblood, Artjoms Šeļa, Angela Chira, Olivier Morin and Ted Underwood</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Predictably Unpredictable? Characterizing Collective Cultural Consumption Shifts in Nation-Level Library Data</span><span class="paper-authors">Anders Weile and Vedran Sekara</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Leveraging ChatGPT for Multilingual Philosophical Logic Education: A Case Study with Hebrew and Arabic Translations</span><span class="paper-authors">Stav Klein and Ofra Rechter</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Finding pointers of discursively constructed news values in Danish journalism using computer-assisted methods</span><span class="paper-authors">Elisabeth Muth Andersen, Edward Abel and Kamilla Jensen Husen</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">From Kyiv to Paris, from Moscow to Siberia: mapping the ‘outward turn’ of Russian Literature in the 19th century</span><span class="paper-authors">Daniil Skorinkin and Orekhov Boris</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Second-order observation through AI: Towards a humanistic approach of augmenting human intellect</span><span class="paper-authors">Christian Wachter</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Modelling Book Auctions</span><span class="paper-authors">Marika Fox</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">What’s the Issue? Overcoming Copyright and Cataloguing Challenges for Computational Periodicals in the HathiTrust Collections</span><span class="paper-authors">Zoe LeBlanc and Daniel Evans</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Can Computationally Derived Metadata Help in the Bibliographic Recognition of “New” Nations? A Case for Learning-based Prediction</span><span class="paper-authors">Sayan Bhattacharyya</span></p>
+      <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Friendships, emotions and data driven literary studies</span><span class="paper-authors">Kirstine Nielsen Degn</span></p>
       </div>
     </section>
     <!-- FRI -->
@@ -402,7 +400,7 @@ You can also get an overview of all accepted papers [here](/papers).
         </ul>
       </p>
       <h3 style="font-weight:bold; font-size:2em;">Sessions<h3>     
-      <h2 style="font-weight:bold; font-size:1.8em;">Session 6</h2>
+      <h2 id="session6" style="font-weight:bold; font-size:1.8em;">Session 6</h2>
       <!-- Session 6A -->
       <div class="session-block session-a">
       <h3 id="session6A" alt="Session 6A: Annotation (10:30-12:00)">Session 6A: Annotation (10:30-12:00)</h3>
@@ -420,7 +418,7 @@ You can also get an overview of all accepted papers [here](/papers).
       <p class="paper-entry"><a href="/papers/paper42" class="paper-title">Computational Paleography of Medieval Hebrew Scripts</a><span class="paper-type">(short)</span><span class="paper-authors">Berat Kurar-Barakat, Daria Vasyutinsky-Shapira, Sharva Gogawale and Mohammad Suliman and Nachum Dershowitz</span></p>
       </div>
       <!-- Session 7A -->
-      <h2 style="font-weight:bold; font-size:1.8em;">Session 7</h2>
+      <h2 id="session7" style="font-weight:bold; font-size:1.8em;">Session 7</h2>
       <div class="session-block session-a">
       <h3 id="session7A" alt="Session 7A: Social Patterns (13:00-14:30)">Session 7A: Social Patterns (13:00-14:30)</h3>
       <p class="paper-entry"><a href="/papers/paper93" class="paper-title">And then I saw it: Testing Hypotheses on Turning Points in a Corpus of UFO Sighting Reports</a><span class="paper-type">(short)</span><span class="paper-authors">Jan Langenhorst, Robert C. Schuppe and Yannick Frommherz</span></p>
@@ -436,7 +434,7 @@ You can also get an overview of all accepted papers [here](/papers).
       <p class="paper-entry"><a href="/papers/paper124" class="paper-title">Once More, With Feeling: Measuring Emotion of Acting Performances in Contemporary American Film</a><span class="paper-type">(long)</span><span class="paper-authors">Naitian Zhou and David Bamman</span></p>
       </div>
       <!-- Session 8A -->
-      <h2 style="font-weight:bold; font-size:1.8em;">Session 8</h2>
+      <h2 id="session8" style="font-weight:bold; font-size:1.8em;">Session 8</h2>
       <div class="session-block session-a">
       <h3 id="session8A" alt="Session 8A: Cultural Dynamics (15:00-16:15)">Session 8A: Cultural Dynamics (15:00-16:15)</h3>
       <p class="paper-entry"><a href="/papers/paper137" class="paper-title">On the Unity of Literary Change. The Development of Emotions in German Poetry, Prose, and Drama between 1850 and 1920 as a Test Case</a><span class="paper-type">(long)</span><span class="paper-authors">Leonard Konle, Merten Kröncke, Fotis Jannidis and Simone Winko</span></p>

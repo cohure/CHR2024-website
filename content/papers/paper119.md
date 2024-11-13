@@ -14,8 +14,9 @@
     }
     
     .metadata {
-        background-color: #f7fafc;
+        background-color: rgba(96,24,67,0.03);
         padding: 1rem;
+        font-size:0.8rem;
         border-radius: 6px;
         margin-bottom: 2rem;
     }
@@ -26,8 +27,9 @@
     
     .abstract {
         text-align: justify;
+        font-size:0.8rem;
         padding: 1rem;
-        background-color: #f7fafc;
+        background-color: rgba(96,24,67,0.03);
         border-left: 4px solid #2c5282;
         border-radius: 0 6px 6px 0;
     }
@@ -41,7 +43,7 @@
 <h2>On Classification with Large Language Models in Cultural Analytics</h2>
 
 <section class="metadata">
-<p style='font-size:1rem'><i>(long paper)</i></p>
+<p style='font-size:0.8rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> David Bamman, Kent K. Chang and Li Lucy and Naitian Zhou</p>
 <p><strong>Presented in</strong> <a href="/programme/#session4A">Session 4A: Large Language Models</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
