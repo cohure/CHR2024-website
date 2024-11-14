@@ -52,7 +52,7 @@ title: "Diversity and Inclusion at CHR2024"
     </p>
     <p style="font-style:italic;">
     "These actions are significant because they actively remove barriers to participation, ensuring that individuals from a wide range of backgrounds and circumstances can engage fully with the CHR community. They make the conference more accessible to those who might otherwise be excluded due to financial or geographical constraints.  
-    We are also monitoring the diversity of participants in terms of gender, geography, and ethnicity to provids crucial data to evaluate the effectiveness of our initiatives."  
+    We are also monitoring the diversity of participants in terms of gender, geography, and ethnicity to provide crucial data to evaluate the effectiveness of our initiatives."  
     </p>
     <p style="margin-left: 25px;">
     - Barbara McGillivray, CHR Diversity and Inclusion Officer 
