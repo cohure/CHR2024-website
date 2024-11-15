@@ -5,7 +5,7 @@ date: 2021-02-19T16:05:25+01:00
 
 <style>
     img.first_image {
-        max-width: 800px; 
+        max-width: 100%; 
         max-height: 400px;
         display: block;
         margin-left: auto;

@@ -3,7 +3,7 @@ title: "CHR Journal"
 ---
 <style>
     img.first_image {
-        max-width: 800px; 
+        max-width: 100%; 
         max-height: 400px;
         display: block;
         margin-left: auto;

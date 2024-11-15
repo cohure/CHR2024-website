@@ -50,6 +50,17 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="announcements">
     <div class="announce">
+        <a href="/announcements/leon-derczynski"><img src="/images/announce/leon-derczynski.jpg" alt="Leon Derczynski"></a>
+        <div class="content">
+            <h3>Keynote Leon Derczynski</h3>
+            <p>
+    We are happy to announce that Professor Leon Derczynski, principal research scientist in LLM Security at NVIDIA and prof in Natural Language Processing (NLP)
+at ITU Copenhagen (IT University of Copenhagen) will give a keynote speech...
+            </p>
+            <a class="link-button" href="/announcements/leon-derczynski" aria-label="Press to read more about Leon Derczynski">Read More</a>
+        </div>
+    </div>
+    <div class="announce">
             <a href="/announcements/diversity-and-inclusion"><img src="/images/announce/diversity-med.jpg" alt="Silhouettes of diverse individuals with 'Diversity & Inclusion CHR 2024' in white text centred."></a>
             <div class="content">
                 <h3>Diversity and Inclusion at CHR2024</h3>
@@ -98,17 +109,6 @@ date: 2021-02-19T16:05:25+01:00
                 </p>
                 <a class="link-button" href="https://events.au.dk/chr2024/" aria-label="Press to register for the conference">Register Here</a>
             </div>
-    </div>
-    <div class="announce">
-        <a href="/announcements/leon-derczynski"><img src="/images/announce/leon-derczynski.jpg" alt="Leon Derczynski"></a>
-        <div class="content">
-            <h3>Keynote Leon Derczynski</h3>
-            <p>
-    We are happy to announce that Professor Leon Derczynski, principal research scientist in LLM Security at NVIDIA and prof in Natural Language Processing (NLP)
-at ITU Copenhagen (IT University of Copenhagen) will give a keynote speech...
-            </p>
-            <a class="link-button" href="/announcements/leon-derczynski" aria-label="Press to read more about Leon Derczynski">Read More</a>
-        </div>
     </div>
     <div class="announce">
         <a href="/cfp"><img src="/images/announce/CHR2024-extension.jpg" alt="Image with text 'Call for Papers Extension' and new submission deadline"></a>
