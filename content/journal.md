@@ -2,14 +2,17 @@
 title: "CHR Journal"
 ---
 <style>
-    img.announce {
-        max-height: 300px;
-        max-width: 100%;
+    img.first_image {
+        max-width: 800px; 
+        max-height: 400px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 </style>
 
 
-<img class="announce" src="/images/announce/journal-CHR.jpg">
+<img class="first_image" src="/images/announce/journal-announcement.jpg">
 
 The Cambridge University Press journal _Computational Humanities Research_ (CHR) is the official journal of the [CHR Conference](https://2024.computational-humanities-research.org/). CHR is an open access journal in the computational humanities, publishing transdisciplinary papers that are grounded in humanities research questions and use computational, quantitative methodologies to analyse humanities data in its various forms.
 
