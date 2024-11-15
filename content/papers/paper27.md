@@ -44,7 +44,7 @@
 
 <section class="metadata">
 <p style='font-size:0.8rem'><i>(short paper)</i></p>
-<p><strong>Authors:</strong> Xiaoyan Yang and Federio Pianzola</p>
+<p><strong>Authors:</strong> Xiaoyan Yang and Federico Pianzola</p>
 <p><strong>Presented in</strong> <a href="/programme/#session<NA>nan">Poster Session</a></p>
 <p><strong>Paper:</strong> LINK TBA</p>
 </section>
