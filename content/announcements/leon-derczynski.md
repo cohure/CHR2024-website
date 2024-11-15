@@ -4,14 +4,16 @@ date: 2021-02-19T16:05:25+01:00
 ---
 
 <style>
-    img.announce {
-        max-height: 300px;
-        max-width: 100%;
+    img.first_image {
+        max-width: 800px; 
+        max-height: 400px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 </style>
 
-
-<img class="announce" src="/images/announce/leon-derczynski-square-med-forweb.jpg" alt = "Portrait of Leon Derczynski">
+<img class="first_image" src="/images/announce/leon-derczynski.jpg" alt = "Portrait of Leon Derczynski">
 
 
 We are happy to announce that Professor Leon Derczynski, principal research scientist in LLM Security at [NVIDIA](https://www.nvidia.com/en-us/)
