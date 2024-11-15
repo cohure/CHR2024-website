@@ -76,7 +76,8 @@ date: 2019-12-15T11:12:14+01:00
 
 <h3 class="center">
     <b><span style="text-align:center;">
-        <a href="https://events.au.dk/chr2024/">REGISTRATION</a> IS NOW OPEN
+        <a href="https://events.au.dk/chr2024/">REGISTRATION</a> IS NOW OPEN<br>
+        <span style="font-size:0.8em; color:rgb(117, 21, 67); font-weight:1000; display:block; margin-top:8px;">(DEADLINE NOVEMBER 25, 2024)</span>
     </span></b>
 </h3>
 </br>
