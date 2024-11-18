@@ -50,6 +50,16 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="announcements">
     <div class="announce">
+        <a href="/programme/"><img src="/images/announce/programme.jpg" alt="CHR 2024 Conference Programme written in white text"></a>
+        <div class="content">
+            <h3>CHR2024 Programme</h3>
+            <p>
+            The programme for the CHR 2024 Conference is now available! Over three days, this international and interdisciplinary conference will explore cutting-edge computational approaches to the humanities. Check out the full schedule and start planning your CHR experience ...
+            </p>
+            <a class="link-button" href="/programme/" aria-label="Press to check out the full conference programme">Read More</a>
+        </div>
+    </div>
+    <div class="announce">
         <a href="/announcements/lauren-klein"><img src="/images/announce/lauren-klein.jpg" alt="Lauren Klein"></a>
         <div class="content">
             <h3>Keynote Lauren Klein</h3>
