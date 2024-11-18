@@ -46,7 +46,7 @@
 <p style='font-size:0.8rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Ross Deans Kristensen-McLachlan, Rebecca M.M. Hicke, Márton Kardos and Mette Thunø</p>
 <p><strong>Presented in</strong> <a href="/programme/#session8A">Session 8A: Cultural Dynamics</a></p>
-<p><strong>Paper:</strong> LINK TBA</p>
+<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3834/paper49.pdf">Download PDF</a></p>
 </section>
 
 <section>

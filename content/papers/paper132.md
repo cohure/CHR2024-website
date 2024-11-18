@@ -46,7 +46,7 @@
 <p style='font-size:0.8rem'><i>(short paper)</i></p>
 <p><strong>Authors:</strong> Martin Schlenk, Thomas Efer and Manuel Burghardt</p>
 <p><strong>Presented in</strong> <a href="/programme/#session8B">Session 8B: Popular Media</a></p>
-<p><strong>Paper:</strong> LINK TBA</p>
+<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3834/paper132.pdf">Download PDF</a></p>
 </section>
 
 <section>
