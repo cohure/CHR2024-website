@@ -50,6 +50,17 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="announcements">
     <div class="announce">
+        <a href="/announcements/lauren-klein"><img src="/images/announce/lauren-klein.jpg" alt="Lauren Klein"></a>
+        <div class="content">
+            <h3>Keynote Lauren Klein</h3>
+            <p>
+    We are happy to announce that Lauren Klein, Winship Distinguished Research Professor and Associate Professor in the 
+departments of Quantitative Theory & Methods and English at Emory University, will give a keynote speech ...
+            </p>
+            <a class="link-button" href="/announcements/lauren-klein" aria-label="Press to read more about Lauren Klein">Read More</a>
+        </div>
+    </div>
+    <div class="announce">
         <a href="/announcements/leon-derczynski"><img src="/images/announce/leon-derczynski.jpg" alt="Leon Derczynski"></a>
         <div class="content">
             <h3>Keynote Leon Derczynski</h3>
@@ -120,17 +131,6 @@ including – but not limited to – the following: Applications of statistical 
 enrich and analyse...
             </p>
             <a class="link-button" href="/cfp">Read More</a>
-        </div>
-    </div>
-    <div class="announce">
-        <a href="/announcements/lauren-klein"><img src="/images/announce/lauren-klein.jpg" alt="Lauren Klein"></a>
-        <div class="content">
-            <h3>Keynote Lauren Klein</h3>
-            <p>
-    We are happy to announce that Lauren Klein, Winship Distinguished Research Professor and Associate Professor in the 
-departments of Quantitative Theory & Methods and English at Emory University, will give a keynote speech ...
-            </p>
-            <a class="link-button" href="/announcements/lauren-klein" aria-label="Press to read more about Lauren Klein">Read More</a>
         </div>
     </div>
     <div class="announce">
