@@ -46,7 +46,7 @@
 <p style='font-size:0.8rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Spencer Dean Stewart</p>
 <p><strong>Presented in</strong> <a href="/programme/#session5A">Session 5A: Linguistic Change</a></p>
-<p><strong>Paper:</strong> LINK TBA</p>
+<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3834/paper18.pdf">Download PDF</a></p>
 </section>
 
 <section>

@@ -46,7 +46,7 @@
 <p style='font-size:0.8rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Simone Rebora and Gabriele Vezzani</p>
 <p><strong>Presented in</strong> <a href="/programme/#session6A">Session 6A: Annotation</a></p>
-<p><strong>Paper:</strong> LINK TBA</p>
+<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3834/paper46.pdf">Download PDF</a></p>
 </section>
 
 <section>

@@ -46,7 +46,7 @@
 <p style='font-size:0.8rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> David Bamman, Kent K. Chang and Li Lucy and Naitian Zhou</p>
 <p><strong>Presented in</strong> <a href="/programme/#session4A">Session 4A: Large Language Models</a></p>
-<p><strong>Paper:</strong> LINK TBA</p>
+<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3834/paper119.pdf">Download PDF</a></p>
 </section>
 
 <section>

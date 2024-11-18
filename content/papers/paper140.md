@@ -45,7 +45,7 @@
 <section class="metadata">
 <p style='font-size:0.8rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Kim Alexander</p>
-<p><strong>Paper:</strong> LINK TBA</p>
+<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3834/paper140.pdf">Download PDF</a></p>
 </section>
 
 <section>

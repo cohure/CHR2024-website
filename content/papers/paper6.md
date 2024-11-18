@@ -46,7 +46,7 @@
 <p style='font-size:0.8rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Sungpil Wang and Juyong Park</p>
 <p><strong>Presented in</strong> <a href="/programme/#session2B">Session 2B: Semantic Analysis</a></p>
-<p><strong>Paper:</strong> LINK TBA</p>
+<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3834/paper6.pdf">Download PDF</a></p>
 </section>
 
 <section>

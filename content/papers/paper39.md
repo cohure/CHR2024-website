@@ -46,7 +46,7 @@
 <p style='font-size:0.8rem'><i>(long paper)</i></p>
 <p><strong>Authors:</strong> Ruben Ros and Melvin Wevers</p>
 <p><strong>Presented in</strong> <a href="/programme/#session7A">Session 7A: Social Patterns</a></p>
-<p><strong>Paper:</strong> LINK TBA</p>
+<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3834/paper39.pdf">Download PDF</a></p>
 </section>
 
 <section>

@@ -46,7 +46,7 @@
 <p style='font-size:0.8rem'><i>(short paper)</i></p>
 <p><strong>Authors:</strong> Julia Neugarten, Tess Dejaeghere, Pranaydeep Singh, Amanda Robin Hemmons and Julie M. Birkholz</p>
 <p><strong>Presented in</strong> <a href="/programme/#postersession">Poster Session</a></p>
-<p><strong>Paper:</strong> LINK TBA</p>
+<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3834/paper23.pdf">Download PDF</a></p>
 </section>
 
 <section>

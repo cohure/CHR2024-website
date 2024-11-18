@@ -46,7 +46,7 @@
 <p style='font-size:0.8rem'><i>(short paper)</i></p>
 <p><strong>Authors:</strong> Berat Kurar-Barakat, Daria Vasyutinsky-Shapira, Sharva Gogawale and Mohammad Suliman and Nachum Dershowitz</p>
 <p><strong>Presented in</strong> <a href="/programme/#session6B">Session 6B: Multilingualism & Translation Studies</a></p>
-<p><strong>Paper:</strong> LINK TBA</p>
+<p><strong>Paper:</strong> <a href="https://ceur-ws.org/Vol-3834/paper42.pdf">Download PDF</a></p>
 </section>
 
 <section>
