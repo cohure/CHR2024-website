@@ -50,7 +50,7 @@ date: 2021-02-19T16:05:25+01:00
     </p>
     <h2>The Keynote</h2>
     <p>
-    Title:<em>"When Theory Leads: Towards a Humanities-Forward Model of Computational Research"</em>
+    Title: <em>"When Theory Leads: Towards a Humanities-Forward Model of Computational Research"</em>
     </p>
     <h3>Abstract</h3>
     <div class="abstract">
