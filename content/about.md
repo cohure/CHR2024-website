@@ -72,8 +72,7 @@ title: "About"
 
 <!-- WRITTEN CONTENT STARTS HERE -->
 The Computational Humanities Research (CHR) community is an international and interdisciplinary community that supports researchers with an interest in computational approaches to the humanities. Learn more about the people behind CHR2024 and the organisation of CHR:
-<br>
-<br>
+<div class="space" style="padding-top:0.5%;"></div>
 <div class="banner-grid">
     <a href="/people" class="banner" aria-label="View People section">
         <h2>People</h2>
@@ -94,5 +93,3 @@ The Computational Humanities Research (CHR) community is an international and in
         </div>
     </a>
 </div>
-
-<div class="space" style="margin-top:10wv; padding-top:20%;"></div>

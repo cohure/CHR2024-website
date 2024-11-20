@@ -3,6 +3,11 @@ title: "CHR 2024"
 date: 2019-12-15T11:12:14+01:00
 ---
 <style>
+  h1, h2 {
+    margin-top: 1em; 
+    margin-bottom: 0rem;
+  }
+
   /* Card row layout */
   .card-row {
     display: flex;
@@ -146,7 +151,8 @@ date: 2019-12-15T11:12:14+01:00
         <span style="font-size:0.8em; color:rgb(117, 21, 67); font-weight:1000; display:block; margin-top:8px;">(DEADLINE NOVEMBER 25, 2024)</span>
     </span></b>
 </h3>
-</br>
+
+<div class="space" style="padding-top:0.5%;"></div>
 
 The Computational Humanities Research (CHR) community is an international and
 interdisciplinary community that supports researchers with an interest in computational
@@ -155,7 +161,7 @@ approaches to the humanities.
 The 2024 edition of the Computational Humanities Research conference will take
 place on **December 4-6, 2024** at Aarhus University, Denmark. Read more about CHR2024:
 
-<div class="space" style="padding-top:2%;"></div>
+<div class="space" style="padding-top:0.5%;"></div>
 
 <div class="banner-grid">
     <a href="/announcements" class="banner" aria-label="View Announcements">
@@ -178,9 +184,9 @@ place on **December 4-6, 2024** at Aarhus University, Denmark. Read more about C
     </a>
 </div>
 
-<div class="space" style="padding-top:2%;"></div>
+<div class="space" style="padding-top:0.5%;"></div>
 
-### Keynote Speakers 
+<h2>Keynote Speakers</h2>
 
 We are very honoured and pleased that Lauren Klein and Leon Derczynski have agreed to give keynote lectures at CHR2024.
 <div class="card-row">
