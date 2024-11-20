@@ -40,7 +40,7 @@
     }
 </style>
 <main role="main">
-<h2>Latent structures in french fiction</h2>
+<h2>Latent Structures of Intertextuality in French Fiction</h2>
 
 <section class="metadata">
 <p style='font-size:0.8rem'><i>(short paper)</i></p>

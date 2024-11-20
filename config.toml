@@ -41,11 +41,11 @@ publishDir = "docs"
       url = "/about"
       weight = -1000
 
-   [[menu.main]]
-     identifier = "CHR2025"
-     name = "CHR2025"
-     url = "/hosting"
-     weight = -500
+   # [[menu.main]]
+     # identifier = "CHR2025"
+     # name = "CHR2025"
+     # url = "/hosting"
+     # weight = -500
 
     # [[menu.main]]
       # identifier = "journal"
