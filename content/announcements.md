@@ -50,6 +50,16 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="announcements">
     <div class="announce">
+        <a href="https://ceur-ws.org/Vol-3834/"><img src="/images/announce/chr-proceedings.jpg" alt="CHR 2024 graphic with 'Proceedings' written in white text"></a>
+        <div class="content">
+            <h3>Proceedings are online</h3>
+            <p>
+            The CHR2024 proceedings are now online, comprising 78 papers that reflect the diverse and innovative research happening in Computational Humanities. With the conference just two weeks away, this is a great chance to explore the topics - or just enjoy the work during the conference ...
+            </p>
+            <a class="link-button" href="https://ceur-ws.org/Vol-3834/" aria-label="Press to check out the proceedings">Read More</a>
+        </div>
+    </div>
+    <div class="announce">
         <a href="/programme/"><img src="/images/announce/programme.jpg" alt="CHR 2024 Conference Programme written in white text"></a>
         <div class="content">
             <h3>CHR2024 Programme</h3>
