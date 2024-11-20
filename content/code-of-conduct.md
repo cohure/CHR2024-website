@@ -30,6 +30,8 @@ gender, sexuality, race/ethnicity, class, age, disability, and religion/creed, w
 Any consultation with a person from the Anti-discrimination Committee comes with an assurance of anonymity, unless or until the consent of otherwise is expressly given. 
 Whoever receives anonymous complaints will pass them to the rest of the Anti-discrimination Committee, who will consider, record, and monitor the situation.
 
+**[Report an incident](https://survey.au.dk/LinkCollector?key=J4ACAFQ3SJ12)**
+
 ## **Conference Anti-discrimination Committee**
 The Anti-discrimination Committee is composed by the CHR Diversity and Inclusion Officer (Barbara McGillivray) and a member of the local organisation committee (Line Ejby Sørensen). 
 Following its principles, the Committee will be in charge of the investigation, fact-finding, fact-checking, resolution (upheld or dismissed report), and action (support, arbitration, and sanction). 
