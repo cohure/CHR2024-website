@@ -79,24 +79,72 @@
                 <div class="section no-pad-bot">
 <div class="section no-pad-bot" id="index-banner">
     <div class="container">
-        <h2 class="header center">Getting around in Aarhus</h2>
+        <h2 class="header center">Finding the Conference Venue</h2>
         <h3 class="header center"></h3>
     </div>
 </div>
 <div class="container">
     <div class="section content">
-        <style>
-    /* styling for toggles */
-    summary {
-        font-size: 1.3em; /* Adjust the font size to be similar to an h3 */
+          <style>
+    img {
+        max-height: 800px;
+        max-width: 100%;
+    }
+
+    figure {
+        text-align: center;
+        margin: 0; 
+    }
+
+    /* define map */
+    .map-container {
+        background: rgba(96,24,67,0.03);
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+    .location-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        gap: 1rem;
+        padding: 0;
+        margin: 0;
+    }
+
+    .location-item {
+        background: rgba(96,24,67,0.03);
+        padding: 1.5rem;
+        border-radius: 6px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+
+    .location-marker {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        color: white;
+        text-align: center;
+        line-height: 30px;
+        border-radius: 50%;
+        margin-right: 8px;
         font-weight: bold;
-        cursor: pointer;
-        margin-bottom: 10px;
-      }
-    
-    details {
-        margin-bottom: 20px; /* Adds spacing below each toggle section */
-      }
+    }
+
+    .location-name {
+        font-weight: bold;
+        color: #2c3e50;
+        vertical-align: middle;
+    }
+
+    .location-details {
+        margin-left: 42px;
+        color: #666;
+        font-size: 0.9rem;
+        margin-top: 0rem;
+    }
 
 /* define banner for about page */
 .banner-grid {
@@ -163,13 +211,12 @@
         height: 28px;
     }
 }
-</style>
-<p>Discover the many travel options that Aarhus has, and read more about how to buy public tickets.</p>
-<p>If you wish to find the venue or read about how CHR2024 aids with navigating to the conference dinner, read more here:</p>
+  </style>
+<p>The main address of the CHR2024 conference is <a href="https://maps.app.goo.gl/9sM2wLpzXuNjrWNr8">Bartholins Allé 8, 8000 Aarhus C</a>, where the registration and breakfast takes place on the first day. Read more about transport:</p>
 <div class="space" style="padding-top:0.5%;"></div>
 <div class="banner-grid">
-    <a href="/venue/finding-the-venue" class="banner" aria-label="Read the page about finding the conference venue in Aarhus">
-        <h2>Finding the venue</h2>
+    <a href="/venue/getting-around-aarhus" class="banner" aria-label="Read the page about getting around in Aarhus">
+        <h2>Getting Around in Aarhus</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
@@ -182,38 +229,44 @@
     </a>
 </div>
 <div class="space" style="padding-top:0.5%;"></div>
-<h2>Travel Options</h2>
-<h3 style="font-weight:bold;">Walking</h3>
-<p>The entire city is clean, compact and well-organised, which makes walking an excellent and enjoyable way to get around.
-To walk from the centre of the city to the university takes approximately 40 minutes.</p>
-<h3 style="font-weight:bold;">Taxi/Cab</h3>
-<p>To book a taxi, please call (+45) 8948 4848 or ask your hotel receptionist. There is also a taxi stand right outside the main exit of the train station and conveniently located taxi stands all over the city.</p>
-<h3 style="font-weight:bold;">Bus</h3>
-<p>Aarhus Sporveje, the municipal bus company, runs the yellow buses in the city. The bus route number is indicated at the front and the back of the bus and the destination is displayed at the front and above the rear door.</p>
-<p><em>Please note</em> that you cannot buy tickets on the bus or light rail. Read more about <a href="#how-to-buy-tickets-for-public-transport">how to buy tickets for public transport</a>.</p>
-<h3 style="font-weight:bold;">Letbanen (Light rail)</h3>
-<p>Getting around in Aarhus is also easy with Denmark’s first light rail, Letbanen, operated by the company Midttrafik. Stops are located throughout Aarhus, making it easy to experience the city. The area around the Central Station and Dokk1 is the main junction point.</p>
-<p><em>Please note</em> that you cannot buy tickets on the bus or light rail. Read more about <a href="#how-to-buy-tickets-for-public-transport">how to buy tickets for public transport</a>.</p>
-<h3 style="font-weight:bold;">Cycling</h3>
-<p>Denmark is an ideal country for cycling. There are not many (very) steep hills and there are many safe cycling paths.
-Urban conditions for cyclists are one of the best in the world and constantly being improved.
-Look out for the special cyclists’ routes (cykelruter) and cycle paths (cykelstier). <a href="https://www.visitaarhus.com/areas-and-cities/aarhus/activities/aarhus-bike">Read more about how to rent a bike</a>.</p>
-<h2 id="how-to-buy-tickets-for-public-transport">How To Buy Tickets for Public Transport</h2>
-<p>In the Midttrafik app you can buy single tickets, 10-point season tickets and day tickets for Aarhus and the whole of Central Jutland.
-Tickets from the Midttrafik app can be used on Midttrafik buses &amp; Letbanen (Light rail).</p>
-<h3 style="font-weight:bold;">Day tickets including airport bus tickets</h3>
-<p>With a Day Ticket Aarhus, you can travel freely for a whole day in Aarhus. The day-ticket is an excellent option if you intend on using public transportation (bus and light rail) to and from the conference dinner</p>
-<ul style="font-size: 1.2rem;">
-  <li><strong>Day Ticket Aarhus:</strong> DKK 49,-</li>
-  <li><strong>Day Ticket Midtjylland:</strong> DKK 99,-</li>
-</ul>
-<p>See more and <a href="https://www.midttrafik.dk/english/tickets/dayticket/">buy here</a></p>
-<h3 style="font-weight:bold;">Buying a "Rejsekort" for easy travelling</h3>
-<p>International guests are able to buy Anonymous &ldquo;Rejsekort&rdquo; at selected 7-Elevens (DSB) in Aarhus and Copenhagen (look below for addresses). With a Rejsekort you can travel freely, with discounts, and use one card to check in groups.</p>
-<p>You can also buy a Rejsekort Anonymous at Rejsekort Vending Machines at all Metro stations, at DSB&rsquo;s Vending Machines at Copenhagen Central Station or in Copenhagen Airport.</p>
-<p><strong>Aarhus H</strong>: DSB 7-Eleven, address: Banegårdspladsen 1 D, 8000 Århus C</p>
-<p><strong>København H</strong>: DSB 7-Eleven, address: Københavns hovedbanegård, 1570 København V</p>
-<p>Read more about this option at <a href="https://www.rejsekort.dk">https://www.rejsekort.dk</a> or <a href="https://www.rejsekort.dk/en/bestil/rejsekort-anonymt">https://www.rejsekort.dk/en/bestil/rejsekort-anonymt</a>. Feel free to contact the CHR staff on-site if you have any questions regarding the Rejsekort.</p>
+<h2 id="map-of-the-venue">Map of the Venue</h2>
+<p>At CHR2024, all locations are conveniently within a short walking distance. Gain an overview below:</p>
+ <div class="map-container">
+    <img src="/images/venue/AU-MAP-FESTIVAL-EDITION-25-nov-2024.jpg" alt="Map of the conference venue with outlined areas" style="width: 100%; height: auto; border-radius: 4px;">
+  </div>
+    <div class="location-grid">
+        <div class="location-item">
+            <span class="location-marker" style="background:#357A76">A</span>
+            <span class="location-name">Building 1321</span>
+            <div class="location-details"><br><p style="font-weight:700;font-size:1rem;">Registration and Breakfast</p></div>
+        </div>
+        <div class="location-item">
+            <span class="location-marker" style="background:#479FF7;">B</span>
+            <span class="location-name">Building 1343</span>
+            <div class="location-details">Rooms: 275<br><p style="font-weight:700;font-size:1rem;">Keynotes & Award Ceremony</p></div>
+        </div>
+        <div class="location-item">
+            <span class="location-marker" style="background:#EB372A">C</span>
+            <span class="location-name">Building 1324</span>
+            <div class="location-details">Rooms: 011 + 025 <br><p style="font-weight:700;font-size:1rem;">Session A (011) + Session B (025)</p></div>
+        </div>
+        <div class="location-item">
+            <span class="location-marker" style="background:#8D265E">D</span>
+            <span class="location-name">Building 1342</span>
+            <div class="location-details">Rooms: 455<br><p style="font-weight:700;font-size:1rem;">Session A on Friday only</p></div>
+        </div>
+        <div class="location-item">
+            <span class="location-marker" style="background:#81D554">F</span>
+            <span class="location-name">Building 1422</span>
+            <div class="location-details">Rooms: 122, 125, and 132<br><p style="font-weight:700;font-size:1rem;">Lunch & Poster Session</p></div>
+        </div>
+        <div class="location-item">
+            <span class="location-marker" style="background:#AC70F7">G</span>
+            <span class="location-name">Antikmuseet</span>
+            <div class="location-details"><br><p style="font-weight:700;font-size:1rem;">Opening Reception</p></div>
+        </div>
+    </div>
+<p>If you have trouble locating the building, you can search for the building number on <a href="https://international.au.dk/about/contact/?b=1324">AU&rsquo;s website</a> or use Aarhus University&rsquo;s <a href="https://international.au.dk/about/contact/aufind">AU FIND</a> app, available for both iPhone and Android.</p>
 
     </div>
 </div>
