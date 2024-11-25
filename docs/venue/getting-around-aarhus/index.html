@@ -97,26 +97,123 @@
     details {
         margin-bottom: 20px; /* Adds spacing below each toggle section */
       }
+
+/* define banner for about page */
+.banner-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 20px;
+    padding: 0px;
+}
+
+.banner {
+    background-color: #002147;
+    color: white;
+    padding: 15px;  /* minimal padding */
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row; /* row to place arrow beside text */
+    align-items: center;
+    justify-content: space-between; /* space between text and arrow */
+    text-decoration: none;
+    transition: all 0.3s ease;
+    height: 100%;  /* controlled height */
+    width: 100%; /* fixed width for consistency */
+    text-decoration: none !important;
+}
+
+.banner h2 {
+    font-size: 1.2rem;
+    margin: 0;
+    color: white;
+    text-align: left; /* align text to left for better flow */
+}
+
+.banner .arrow {
+    margin-left: 10px;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #002147;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.banner:hover {
+    background-color: #4b0033;
+}
+
+.banner:hover .arrow {
+    background-color: white;
+    color: #4b0033;
+}
+
+@media (max-width: 480px) {a
+    .banner h2 {
+        font-size: 1rem;
+    }
+
+    .banner .arrow {
+        width: 28px;
+        height: 28px;
+    }
+}
 </style>
-<p>In Aarhus, we say that everything is within walking distance and when you arrive to the city, it is obvious to see why.
-If you arrive at the train station, it is only a few minutes walk before arriving at your hotel or conference venue.
-From here, within minutes, you have the opportunity to experience a vibrant city life with restaurants, shopping, museums and cultural experiences - just waiting for you to explore. The many ways you can travel around Aarhus are listed below.</p>
+<p>Discover the many travel options that Aarhus has, and read more about how to buy public tickets.</p>
+<p>If you wish to find the venue or read about how CHR2024 aids with navigating to the conference dinner, read more here:</p>
+<div class="space" style="padding-top:0.5%;"></div>
+<div class="banner-grid">
+    <a href="/venue/finding-the-venue" class="banner" aria-label="Read the page about finding the conference venue in Aarhus">
+        <h2>Finding the venue</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
+    <a href="/venue/conference-dinner#conference-dinner-transport" class="banner" aria-label="Read section about getting to the conference">
+        <h2>Get to the Conference Dinner</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
+</div>
+<div class="space" style="padding-top:0.5%;"></div>
+<h2>Travel Options</h2>
 <h3 style="font-weight:bold;">Walking</h3>
 <p>The entire city is clean, compact and well-organised, which makes walking an excellent and enjoyable way to get around.
-To walk from the centre of the city to the university takes approximately 30 minutes.</p>
+To walk from the centre of the city to the university takes approximately 40 minutes.</p>
 <h3 style="font-weight:bold;">Taxi/Cab</h3>
 <p>To book a taxi, please call (+45) 8948 4848 or ask your hotel receptionist. There is also a taxi stand right outside the main exit of the train station and conveniently located taxi stands all over the city.</p>
 <h3 style="font-weight:bold;">Bus</h3>
 <p>Aarhus Sporveje, the municipal bus company, runs the yellow buses in the city. The bus route number is indicated at the front and the back of the bus and the destination is displayed at the front and above the rear door.</p>
-<p><em>Please note</em> that you cannot buy tickets on the bus or light rail. For more information on how to buy a ticket before travelling, please check your options <a href="https://www.visitaarhus.com/aarhus-region/plan-your-trip/ticket-bus-and-light-rail-aarhus-region-gdk720815">here</a>.</p>
+<p><em>Please note</em> that you cannot buy tickets on the bus or light rail. Read more about <a href="#how-to-buy-tickets-for-public-transport">how to buy tickets for public transport</a>.</p>
 <h3 style="font-weight:bold;">Letbanen (Light rail)</h3>
 <p>Getting around in Aarhus is also easy with Denmark’s first light rail, Letbanen, operated by the company Midttrafik. Stops are located throughout Aarhus, making it easy to experience the city. The area around the Central Station and Dokk1 is the main junction point.</p>
-<p><em>Please note</em> that you cannot buy tickets on the bus or light rail.
-For more information on how to buy a ticket before travelling, please check your options <a href="https://www.visitaarhus.com/aarhus-region/plan-your-trip/ticket-bus-and-light-rail-aarhus-region-gdk720815">here</a>.</p>
+<p><em>Please note</em> that you cannot buy tickets on the bus or light rail. Read more about <a href="#how-to-buy-tickets-for-public-transport">how to buy tickets for public transport</a>.</p>
 <h3 style="font-weight:bold;">Cycling</h3>
 <p>Denmark is an ideal country for cycling. There are not many (very) steep hills and there are many safe cycling paths.
 Urban conditions for cyclists are one of the best in the world and constantly being improved.
 Look out for the special cyclists’ routes (cykelruter) and cycle paths (cykelstier). <a href="https://www.visitaarhus.com/areas-and-cities/aarhus/activities/aarhus-bike">Read more about how to rent a bike</a>.</p>
+<h2 id="how-to-buy-tickets-for-public-transport">How To Buy Tickets for Public Transport</h2>
+<p>In the Midttrafik app you can buy single tickets, 10-point season tickets and day tickets for Aarhus and the whole of Central Jutland.
+Tickets from the Midttrafik app can be used on Midttrafik buses &amp; Letbanen (Light rail).</p>
+<h3 style="font-weight:bold;">Day tickets including airport bus tickets</h3>
+<p>With a Day Ticket Aarhus, you can travel freely for a whole day in Aarhus. The day-ticket is an excellent option if you intend on using public transportation (bus and light rail) to and from the conference dinner</p>
+<ul style="font-size: 1.2rem;">
+  <li><strong>Day Ticket Aarhus:</strong> DKK 49,-</li>
+  <li><strong>Day Ticket Midtjylland:</strong> DKK 99,-</li>
+</ul>
+<p>See more and <a href="https://www.midttrafik.dk/english/tickets/dayticket/">buy here</a></p>
+<h3 style="font-weight:bold;">Buying a "Rejsekort" for easy travelling</h3>
+<p>International guests are able to buy Anonymous &ldquo;Rejsekort&rdquo; at selected 7-Elevens (DSB) in Aarhus and Copenhagen (look below for addresses). With a Rejsekort you can travel freely, with discounts, and use one card to check in groups.</p>
+<p>You can also buy a Rejsekort Anonymous at Rejsekort Vending Machines at all Metro stations, at DSB&rsquo;s Vending Machines at Copenhagen Central Station or in Copenhagen Airport.</p>
+<p><strong>Aarhus H</strong>: DSB 7-Eleven, address: Banegårdspladsen 1 D, 8000 Århus C</p>
+<p><strong>København H</strong>: DSB 7-Eleven, address: Københavns hovedbanegård, 1570 København V</p>
+<p>Read more about this option at <a href="https://www.rejsekort.dk">https://www.rejsekort.dk</a> or <a href="https://www.rejsekort.dk/en/bestil/rejsekort-anonymt">https://www.rejsekort.dk/en/bestil/rejsekort-anonymt</a>. Feel free to contact the CHR staff on-site if you have any questions regarding the Rejsekort.</p>
 
     </div>
 </div>

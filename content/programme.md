@@ -211,9 +211,9 @@ input:focus-visible + label {
     }
 </style>
 <!-- HTML FOR PROGRAMME -->
-Programme for the [pre-conference workshops](#parallel-workshops) on [Tuesday](#tuesday), 3rd December 2024, and the main conference days on [Wednesday](#wednesday), [Thursday](#thursday), and [Friday](#friday), 4th-6th December 2024. 
+Programme for the [pre-conference workshops](#parallel-workshops) on [Tuesday](#tuesday), 3rd December 2024, and the main conference days on [Wednesday](#wednesday), [Thursday](#thursday), and [Friday](#friday), 4th-6th December 2024. See all [accepted papers](/papers).
 
-You can also get an overview of all accepted papers [here](/papers).
+The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. [Get help with finding venue locations](/venue/finding-the-venue). 
 
 *Note: Changes may occur in the programme. Please check regularly for the latest information.*
 
@@ -287,8 +287,7 @@ You can also get an overview of all accepted papers [here](/papers).
           <li>17:00: Opening reception</li>
       </ul>
       </p>
-      <h3 style="font-weight:bold; font-size:2.3em;">Overview of sessions</h3>
-      <!-- Session 1A -->
+
 <div class="session-block session-a">
 <h3 id="session1A" alt="Session 1A: Visual Arts and Art History (13:30-15:00)">Session 1A: Visual Arts and Art History (13:30-15:00)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href=https://international.au.dk/about/contact/?b=1324>Building: 1324</a>, Room: 011</span></div><p class="paper-entry"><a href="/papers/paper20" class="paper-title">Viability of Zero-shot Classification and Search of Historical Photos</a><span class="paper-type">(long)</span><span class="paper-authors">Erika Maksimova, Mari-Anna Meimer, Mari Piirsalu and Priit Järv</span></p>
