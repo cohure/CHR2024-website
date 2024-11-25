@@ -81,7 +81,7 @@ title: "Getting around in Aarhus"
 }
 </style>
 
-Discover the many travel options that Aarhus has, and read more about how to buy public tickets.
+Discover the many travel options that Aarhus has, and read more about how to buy tickets for public transport.
 
 
 If you wish to find the venue or read about how CHR2024 aids with navigating to the conference dinner, read more here:
