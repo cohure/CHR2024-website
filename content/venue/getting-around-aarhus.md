@@ -65,7 +65,7 @@ With a Day Ticket Aarhus, you can travel freely for a whole day in Aarhus. The d
   <li><strong>Day Ticket Midtjylland:</strong> DKK 99,-</li>
 </ul>
 
-See more and [buy here](https://www.midttrafik.dk/english/tickets/dayticket/)
+[See more and buy here](https://www.midttrafik.dk/english/tickets/dayticket/)
 
 <h3 style="font-weight:bold;">Buying a "Rejsekort" for easy travelling</h3>
 

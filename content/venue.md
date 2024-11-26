@@ -103,7 +103,7 @@ The main address of the CHR2024 conference is [Bartholins Allé 8, 8000 Aarhus C
 
 <h3 style="font-weight:bold;">Conference Information</h3>
 
-Need help with public transport in Aarhus? Or want to hear more about the conference dinner? Read more: 
+Need tips on public transport in Aarhus or details about the conference dinner? Find out more here:
 
 <div class="banner-grid four-items">
     <a href="/venue/finding-the-venue" class="banner" aria-label="Press to get an overview of the buildings for CHR2024">
@@ -138,7 +138,7 @@ Need help with public transport in Aarhus? Or want to hear more about the confer
 
 <h3 style="font-weight:bold;">Explore Aarhus</h3>
 
-Aarhus has fantastic sights and culinary experiences to offer. Read some of our curated recommendations:
+Discover Aarhus's incredible sights and culinary delights with our curated recommendations:
 
 <div class="banner-grid">
     <a href="/venue/sights-in-aarhus" class="banner" aria-label="Press to explore sights and attractions in Aarhus">
@@ -159,7 +159,7 @@ Aarhus has fantastic sights and culinary experiences to offer. Read some of our 
 
 <h3 style="font-weight:bold;">Booking Your Stay</h3>
 
-Unsure how to arrive in Aarhus by train, airport or bus? Want to stay at a hotel with other conference attendees? Read more: 
+Looking for a hotel near fellow conference attendees? Not sure how to reach Aarhus by train, bus, or plane? Learn more here:
 <div class="banner-grid">
     <a href="/venue/accomodation-in-aarhus" class="banner" aria-label="Press to view accommodation options in Aarhus">
         <h2>Accommodation in Aarhus</h2>
