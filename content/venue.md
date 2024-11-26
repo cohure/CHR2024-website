@@ -80,12 +80,16 @@ title: "Venue"
 
 
 <!--WRITTEN CONTENT STARTS HERE-->
-The CHR2024 Conference will be held on December 4-6 with workshops taking place on the December 3rd.
-The conference will take place in Aarhus, Denmark at Aarhus University, in their historical buildings located in the city center, close to the urban environment and its vibrant atmosphere as well as nature, including parks, forest and the coastline.
+The CHR2024 Conference will be held on <span style="font-weight: 700;">December 4-6</span> with workshops taking place on the December 3rd. The conference will take place in <span style="font-weight:700;">Aarhus, Denmark at Aarhus University</span>, in their historical buildings located in the city center, close to the vibrant urban environment as well as nature, including parks, forest and the coastline. 
 
-<div class="space" style="padding-top:2%;"></div>
+The main address of the CHR2024 conference is [Bartholins Allé 8, 8000 Aarhus C](https://maps.app.goo.gl/9sM2wLpzXuNjrWNr8), where the registration and breakfast take place on the first day.
+
+<div class="space" style="padding-top:1%;"></div>
 
 <h3 style="font-weight:bold;">Conference Information</h3>
+
+Need help with public transport in Aarhus? Or want to hear more about the conference dinner? Read more: 
+
 <div class="banner-grid">
     <a href="/venue/finding-the-venue" class="banner" aria-label="Press to get an overview of the buildings for CHR2024">
         <h2>Finding the Venue</h2>
@@ -118,6 +122,9 @@ The conference will take place in Aarhus, Denmark at Aarhus University, in their
 
 
 <h3 style="font-weight:bold;">Explore Aarhus</h3>
+
+Aarhus has fantastic sights and culinary experiences to offer. Read some of our curated recommendations:
+
 <div class="banner-grid">
     <a href="/venue/sights-in-aarhus" class="banner" aria-label="Press to explore sights and attractions in Aarhus">
         <h2>Sightseeing in Aarhus</h2>
@@ -136,6 +143,8 @@ The conference will take place in Aarhus, Denmark at Aarhus University, in their
 <div class="space" style="padding-top:2%;"></div>
 
 <h3 style="font-weight:bold;">Booking Your Stay</h3>
+
+Unsure how to arrive in Aarhus by train, airport or bus? Want to stay at a hotel with other conference attendees? Read more: 
 <div class="banner-grid">
     <a href="/venue/accomodation-in-aarhus" class="banner" aria-label="Press to view accommodation options in Aarhus">
         <h2>Accommodation in Aarhus</h2>
