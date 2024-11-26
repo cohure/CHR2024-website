@@ -7,9 +7,19 @@ title: "Venue"
 /* define banner for about page */
 .banner-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
     padding: 0px;
+}
+
+/* special case for 4 elements - 2x2 */
+.banner-grid.four-items {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+/* special case for 6 elements - 3x3 */
+.banner-grid.six-items {
+    grid-template-columns: repeat(3, 1fr);
 }
 
 .banner {
@@ -69,11 +79,16 @@ title: "Venue"
         height: 28px;
     }
 
+/* ensure banners - whether four-item or not, is a list on mobile */
     .banner-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
     padding: 0px;
+}
+
+.banner-grid.four-items {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 }
 </style>
@@ -90,7 +105,7 @@ The main address of the CHR2024 conference is [Bartholins Allé 8, 8000 Aarhus C
 
 Need help with public transport in Aarhus? Or want to hear more about the conference dinner? Read more: 
 
-<div class="banner-grid">
+<div class="banner-grid four-items">
     <a href="/venue/finding-the-venue" class="banner" aria-label="Press to get an overview of the buildings for CHR2024">
         <h2>Finding the Venue</h2>
         <div class="banner-footer">
