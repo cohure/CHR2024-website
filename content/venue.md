@@ -7,9 +7,19 @@ title: "Venue"
 /* define banner for about page */
 .banner-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
     padding: 0px;
+}
+
+/* special case for 4 elements - 2x2 */
+.banner-grid.four-items {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+/* special case for 6 elements - 3x3 */
+.banner-grid.six-items {
+    grid-template-columns: repeat(3, 1fr);
 }
 
 .banner {
@@ -69,24 +79,33 @@ title: "Venue"
         height: 28px;
     }
 
+/* ensure banners - whether four-item or not, is a list on mobile */
     .banner-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
     padding: 0px;
 }
+
+.banner-grid.four-items {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
 }
 </style>
 
 
 <!--WRITTEN CONTENT STARTS HERE-->
-The CHR2024 Conference will be held on December 4-6 with workshops taking place on the December 3rd.
-The conference will take place in Aarhus, Denmark at Aarhus University, in their historical buildings located in the city center, close to the urban environment and its vibrant atmosphere as well as nature, including parks, forest and the coastline.
+The CHR2024 Conference will be held on <span style="font-weight: 700;">December 4-6</span> with workshops taking place on the December 3rd. The conference will take place in <span style="font-weight:700;">Aarhus, Denmark at Aarhus University</span>, in their historical buildings located in the city center, close to the vibrant urban environment as well as nature, including parks, forest and the coastline. 
 
-<div class="space" style="padding-top:2%;"></div>
+The main address of the CHR2024 conference is [Bartholins Allé 8, 8000 Aarhus C](https://maps.app.goo.gl/9sM2wLpzXuNjrWNr8), where the registration and breakfast take place on the first day.
+
+<div class="space" style="padding-top:1%;"></div>
 
 <h3 style="font-weight:bold;">Conference Information</h3>
-<div class="banner-grid">
+
+Need tips on public transport in Aarhus or details about the conference dinner? Find out more here:
+
+<div class="banner-grid four-items">
     <a href="/venue/finding-the-venue" class="banner" aria-label="Press to get an overview of the buildings for CHR2024">
         <h2>Finding the Venue</h2>
         <div class="banner-footer">
@@ -118,6 +137,9 @@ The conference will take place in Aarhus, Denmark at Aarhus University, in their
 
 
 <h3 style="font-weight:bold;">Explore Aarhus</h3>
+
+Discover Aarhus's incredible sights and culinary delights with our curated recommendations:
+
 <div class="banner-grid">
     <a href="/venue/sights-in-aarhus" class="banner" aria-label="Press to explore sights and attractions in Aarhus">
         <h2>Sightseeing in Aarhus</h2>
@@ -136,6 +158,8 @@ The conference will take place in Aarhus, Denmark at Aarhus University, in their
 <div class="space" style="padding-top:2%;"></div>
 
 <h3 style="font-weight:bold;">Booking Your Stay</h3>
+
+Looking for a hotel near fellow conference attendees? Not sure how to reach Aarhus by train, bus, or plane? Learn more here:
 <div class="banner-grid">
     <a href="/venue/accomodation-in-aarhus" class="banner" aria-label="Press to view accommodation options in Aarhus">
         <h2>Accommodation in Aarhus</h2>
