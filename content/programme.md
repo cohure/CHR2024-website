@@ -213,7 +213,7 @@ input:focus-visible + label {
 <!-- HTML FOR PROGRAMME -->
 Programme for the [pre-conference workshops](#parallel-workshops) on [Tuesday](#tuesday), 3rd December 2024, and the main conference days on [Wednesday](#wednesday), [Thursday](#thursday), and [Friday](#friday), 4th-6th December 2024. See all [accepted papers](/papers).
 
-The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. [Get help with finding venue locations](/venue/finding-the-venue). 
+The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. See [*Finding the Venue*](/venue/finding-the-venue). 
 
 *Note: Changes may occur in the programme. Please check regularly for the latest information.*
 
@@ -238,7 +238,6 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. [Get h
   <div class="tab-panels">
   <section id="tuesday" class="tab-panel" alt="tab showing the schedule for tuesday">
    <h2 id="overview-tue" alt="Overview of Tuesday" style="font-weight:bold;">Tuesday, December 3, 2024 (Pre-conference workshops)</h2>
-   <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
    <p>
     <ul>
       <li>09:00-12:30: <a href="#parallel-workshops"><strong>Workshop sessions</strong></a></li>
@@ -246,6 +245,7 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. [Get h
       <li>13:30-17:00: <a href="#parallel-workshops"><strong>Workshop sessions</strong></a></li>
     </ul>    
    </p>
+    <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
    <h3 id="parallel-workshops" style="font-weight:bold; font-size:2em;">Parallel Workshops<h3>
    <h3> Digital Methods for Mythological Research </h3>
    <p style="font-size:1em">
@@ -272,7 +272,6 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. [Get h
   <!-- WED -->
     <section id="wednesday" class="tab-panel" alt="tab showing the schedule for wednesday">
       <h2 id="overview-wed" alt="Overview of Wednesday" style="font-weight:bold;">Wednesday, December 4, 2024 (Day 1)</h2>
-      <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
       <p>
       <ul>
           <li>9:00-11:00: <em>Registration, breakfast and coffee</em></li>
@@ -287,7 +286,11 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. [Get h
           <li>17:00: Opening reception</li>
       </ul>
       </p>
+      <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
 
+<h3 style="font-weight:bold; font-size:2.3em;">Overview of Sessions</h3>
+<h2 id="session1" style="font-weight:bold; font-size:1.8em;">Session 1</h2>
+<!-- Session 1A -->
 <div class="session-block session-a">
 <h3 id="session1A" alt="Session 1A: Visual Arts and Art History (13:30-15:00)">Session 1A: Visual Arts and Art History (13:30-15:00)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href=https://international.au.dk/about/contact/?b=1324>Building: 1324</a>, Room: 011</span></div><p class="paper-entry"><a href="/papers/paper20" class="paper-title">Viability of Zero-shot Classification and Search of Historical Photos</a><span class="paper-type">(long)</span><span class="paper-authors">Erika Maksimova, Mari-Anna Meimer, Mari Piirsalu and Priit Järv</span></p>
@@ -304,6 +307,7 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. [Get h
 <p class="paper-entry"><a href="/papers/paper130" class="paper-title">Subversive Characters and Stereotyping Readers: Characterizing Queer Relationalities with Dialogue-Based Relation Extraction</a><span class="paper-type">(long)</span><span class="paper-authors">Kent K. Chang, Anna Ho and David Bamman</span></p>
 <p class="paper-entry"><a href="/papers/paper52" class="paper-title">Extracting Social Connections from Finnish Karelian Refugee Interviews Using LLMs</a><span class="paper-type">(long)</span><span class="paper-authors">Joonatan Laato, Jenna Kanerva, John Loehr, Virpi Lummaa and Filip Ginter</span></p>
 </div>
+<h2 id="session2" style="font-weight:bold; font-size:1.8em;">Session 2</h2>
       <!-- Session 2A -->
 <div class="session-block session-a">
 <h3 id="session2A" alt="Session 2A: Literature (15:30-17:00)">Session 2A: Literature (15:30-17:00)</h3>
@@ -324,7 +328,6 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. [Get h
   <!-- THUR -->
     <section id="thursday" class="tab-panel" alt="tab showing the schedule for thursday">
       <h2 id="overview-thu" alt="Overview of Thursday" style="font-weight:bold;">Thursday, December 5, 2024 (Day 2) </h2>
-      <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
       <p>
       <ul>
       <li>08:30-09:00: <em>Breakfast</em></li>
@@ -341,6 +344,7 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. [Get h
       <li>20:00: <em>Conference dinner</em></li>
       </ul>
       </p>
+      <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
       <h3 style="font-weight:bold; font-size:2.3em;">Overview of Sessions</h3>
       <h2 id="session3" style="font-weight:bold; font-size:1.8em;">Session 3</h2>
       <!-- Session 3A -->
@@ -435,7 +439,6 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. [Get h
     <!-- FRI -->
     <section id="friday" class="tab-panel" alt="tab showing the schedule for friday">
       <h2 id="overview-fri" alt="Overview of Friday" style="font-weight:bold;">Friday, December 6, 2024 (DAY 3)</h2>
-      <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
       <p>
         <ul>
           <li>08:30-09:00: <em>Breakfast</em></li>
@@ -451,6 +454,7 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. [Get h
           <li>16:30-17:00: <em>Award ceremony, concluding remarks</em></li>
         </ul>
       </p>
+      <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
       <h3 style="font-weight:bold; font-size:2em;">Overview of Sessions<h3>     
       <h2 id="session6" style="font-weight:bold; font-size:1.8em;">Session 6</h2>
       <!-- Session 6A -->
