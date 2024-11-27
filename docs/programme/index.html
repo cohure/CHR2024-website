@@ -292,6 +292,43 @@ input:focus-visible + label {
             font-size: 0.7em !important;
         }
     }
+.schedule-table {
+    width: 100%;
+    max-width: 900px;
+    margin: 2rem auto;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-family: system-ui, -apple-system, sans-serif;
+}
+
+.schedule-table tr {
+    border-bottom: 1px solid #eee;
+}
+
+.schedule-table td {
+    padding: 1rem;
+    vertical-align: top;
+}
+
+.schedule-table .time {
+    width: 140px;
+    font-family: monospace;
+    color: #555;
+    white-space: nowrap;
+}
+
+.schedule-table .highlight {
+    font-weight: bold;
+}
+
+.schedule-table .location {
+    font-size: 0.875rem;
+    color: #383D43;
+}
+
+.schedule-table .location a {
+    color: #383D43;
+}
 </style>
 <!-- HTML FOR PROGRAMME -->
 <p>Programme for the <a href="#parallel-workshops">pre-conference workshops</a> on <a href="#tuesday">Tuesday</a>, 3rd December 2024, and the main conference days on <a href="#wednesday">Wednesday</a>, <a href="#thursday">Thursday</a>, and <a href="#friday">Friday</a>, 4th-6th December 2024. See all <a href="/papers">accepted papers</a>.</p>
@@ -316,16 +353,37 @@ input:focus-visible + label {
   <div class="tab-panels">
   <section id="tuesday" class="tab-panel" alt="tab showing the schedule for tuesday">
    <h2 id="overview-tue" alt="Overview of Tuesday" style="font-weight:bold;">Tuesday, December 3, 2024 (Pre-conference workshops)</h2>
-   <p>
-    <ul>
-      <li>09:00-12:30: <a href="#parallel-workshops"><strong>Workshop sessions</strong></a></li>
-      <li>12:30-13:30: <em>Lunch</em></li>
-      <li>13:30-17:00: <a href="#parallel-workshops"><strong>Workshop sessions</strong></a></li>
-    </ul>    
-   </p>
+    <table class="schedule-table">
+        <tr>
+            <td class="time">09:00 - 12:30</td>
+            <td>
+                <a href="#parallel-workshops"><span class="highlight">Workshop sessions</span></a>
+                <div class="location">
+                    Workshop A: <a href="https://international.au.dk/about/contact/?b=1325#c556911">Building 1325,</a> Room 028 <br>
+                    Workshop B: <a href="https://maps.app.goo.gl/6NTA9rnaJ2U39SGF6">Heimdal Conference Center</a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">12:30 - 13:30</td>
+            <td>
+                Lunch
+            </td>
+        </tr>
+        <tr>
+            <td class="time">13:30 - 17:00</td>
+            <td>
+                <a href="#parallel-workshops"><span class="highlight">Workshop sessions</span></a>
+                <div class="location">
+                    Workshop A: <a href="https://international.au.dk/about/contact/?b=1325#c556911">Building 1325,</a> Room 028 <br>
+                    Workshop B: <a href="https://maps.app.goo.gl/6NTA9rnaJ2U39SGF6">Heimdal Conference Center</a>
+                </div>
+            </td>
+        </tr>
+    </table>
     <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
    <h3 id="parallel-workshops" style="font-weight:bold; font-size:2em;">Parallel Workshops<h3>
-   <h3> Digital Methods for Mythological Research </h3>
+   <h3> Workshop A: Digital Methods for Mythological Research </h3>
    <p style="font-size:1em">
     dm4myth aims to bring together researchers from various disciplines who are interested in studying myths with digital tools and methods.
     We welcome contributions from various disciplines, such as (but not limited to) Ancient Near Eastern Studies, Religious Studies, Classical Studies/Classical Philology, Art History.
@@ -334,7 +392,7 @@ input:focus-visible + label {
     We welcome participants from all stages of their academic career, from (under-)graduate students to early career researchers and senior researchers. (<a href="https://dm4myth.github.io">https://dm4myth.github.io</a>)
    </p>
    <p>
-   <h3>Analysing the Reception of Fiction Novels Across Languages</h3>
+   <h3> Workshop B: Analysing the Reception of Fiction Novels Across Languages</h3>
     <p style="font-size:1em">
     This workshop delves into the intersection of cultural practices and the digital sphere through a hands-on exploration of multilingual fiction book reviewing. 
     It offers participants an immersive experience, guiding them through the full research workflow of computational reader response studies, using book reviews and online comments as proxies for reception.
@@ -349,22 +407,81 @@ input:focus-visible + label {
   </section>
   <!-- WED -->
     <section id="wednesday" class="tab-panel" alt="tab showing the schedule for wednesday">
-      <h2 id="overview-wed" alt="Overview of Wednesday" style="font-weight:bold;">Wednesday, December 4, 2024 (Day 1)</h2>
-      <p>
-      <ul>
-          <li>9:00-11:00: <em>Registration, breakfast and coffee</em></li>
-          <li>11:00-11:30: <em>CHR opening words</em></li>
-          <li>11:30-12:30: <strong>Keynote by <a href="/announcements/leon-derczynski">Leon Derczynski</a></strong></li>
-          <li>12:30-13:30: <em>Lunch</em></li>
-          <li>13:30-15:00: <a href="#session1A"><strong>Session 1A</strong></a> / <a href="#session1B"><strong>Session 1B</strong></a>
-          </li>
-          <li>15:00-15:30: <em>Coffee Break</em></li>
-          <li>15:30-17:00: <a href="#session2A"><strong>Session 2A</strong></a> / <a href="#session2B"><strong>Session 2B</strong></a>
-          </li>
-          <li>17:00: Opening reception</li>
-      </ul>
-      </p>
-      <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
+    <h2 id="overview-wed" alt="Overview of Wednesday" style="font-weight:bold;">Wednesday, December 4, 2024 (Day 1)</h2>
+    <table class="schedule-table">
+        <tr>
+            <td class="time">09:00 - 11:00</td>
+            <td>
+                Registration, breakfast and coffee
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1321#c556911">Building 1321</a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">11:00 - 11:30</td>
+            <td>
+                CHR opening words
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1343#c556911">Building 1343,</a> Room 275
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">11:30 - 12:30</td>
+            <td>
+                <span class="highlight">Keynote by <a href="/announcements/leon-derczynski">Leon Derczynski</a></span>
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1343#c556911">Building 1343,</a> Room 275
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">12:30 - 13:30</td>
+            <td>
+                Lunch
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1422#c556911">Building 1422,</a> Rooms 122, 125, and 132
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">13:30 - 15:00</td>
+            <td>
+                <span class="highlight"><a href="#session1A">Session 1A</a> / <a href="#session1B">Session 1B</a></span>
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324</a>, Rooms 011 / 025
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">15:00 - 15:30</td>
+            <td>
+                Coffee Break
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324</a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">15:30 - 17:00</td>
+            <td>
+                <span class="highlight"><a href="#session2A">Session 2A</a> / <a href="#session2B">Session 2B</a></span>
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324,</a>  Rooms 011 / 025
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">17:00</td>
+            <td>
+                Opening reception
+                <div class="location">
+                <a href="https://www.google.com/maps/place/Museum+of+Ancient+Art,+Aarhus/@56.1699487,10.2046871,17z/data=!4m6!3m5!1s0x464c3fc7a1945547:0xfe0ce45f63d0bd34!8m2!3d56.1704672!4d10.2004485!16s%2Fg%2F122l34s_?entry=tts&g_ep=EgoyMDI0MTExOS4yIPu8ASoASAFQAw%3D%3D">Museum of Ancient Art</a></div>
+            </td>
+        </tr>
+    </table>
+<p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
 <h3 style="font-weight:bold; font-size:2.3em;">Overview of Sessions</h3>
 <h2 id="session1" style="font-weight:bold; font-size:1.8em;">Session 1</h2>
 <!-- Session 1A -->
@@ -404,23 +521,99 @@ input:focus-visible + label {
 </section>
   <!-- THUR -->
     <section id="thursday" class="tab-panel" alt="tab showing the schedule for thursday">
-      <h2 id="overview-thu" alt="Overview of Thursday" style="font-weight:bold;">Thursday, December 5, 2024 (Day 2) </h2>
-      <p>
-      <ul>
-      <li>08:30-09:00: <em>Breakfast</em></li>
-      <li>09:00-10:30: <a href="#lightningtalks"><strong>Lightning talks session</strong></a></li>
-      <li>10:30-11:00: <em>Coffee break</em></li>
-      <li>11:00-12:30: <a href="#session3A"><strong>Session 3A</strong></a> / <a href="#session3B"><strong>Session 3B</strong></a>
-      </li>
-      <li>12:30-13:30: <em>Lunch</em></li>
-      <li>13:30-15:00: <a href="#session4A"><strong>Session 4A</strong></a> / <a href="#session4B"><strong>Session 4B</strong></a>
-      </li>
-      <li>15:00-15:30: <em>Coffee break</em></li>
-      <li>15:30-17:00: <a href="#session5A"><strong>Session 5A</strong></a> / <a href="#session5B"><strong>Session 5B</strong></a>
-      </li>      <li>17:00: <a href="#postersession"><strong>Poster walk-around</strong></a></li>
-      <li>20:00: <em>Conference dinner</em></li>
-      </ul>
-      </p>
+    <h2 id="overview-thu" alt="Overview of Thursday" style="font-weight:bold;">Thursday, December 5, 2024 (Day 2) </h2>
+    <table class="schedule-table">
+        <tr>
+            <td class="time">08:30 - 09:00</td>
+            <td>
+                Breakfast
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324</a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">09:00 - 10:30</td>
+            <td>
+                <span class=highlight><a href="#lightningtalks">Lightning Talks</a></span>
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1343#c556911">Building 1343,</a> Room 275
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">10:30 - 11:00</td>
+            <td>
+                Coffee break
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324</a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">11:00 - 12:30</td>
+            <td>
+                <span class="highlight"><a href="#session3A">Session 3A</a> / <a href="#session3B">Session 3B</a></span>
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324,</a> Rooms 011 / 025
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">12:30 - 13:30</td>
+            <td>
+                Lunch
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1422#c556911">Building 1422,</a> Rooms 122, 125, and 132
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">13:30 - 15:00</td>
+            <td>
+                <span class="highlight"><a href="#session4A">Session 4A</a> / <a href="#session4B">Session 4B</a></span>
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324,</a> Rooms 011 / 025
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">15:00 - 15:30</td>
+            <td>
+                Coffee break
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324</a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">15:30 - 17:00</td>
+            <td>
+                <span class="highlight"><a href="#session5A">Session 5A</a> / <a href="#session5B">Session 5B</a></span>
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324,</a> Rooms 011 / 025
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">17:00</td>
+            <td>
+                <span class="highlight"><a href="#postersession">Poster walk-around</a></span>
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1422#c556911">Building 1422, </a> Room 122
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">20:00</td>
+            <td>
+                Conference dinner
+                <div class="location">
+                    <a href="/venue/conference-dinner#conference-dinner-transport">Restaurant Havnær</a>
+                </div>
+            </td>
+        </tr>
+    </table>
       <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
       <h3 style="font-weight:bold; font-size:2.3em;">Overview of Sessions</h3>
       <h2 id="session3" style="font-weight:bold; font-size:1.8em;">Session 3</h2>
@@ -440,6 +633,7 @@ input:focus-visible + label {
 <p class="paper-entry"><a href="/papers/paper9" class="paper-title">Multilingual Stylometry: The influence of language on the performance of authorship attribution using corpora from the European Literary Text Collection (ELTeC)</a><span class="paper-type">(long)</span><span class="paper-authors">Christof Schöch, Julia Dudar, Evgeniia Fileva and Artjoms Šeļa</span></p>
 </div>
       <!-- Session 4A -->
+<h2 id="session4" style="font-weight:bold; font-size:1.8em;">Session 4</h2>
 <div class="session-block session-a">
 <h3 id="session4A" alt="Session 4A: Large Language Models (13:30-15:00)">Session 4A: Large Language Models (13:30-15:00)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href=https://international.au.dk/about/contact/?b=1324#c556911>Building: 1324</a>, Room: 011</span></div><p class="paper-entry"><a href="/papers/paper96" class="paper-title">Remember to Forget: A Study on Verbatim Memorization of Literature in Large Language Models</a><span class="paper-type">(long)</span><span class="paper-authors">Xinhao Zhang, Olga Seminck and Pascal Amsili</span></p>
@@ -454,6 +648,7 @@ input:focus-visible + label {
 <p class="paper-entry"><a href="/papers/paper110" class="paper-title">Steps Towards Mining Manuscript Images for Untranscribed Texts: A Case Study From the Syriac Collection at the Vatican Library</a><span class="paper-type">(long)</span><span class="paper-authors">Luigi Bambaci, George Kiraz, Christine Roughan, Matthieu Freyder and Daniel Stökl Ben Ezra</span></p>
 </div>
       <!-- Session 5A -->
+<h2 id="session5" style="font-weight:bold; font-size:1.8em;">Session 5</h2>
 <div class="session-block session-a">
 <h3 id="session5A" alt="Session 5A: Linguistic Change (15:30-17:00)">Session 5A: Linguistic Change (15:30-17:00)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href=https://international.au.dk/about/contact/?b=1324#c556911>Building: 1324</a>, Room: 011</span></div><p class="paper-entry"><a href="/papers/paper18" class="paper-title">A Methodology for Studying Linguistic and Cultural Change in China, 1900-1950</a><span class="paper-type">(long)</span><span class="paper-authors">Spencer Dean Stewart</span></p>
@@ -468,9 +663,10 @@ input:focus-visible + label {
 <p class="paper-entry"><a href="/papers/paper55" class="paper-title">Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway’s Digitised Book Collection</a><span class="paper-type">(short)</span><span class="paper-authors">Marie Roald, Magnus Breder Birkenes and Lars Gunnarsønn Bagøien Johnsen</span></p>
 </div>
       <!-- Poster Session -->
+<h2 style="font-weight:bold; font-size:1.8em;">Poster Session & Lightning Talks</h2>
 <div class="session-block alt-session">
 <h3 id="postersession" alt="Poster Session (17:00)">Poster Session (17:00)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href=https://international.au.dk/about/contact/?b=1422#c556911>Building: 1422</a>, Room: 122, 125, 132</span></div><p class="paper-entry"><a href="/papers/paper4" class="paper-title">FAIR Turn in Epigraphy: Low Barrier Pathways to Quantitative and Reproducible Research in Latin Epigraphy</a><span class="paper-type">(short)</span><span class="paper-authors">Petra Heřmánková, Brian Ballsun-Stanton and Ray Laurence</span></p>
+<div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href=https://international.au.dk/about/contact/?b=1422#c556911>Building: 1422</a>, Room: 122</span></div><p class="paper-entry"><a href="/papers/paper4" class="paper-title">FAIR Turn in Epigraphy: Low Barrier Pathways to Quantitative and Reproducible Research in Latin Epigraphy</a><span class="paper-type">(short)</span><span class="paper-authors">Petra Heřmánková, Brian Ballsun-Stanton and Ray Laurence</span></p>
 <p class="paper-entry"><a href="/papers/paper5" class="paper-title">Sub-optimal Recall in Visual Cluster Retrieval: When Clusters Look Like Bridges</a><span class="paper-type">(short)</span><span class="paper-authors">Mathieu Jacomy, Matilde Ficozzi and Anders K. Munk</span></p>
 <p class="paper-entry"><a href="/papers/paper12" class="paper-title">Who Advertises in Newspapers? Data Criticism in Mining Historical Job Ads</a><span class="paper-type">(short)</span><span class="paper-authors">Klara Venglarova, Raven Adam, Wiltrud Mölzer, Saranya Balasubramanian, Jörn Kleinert, Manfred Füllsack and Georg Vogeler</span></p>
 <p class="paper-entry"><a href="/papers/paper23" class="paper-title">Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth</a><span class="paper-type">(short)</span><span class="paper-authors">Julia Neugarten, Tess Dejaeghere, Pranaydeep Singh, Amanda Robin Hemmons and Julie M. Birkholz</span></p>
@@ -516,25 +712,94 @@ input:focus-visible + label {
     <!-- FRI -->
     <section id="friday" class="tab-panel" alt="tab showing the schedule for friday">
       <h2 id="overview-fri" alt="Overview of Friday" style="font-weight:bold;">Friday, December 6, 2024 (DAY 3)</h2>
-      <p>
-        <ul>
-          <li>08:30-09:00: <em>Breakfast</em></li>
-          <li>09:00-10:00: <strong>Keynote by <a href="/announcements/lauren-klein">Lauren Klein</a></strong></li>
-          <li>10:00-10:30: <em>Coffee break</em></li>
-          <li>10:30-12:00: <a href="#session6A"><strong>Session 6A</strong></a> / <a href="#session6B"><strong>Session 6B</strong></a>
-          </li>
-          <li>12:00-13:00: <em>Lunch</em></li>
-          <li>13:00-14:30: <a href="#session7A"><strong>Session 7A</strong></a> / <a href="#session7B"><strong>Session 7B</strong></a>
-          </li>
-          <li>14:30-15:00: <em>Coffee break</em></li>
-          <li>15:00-16:30: <a href="#session8A"><strong>Session 8A</strong></a> / <a href="#session8B"><strong>Session 8B</strong></a>
-          <li>16:30-17:00: <em>Award ceremony, concluding remarks</em></li>
-        </ul>
-      </p>
+    <table class="schedule-table">
+        <tr>
+            <td class="time">08:30 - 09:00</td>
+            <td>
+                Breakfast
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324</a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">09:00 - 10:00</td>
+            <td>
+                <span class="highlight">Keynote by <a href="/announcements/lauren-klein">Lauren Klein</a></span>
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1343#c556911">Building 1343,</a> Room 275 
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">10:00 - 10:30</td>
+            <td>
+                Coffee break
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324</a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">10:30 - 12:00</td>
+            <td>
+                <span class="highlight"><a href="#session6A">Session 6A</a>* / <a href="#session6B">Session 6B</a></span>
+                <div class="location">
+                  <a href="https://international.au.dk/about/contact/?b=1342#c556911">Building 1342,</a> 455 / <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324,</a> 025
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">12:00 - 13:00</td>
+            <td>
+                Lunch
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1422#c556911">Building 1422, Rooms 122, 125, and 132</a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">13:00 - 14:30</td>
+            <td>
+                <span class="highlight"><a href="#session7A">Session 7A</a>* / <a href="#session7B">Session 7B</a></span>
+                <div class="location">
+                  <a href="https://international.au.dk/about/contact/?b=1342#c556911">Building 1342,</a> 455 / <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324,</a> 025
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">14:30 - 15:00</td>
+            <td>
+                Coffee break
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324</a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">15:00 - 16:15</td>
+            <td>
+                <span class="highlight"><a href="#session8A">Session 8A</a>* / <a href="#session8B">Session 8B</a></span>
+                <div class="location">
+                  <a href="https://international.au.dk/about/contact/?b=1342#c556911">Building 1342,</a> 455 / <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324,</a> 025
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">16:15 - 16:45</td>
+            <td>
+                Award ceremony, concluding remarks
+                <div class="location">
+                    <a href="https://international.au.dk/about/contact/?b=1343#c556911">Building 1343,</a> Room 275
+                </div>
+            </td>
+        </tr>
+    </table>
+      <p style="color:darkred;">*NB: Session A has changed location today!</p>
       <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
       <h3 style="font-weight:bold; font-size:2em;">Overview of Sessions<h3>     
-      <h2 id="session6" style="font-weight:bold; font-size:1.8em;">Session 6</h2>
-      <!-- Session 6A -->
+<!-- Session 6A -->
+<h2 id="session6" style="font-weight:bold; font-size:1.8em;">Session 6</h2>
 <div class="session-block session-a">
 <h3 id="session6A" alt="Session 6A: Annotation (10:30-12:00)">Session 6A: Annotation (10:30-12:00)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href=https://international.au.dk/about/contact/?b=1342#c556911>Building: 1342</a>, Room: 455</span></div><p class="paper-entry"><a href="/papers/paper75" class="paper-title">Combining Automatic Annotation with Human Validation for the Semantic Enrichment of Cultural Heritage Metadata</a><span class="paper-type">(long)</span><span class="paper-authors">Eirini Kaldeli, Alexandros Chortaras, Vassilis Lyberatos, Jason Liartis, Spyridon Kantarelis and Giorgos Stamou</span></p>
@@ -551,6 +816,7 @@ input:focus-visible + label {
 <p class="paper-entry"><a href="/papers/paper42" class="paper-title">Computational Paleography of Medieval Hebrew Scripts</a><span class="paper-type">(short)</span><span class="paper-authors">Berat Kurar-Barakat, Daria Vasyutinsky-Shapira, Sharva Gogawale and Mohammad Suliman and Nachum Dershowitz</span></p>
 </div>
       <!-- Session 7A -->
+<h2 id="session7" style="font-weight:bold; font-size:1.8em;">Session 7</h2>
 <div class="session-block session-a">
 <h3 id="session7A" alt="Session 7A: Social Patterns (13:00-14:30)">Session 7A: Social Patterns (13:00-14:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href=https://international.au.dk/about/contact/?b=1342#c556911>Building: 1342</a>, Room: 455</span></div><p class="paper-entry"><a href="/papers/paper93" class="paper-title">And then I saw it: Testing Hypotheses on Turning Points in a Corpus of UFO Sighting Reports</a><span class="paper-type">(short)</span><span class="paper-authors">Jan Langenhorst, Robert C. Schuppe and Yannick Frommherz</span></p>
@@ -566,6 +832,7 @@ input:focus-visible + label {
 <p class="paper-entry"><a href="/papers/paper124" class="paper-title">Once More, With Feeling: Measuring Emotion of Acting Performances in Contemporary American Film</a><span class="paper-type">(long)</span><span class="paper-authors">Naitian Zhou and David Bamman</span></p>
 </div>
       <!-- Session 8A -->
+<h2 id="session8" style="font-weight:bold; font-size:1.8em;">Session 8</h2>
 <div class="session-block session-a">
 <h3 id="session8A" alt="Session 8A: Cultural Dynamics (15:00-16:15)">Session 8A: Cultural Dynamics (15:00-16:15)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href=https://international.au.dk/about/contact/?b=1342#c556911>Building: 1342</a>, Room: 455</span></div><p class="paper-entry"><a href="/papers/paper137" class="paper-title">On the Unity of Literary Change. The Development of Emotions in German Poetry, Prose, and Drama between 1850 and 1920 as a Test Case</a><span class="paper-type">(long)</span><span class="paper-authors">Leonard Konle, Merten Kröncke, Fotis Jannidis and Simone Winko</span></p>
