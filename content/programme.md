@@ -660,7 +660,7 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. See [*
             <td>
                 Coffee break
                 <div class="location">
-                    <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324</a>
+                    <a href="https://international.au.dk/about/contact/?b=1342#c556911">Building 1342</a> / <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324</a>
                 </div>
             </td>
         </tr>
@@ -696,7 +696,7 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. See [*
             <td>
                 Coffee break
                 <div class="location">
-                    <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324</a>
+                     <a href="https://international.au.dk/about/contact/?b=1342#c556911">Building 1342</a> / <a href="https://international.au.dk/about/contact/?b=1324#c556911">Building 1324</a>
                 </div>
             </td>
         </tr>
