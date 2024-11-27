@@ -79,42 +79,42 @@ At CHR2024, all locations are conveniently set within a short walking distance. 
   <div class="location-item">
     <span class="location-marker" style="background:#357A76">A</span>
     <span class="location-name">
-      <a href="https://international.au.dk/about/contact/?b=1321" target="_blank">Building 1321</a>
+      <a href="https://international.au.dk/about/contact/?b=1321#c556911" target="_blank">Building 1321</a>
     </span>
     <div class="location-details"><br><p style="font-weight:700;font-size:1rem;">Registration and Breakfast on <a href="/programme#wednesday">Wednesday</a> (December 4, 2024)</p></div>
   </div>
   <div class="location-item">
     <span class="location-marker" style="background:#479FF7;">B</span>
     <span class="location-name">
-      <a href="https://international.au.dk/about/contact/?b=1343" target="_blank">Building 1343</a>
+      <a href="https://international.au.dk/about/contact/?b=1343#c556911" target="_blank">Building 1343</a>
     </span>
     <div class="location-details">Rooms: 275<br><p style="font-weight:700;font-size:1rem;">Keynotes, Lightning Talks & Award Ceremony</p></div>
   </div>
   <div class="location-item">
     <span class="location-marker" style="background:#EB372A">C</span>
     <span class="location-name">
-      <a href="https://international.au.dk/about/contact/?b=1324" target="_blank">Building 1324</a>
+      <a href="https://international.au.dk/about/contact/?b=1324#c556911" target="_blank">Building 1324</a>
     </span>
     <div class="location-details">Rooms: 011 + 025 <br><p style="font-weight:700;font-size:1rem;">Sessions A (011) + Sessions B (025)</p></div>
   </div>
   <div class="location-item">
     <span class="location-marker" style="background:#8D265E">D</span>
     <span class="location-name">
-      <a href="https://international.au.dk/about/contact/?b=1342" target="_blank">Building 1342</a>
+      <a href="https://international.au.dk/about/contact/?b=1342#c556911" target="_blank">Building 1342</a>
     </span>
     <div class="location-details">Rooms: 455<br><p style="font-weight:700;font-size:1rem;">Sessions A on <a href="/programme#friday">Friday</a> <em>only</em> (December 6th, 2024)</p></div>
   </div>
   <div class="location-item">
     <span class="location-marker" style="background:#81D554">E</span>
     <span class="location-name">
-      <a href="https://international.au.dk/about/contact/?b=1422" target="_blank">Building 1422</a>
+      <a href="https://international.au.dk/about/contact/?b=1422#c556911" target="_blank">Building 1422</a>
     </span>
     <div class="location-details">Rooms: 122, 125, and 132<br><p style="font-weight:700;font-size:1rem;">Lunch & Poster Session</p></div>
   </div>
   <div class="location-item">
     <span class="location-marker" style="background:#AC70F7">F</span>
     <span class="location-name">
-    <a href="https://maps.app.goo.gl/HfvxeNKc3PBaHMp49" target="_blanck">Musuem of Ancient Art</a>
+      <a href="https://maps.app.goo.gl/HfvxeNKc3PBaHMp49" target="_blanck">Musuem of Ancient Art</a>
     </span>
     <div class="location-details"><br><p style="font-weight:700;font-size:1rem;">Opening Reception</p></div>
   </div>
