@@ -246,6 +246,59 @@ input:focus-visible + label {
 .schedule-table .location a {
     color: #383D43;
 }
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.card {
+  border-left: 10px solid;
+  background: #f8f9fa;
+  padding: 0.75rem 1rem;
+  /* Removed hover effect */
+}
+
+.session-a {
+  border-color: #601843;
+}
+
+.session-b {
+  border-color: #132344;
+}
+
+.card a {
+  color: #333;
+  display: flex; /* Added flex layout */
+  align-items: left; 
+  justify-content: space-between; 
+}
+
+.card a::after {
+  content: '→'; /* Added arrow */
+  font-size: 1rem;
+  color: #666;
+}
+
+.zoom-indicator {
+  align-items: left;
+  font-weight: 500;
+}
+
+.card span {
+  display: block;
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 0.25rem;
+  margin-left: 0.50rem;
+}
+
+@media (max-width: 768px) {
+  .cards-grid {
+    grid-template-columns: 1fr;
+  }
+}
 </style>
 <!-- HTML FOR PROGRAMME -->
 Programme for the [pre-conference workshops](#parallel-workshops) on [Tuesday](#tuesday), 3rd December 2024, and the main conference days on [Wednesday](#wednesday), [Thursday](#thursday), and [Friday](#friday), 4th-6th December 2024. See all [accepted papers](/papers).
@@ -405,7 +458,29 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. See [*
     </table>
     
 <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
-
+<!-- zoom overview -->
+<h3 style="font-weight:bold; font-size:1.8em;">INFO</h3>
+<span>
+For online participants, please navigate to the correct Zoom link:
+</span>
+  <div class="cards-grid">
+    <div class="card session-a">
+      <a style="text-decoration:none!important;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">
+        <div class="zoom-indicator">Zoom Link A</div>
+        <span>For Session A, Keynotes, and Lightning Talks</span>
+      </a>
+    </div>
+    <div class="card session-b">
+      <a style="text-decoration:none!important;" href="https://aarhusuniversity.zoom.us/j/65783702178?pwd=snxZ862z76NloikYZTjtZVKQ63YwH9.1">
+        <div class="zoom-indicator">Zoom Link B</div>
+        <span>For Session B only</span>
+      </a>
+    </div>
+  </div>
+<br>
+<span>
+Any in-person participants who needs WiFi, can log-on via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
+</span>
 <h3 style="font-weight:bold; font-size:2.3em;">Overview of Sessions</h3>
 <!-- session heading -->
 <h2 id="session1" style="font-weight:bold; font-size:1.8em;">Session 1</h2>
@@ -541,7 +616,31 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. See [*
         </tr>
     </table>
       <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
-      <h3 style="font-weight:bold; font-size:2.3em;">Overview of Sessions</h3>
+<!-- zoom overview -->
+<h3 style="font-weight:bold; font-size:1.8em;">INFO</h3>
+<span>
+For online participants, please navigate to the correct Zoom link:
+</span>
+  <div class="cards-grid">
+    <div class="card session-a">
+      <a style="text-decoration:none!important;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">
+        <div class="zoom-indicator">Zoom Link A</div>
+        <span>For Session A, Keynotes, and Lightning Talks</span>
+      </a>
+    </div>
+    <div class="card session-b">
+      <a style="text-decoration:none!important;" href="https://aarhusuniversity.zoom.us/j/65783702178?pwd=snxZ862z76NloikYZTjtZVKQ63YwH9.1">
+        <div class="zoom-indicator">Zoom Link B</div>
+        <span>For Session B only</span>
+      </a>
+    </div>
+  </div>
+<br>
+<span>
+Any in-person participants who needs WiFi, can log-on via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
+</span>
+<!-- sessions overview -->
+<h3 style="font-weight:bold; font-size:2.3em;">Overview of Sessions</h3>
 <!-- session heading -->
       <h2 id="session3" style="font-weight:bold; font-size:1.8em;">Session 3</h2>
 <!-- Session 3A -->
@@ -726,8 +825,31 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. See [*
     </table>
       <p style="color:darkred;">*NB: Session A has changed location today!</p>
       <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
+<!-- zoom overview -->
+<h3 style="font-weight:bold; font-size:1.8em;">INFO</h3>
+<span>
+For online participants, please navigate to the correct Zoom link:
+</span>
+  <div class="cards-grid">
+    <div class="card session-a">
+      <a style="text-decoration:none!important;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">
+        <div class="zoom-indicator">Zoom Link A</div>
+        <span>For Session A, Keynotes, and Lightning Talks</span>
+      </a>
+    </div>
+    <div class="card session-b">
+      <a style="text-decoration:none!important;" href="https://aarhusuniversity.zoom.us/j/65783702178?pwd=snxZ862z76NloikYZTjtZVKQ63YwH9.1">
+        <div class="zoom-indicator">Zoom Link B</div>
+        <span>For Session B only</span>
+      </a>
+    </div>
+  </div>
+<br>
+<span>
+Any in-person participants who needs WiFi, can log-on via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
+</span>
+<!-- sessions overview -->
       <h3 style="font-weight:bold; font-size:2em;">Overview of Sessions<h3>     
-
 <!-- session heading -->
 <h2 id="session6" style="font-weight:bold; font-size:1.8em;">Session 6</h2>
 <!-- Session 6A -->
