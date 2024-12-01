@@ -103,7 +103,7 @@ The main address of the CHR2024 conference is [Bartholins Allé 8, 8000 Aarhus C
 
 <h3 style="font-weight:bold;">Conference Information</h3>
 
-Need tips on public transport in Aarhus or details about the conference dinner? Find out more here:
+Need tips on public transport in Aarhus or details about the conference dinner? Get all practical information about CHR2024: 
 
 <div class="banner-grid four-items">
     <a href="/venue/finding-the-venue" class="banner" aria-label="Press to get an overview of the buildings for CHR2024">
@@ -124,9 +124,14 @@ Need tips on public transport in Aarhus or details about the conference dinner? 
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    </a>
     <a href="/venue/conference-dinner#conference-dinner-transport" class="banner" aria-label="Press to learn more about how to get to the conference dinner">
         <h2>Get to the Conference Dinner</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
+    <a href="https://eduroam.au.dk/en/" class="banner" aria-label="Press to learn more about WIFI at the conference venue">
+        <h2>WIFI AT THE VENUE</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
