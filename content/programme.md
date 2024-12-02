@@ -544,13 +544,13 @@ For online participants, please navigate to the correct Zoom link:
 <br>
 <span>
 <strong>WIFI</strong><br>
-For in-person participants, WiFI is available via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
+For in-person participants, WiFi is available via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
 </span>
 <!-- detailed overview -->
 <h3 style="font-weight:bold; font-size:2.3em;">Detailed View</h3>
 <div class="session-block alt-session">
 <h3 id="keynote-leon-derczynski" alt="Keynote Leon Derczynski (11:30-12:30)">Keynote (11:30-12:30)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href="https://international.au.dk/about/contact/?b=1343#c556911">Building: 1343</a>, Room: 275</span><span class="meta-section"><a style="color:white;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">Zoom Link A</a></span></div>
+<div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href="https://international.au.dk/about/contact/?b=1343#c556911">Building: 1343</a>, Room: 275</span><span class="meta-section">Chair: Laure Thompson</span><span class="meta-section"><a style="color:white;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">Zoom Link A</a></span></div>
 <p class="paper-entry"><a href="/announcements/leon-derczynski#the-keynote" class="paper-title">What Computer Science Can’t Fix About LLM Security</a><span class="paper-authors">Leon Derczynski</span></p>
 </div>
 <!-- session heading -->
@@ -714,7 +714,7 @@ For online participants, please navigate to the correct Zoom link:
 <br>
 <span>
 <strong>WIFI</strong><br>
-For in-person participants, WiFI is available via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
+For in-person participants, WiFi is available via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
 </span>
 <!-- sessions overview -->
 <h3 style="font-weight:bold; font-size:2.3em;">Detailed View</h3>
@@ -794,7 +794,7 @@ For in-person participants, WiFI is available via <a href="https://eduroam.au.dk
       <!-- Lightning Session -->
 <div class="session-block alt-session">
 <h3 id="lightningtalks" alt="Lightning Talks (9:00-10:30)">Lightning Talks (9:00-10:30)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href="https://international.au.dk/about/contact/?b=1343#c556911">Building: 1343</a>, Room: 275</span><span class="meta-section"><a style="color:white;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">Zoom Link A</a></span></div><p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Beauty, mediated: A media archeology of archived moving images for understanding local representations of human beauty</span><span class="paper-authors">Dana Kaplan and Vered Silber-Varod</span></p>
+<div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href="https://international.au.dk/about/contact/?b=1343#c556911">Building: 1343</a>, Room: 275</span><span class="meta-section">Chair: Wouter Haverals</span><span class="meta-section"><a style="color:white;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">Zoom Link A</a></span></div><p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Beauty, mediated: A media archeology of archived moving images for understanding local representations of human beauty</span><span class="paper-authors">Dana Kaplan and Vered Silber-Varod</span></p>
 <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Well-Documented Terror: Navigating the Digital Records of the September 11th Attacks</span><span class="paper-authors">Ian Milligan</span></p>
 <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Investigating Individual Composers' Style Evolution Using Deep Audio Features</span><span class="paper-authors">Benjamin Henzel and Christof Weiß</span></p>
 <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">PoeTree: Poetry Treebanks in Ten Languages</span><span class="paper-authors">Petr Plecháč and Artjoms Šeļa</span></p>
@@ -929,13 +929,13 @@ For online participants, please navigate to the correct Zoom link:
 <br>
 <span>
 <strong>WIFI</strong><br>
-For in-person participants, WiFI is available via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
+For in-person participants, WiFi is available via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
 </span>
 <!-- sessions overview -->
 <h3 style="font-weight:bold; font-size:2.3em;">Detailed View</h3>
 <div class="session-block alt-session">
 <h3 id="keynote-lauren-klein" alt="Keynote Lauren Klein (11:30-12:30)">Keynote (09:00-10:00)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href="https://international.au.dk/about/contact/?b=1343#c556911">Building: 1343</a>, Room: 275</span><span class="meta-section"><a style="color:white;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">Zoom Link A</a></span></div>
+<div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href="https://international.au.dk/about/contact/?b=1343#c556911">Building: 1343</a>, Room: 275</span><span class="meta-section">Chair: Laure Thompson</span><span class="meta-section"><a style="color:white;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">Zoom Link A</a></span></div>
 <p class="paper-entry"><a href="/announcements/lauren-klein#the-keynote" class="paper-title">When Theory Leads: Towards a Humanities-Forward Model of Computational Research</a><span class="paper-authors">Lauren Klein</span></p>
 </div>
 <!-- session heading -->
