@@ -405,7 +405,7 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. See [*
         <tr>
             <td class="time">11:30 - 12:30</td>
             <td>
-                <span class="highlight">Keynote by <a href="/announcements/leon-derczynski">Leon Derczynski</a></span>
+                <span class="highlight">Keynote by <a href="#keynote-leon-derczynski">Leon Derczynski</a></span>
                 <div class="location">
                     <a href="https://international.au.dk/about/contact/?b=1343#c556911">Building 1343,</a> Room 275
                 </div>
@@ -481,7 +481,12 @@ For online participants, please navigate to the correct Zoom link:
 <span>
 Any in-person participants who needs WiFi, can log-on via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
 </span>
-<h3 style="font-weight:bold; font-size:2.3em;">Overview of Sessions</h3>
+<h3 style="font-weight:bold; font-size:2.3em;">Detailed View</h3>
+<div class="session-block alt-session">
+<h3 id="keynote-leon-derczynski" alt="Keynote Leon Derczynski (11:30-12:30)">Keynote (11:30-12:30)</h3>
+<div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href="https://international.au.dk/about/contact/?b=1343#c556911">Building: 1343</a>, Room: 275</span><span class="meta-section"><a style="color:white;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">Zoom Link A</a></span></div>
+<p class="paper-entry"><a href="/announcements/leon-derczynski#the-keynote" class="paper-title">What Computer Science Can’t Fix About LLM Security</a><span class="paper-authors">Leon Derczynski</span></p>
+</div>
 <!-- session heading -->
 <h2 id="session1" style="font-weight:bold; font-size:1.8em;">Session 1</h2>
 <!-- Session 1A -->
@@ -640,7 +645,7 @@ For online participants, please navigate to the correct Zoom link:
 Any in-person participants who needs WiFi, can log-on via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
 </span>
 <!-- sessions overview -->
-<h3 style="font-weight:bold; font-size:2.3em;">Overview of Sessions</h3>
+<h3 style="font-weight:bold; font-size:2.3em;">Detailed View</h3>
 <!-- session heading -->
       <h2 id="session3" style="font-weight:bold; font-size:1.8em;">Session 3</h2>
 <!-- Session 3A -->
@@ -753,7 +758,7 @@ Any in-person participants who needs WiFi, can log-on via <a href="https://eduro
         <tr>
             <td class="time">09:00 - 10:00</td>
             <td>
-                <span class="highlight">Keynote by <a href="/announcements/lauren-klein">Lauren Klein</a></span>
+                <span class="highlight">Keynote by <a href="#keynote-lauren-klein">Lauren Klein</a></span>
                 <div class="location">
                     <a href="https://international.au.dk/about/contact/?b=1343#c556911">Building 1343,</a> Room 275 
                 </div>
@@ -849,7 +854,12 @@ For online participants, please navigate to the correct Zoom link:
 Any in-person participants who needs WiFi, can log-on via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
 </span>
 <!-- sessions overview -->
-      <h3 style="font-weight:bold; font-size:2em;">Overview of Sessions<h3>     
+<h3 style="font-weight:bold; font-size:2.3em;">Detailed View</h3>
+<div class="session-block alt-session">
+<h3 id="keynote-lauren-klein" alt="Keynote Lauren Klein (11:30-12:30)">Keynote (09:00-10:00)</h3>
+<div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href="https://international.au.dk/about/contact/?b=1343#c556911">Building: 1343</a>, Room: 275</span><span class="meta-section"><a style="color:white;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">Zoom Link A</a></span></div>
+<p class="paper-entry"><a href="/announcements/lauren-klein#the-keynote" class="paper-title">When Theory Leads: Towards a Humanities-Forward Model of Computational Research</a><span class="paper-authors">Lauren Klein</span></p>
+</div>
 <!-- session heading -->
 <h2 id="session6" style="font-weight:bold; font-size:1.8em;">Session 6</h2>
 <!-- Session 6A -->
