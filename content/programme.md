@@ -2,10 +2,13 @@
 title: "CHR2024 Programme"
 layouttype: "single" 
 ---
-<!-- CSS for tabs -->
+
 <style>
+/* CSS TABS */
 /* modified from https://codepen.io/markcaron/pen/MvGRYV */
-/* interaction */
+/* - NOTE THAT THEY REQUIRE A LITTLE JAVA TO FUNCTION PROPERLY, which is written at the END of programme.md*/
+
+/* interaction part of CSS */
 .tabset > input[type="radio"] {
   position: absolute;
   left: -200vw;
@@ -24,10 +27,8 @@ layouttype: "single"
   display: block;
 }
 
-/*
- Styling
-*/
-.tabset > label { /* styling of label */
+/* Styling*/
+.tabset > label { /* label */
   position: relative;
   display: inline-block;
   padding: 15px 15px 25px;
@@ -75,7 +76,7 @@ input:focus-visible + label {
   padding: 30px 0;
   border-top: 1px solid #ccc;
 }
-/* PROGRAMME STYLING */
+/* PROGRAMME STYLING in 'DETAILED VIEW' */
     .paper-entry {
         font-size: 1.15em;
         margin: 0;
@@ -154,7 +155,7 @@ input:focus-visible + label {
         background-color: rgba(19,35,68,0.02);
     }
 
-        .meta-data {
+    .meta-data { /* What is written underneath session A/B title e.g., zoom link, building number, chair */
         display: block;
         font-size: 1em;
         color: #fff;
@@ -209,6 +210,7 @@ input:focus-visible + label {
             font-size: 0.7em !important;
         }
     }
+/* table made for the programme at the tob of the tabs */
 .schedule-table {
     width: 100%;
     max-width: 900px;
@@ -247,58 +249,104 @@ input:focus-visible + label {
     color: #383D43;
 }
 
+/* ZOOM CARDS - They are supposed to resemble the banners in venue.md, but with a twist to signal that they don't do exactly the same */
 .cards-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
+  gap: 1.5rem;
+  padding: 1rem 0 0 0;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .card {
-  border-left: 10px solid;
-  background: #f8f9fa;
-  padding: 0.75rem 1rem;
-  /* Removed hover effect */
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  overflow: hidden;
+  background: white;
+  border: 2px solid;
 }
 
-.session-a {
-  border-color: #601843;
-}
-
-.session-b {
-  border-color: #132344;
-}
+.session-a { border-color: #601843; }
+.session-b { border-color: #132344; }
 
 .card a {
   color: #333;
-  display: flex; /* Added flex layout */
-  align-items: left; 
-  justify-content: space-between; 
+  text-decoration: none !important;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  height: 100%;
 }
 
-.card a::after {
-  content: '→'; /* Added arrow */
-  font-size: 1rem;
-  color: #666;
+.text-content {
+  flex-grow: 1;
 }
 
 .zoom-indicator {
-  align-items: left;
-  font-weight: 500;
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+  color: inherit;
 }
 
 .card span {
   display: block;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   color: #666;
   margin-top: 0.25rem;
-  margin-left: 0.50rem;
+}
+
+.arrow-circle {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.session-a .arrow-circle {
+  background-color: #601843;
+  color: white;
+}
+
+.session-b .arrow-circle {
+  background-color: #132344;
+  color: white;
+}
+
+.card:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  transform: translateY(-3px);
+  border-color: rgba(96, 24, 67, 0.8); /* Slightly intensify the border colour */
 }
 
 @media (max-width: 768px) {
   .cards-grid {
     grid-template-columns: 1fr;
+    gap: 0rem;
+  }
+  
+  .arrow-circle {
+    width: 28px;
+    height: 28px;
+  }
+  
+  .zoom-indicator {
+    font-size: 1rem;
+  }
+
+  .card:hover {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    transform: translateY(-1px);
   }
 }
+
 </style>
 <!-- HTML FOR PROGRAMME -->
 Programme for the [pre-conference workshops](#parallel-workshops) on [Tuesday](#tuesday), 3rd December 2024, and the main conference days on [Wednesday](#wednesday), [Thursday](#thursday), and [Friday](#friday), 4th-6th December 2024. See all [accepted papers](/papers).
@@ -459,28 +507,36 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. See [*
     
 <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
 <!-- zoom overview -->
-<h3 style="font-weight:bold; font-size:1.8em;">INFO</h3>
+<h3 style="font-weight:bold; font-size:1.8em;">ZOOM/WIFI</h3>
 <span>
 For online participants, please navigate to the correct Zoom link:
 </span>
-  <div class="cards-grid">
-    <div class="card session-a">
-      <a style="text-decoration:none!important;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">
+<div class="cards-grid">
+  <div class="card session-a">
+    <a href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">
+      <div class="text-content">
         <div class="zoom-indicator">Zoom Link A</div>
         <span>For Session A, Keynotes, and Lightning Talks</span>
-      </a>
-    </div>
-    <div class="card session-b">
-      <a style="text-decoration:none!important;" href="https://aarhusuniversity.zoom.us/j/65783702178?pwd=snxZ862z76NloikYZTjtZVKQ63YwH9.1">
+      </div>
+      <div class="arrow-circle">→</div>
+    </a>
+  </div>
+  <div class="card session-b">
+    <a href="https://aarhusuniversity.zoom.us/j/65783702178?pwd=snxZ862z76NloikYZTjtZVKQ63YwH9.1">
+      <div class="text-content">
         <div class="zoom-indicator">Zoom Link B</div>
         <span>For Session B only</span>
-      </a>
-    </div>
+      </div>
+      <div class="arrow-circle">→</div>
+    </a>
   </div>
+</div>
 <br>
 <span>
-Any in-person participants who needs WiFi, can log-on via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
+<strong>WIFI</strong><br>
+For in-person participants, WiFI is available via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
 </span>
+<!-- detailed overview -->
 <h3 style="font-weight:bold; font-size:2.3em;">Detailed View</h3>
 <div class="session-block alt-session">
 <h3 id="keynote-leon-derczynski" alt="Keynote Leon Derczynski (11:30-12:30)">Keynote (11:30-12:30)</h3>
@@ -622,27 +678,34 @@ Any in-person participants who needs WiFi, can log-on via <a href="https://eduro
     </table>
       <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
 <!-- zoom overview -->
-<h3 style="font-weight:bold; font-size:1.8em;">INFO</h3>
+<h3 style="font-weight:bold; font-size:1.8em;">ZOOM/WIFI</h3>
 <span>
 For online participants, please navigate to the correct Zoom link:
 </span>
-  <div class="cards-grid">
-    <div class="card session-a">
-      <a style="text-decoration:none!important;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">
+<div class="cards-grid">
+  <div class="card session-a">
+    <a href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">
+      <div class="text-content">
         <div class="zoom-indicator">Zoom Link A</div>
         <span>For Session A, Keynotes, and Lightning Talks</span>
-      </a>
-    </div>
-    <div class="card session-b">
-      <a style="text-decoration:none!important;" href="https://aarhusuniversity.zoom.us/j/65783702178?pwd=snxZ862z76NloikYZTjtZVKQ63YwH9.1">
+      </div>
+      <div class="arrow-circle">→</div>
+    </a>
+  </div>
+  <div class="card session-b">
+    <a href="https://aarhusuniversity.zoom.us/j/65783702178?pwd=snxZ862z76NloikYZTjtZVKQ63YwH9.1">
+      <div class="text-content">
         <div class="zoom-indicator">Zoom Link B</div>
         <span>For Session B only</span>
-      </a>
-    </div>
+      </div>
+      <div class="arrow-circle">→</div>
+    </a>
   </div>
+</div>
 <br>
 <span>
-Any in-person participants who needs WiFi, can log-on via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
+<strong>WIFI</strong><br>
+For in-person participants, WiFI is available via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
 </span>
 <!-- sessions overview -->
 <h3 style="font-weight:bold; font-size:2.3em;">Detailed View</h3>
@@ -787,7 +850,7 @@ Any in-person participants who needs WiFi, can log-on via <a href="https://eduro
             <td>
                 Lunch
                 <div class="location">
-                    <a href="https://international.au.dk/about/contact/?b=1422#c556911">Building 1422, Rooms 122, 125, and 132</a>
+                    <a href="https://international.au.dk/about/contact/?b=1422#c556911">Building 1422,</a> Rooms 122, 125, and 132
                 </div>
             </td>
         </tr>
@@ -831,27 +894,34 @@ Any in-person participants who needs WiFi, can log-on via <a href="https://eduro
       <p style="color:darkred;">*NB: Session A has changed location today!</p>
       <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
 <!-- zoom overview -->
-<h3 style="font-weight:bold; font-size:1.8em;">INFO</h3>
+<h3 style="font-weight:bold; font-size:1.8em;">ZOOM/WIFI</h3>
 <span>
 For online participants, please navigate to the correct Zoom link:
 </span>
-  <div class="cards-grid">
-    <div class="card session-a">
-      <a style="text-decoration:none!important;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">
+<div class="cards-grid">
+  <div class="card session-a">
+    <a href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">
+      <div class="text-content">
         <div class="zoom-indicator">Zoom Link A</div>
         <span>For Session A, Keynotes, and Lightning Talks</span>
-      </a>
-    </div>
-    <div class="card session-b">
-      <a style="text-decoration:none!important;" href="https://aarhusuniversity.zoom.us/j/65783702178?pwd=snxZ862z76NloikYZTjtZVKQ63YwH9.1">
+      </div>
+      <div class="arrow-circle">→</div>
+    </a>
+  </div>
+  <div class="card session-b">
+    <a href="https://aarhusuniversity.zoom.us/j/65783702178?pwd=snxZ862z76NloikYZTjtZVKQ63YwH9.1">
+      <div class="text-content">
         <div class="zoom-indicator">Zoom Link B</div>
         <span>For Session B only</span>
-      </a>
-    </div>
+      </div>
+      <div class="arrow-circle">→</div>
+    </a>
   </div>
+</div>
 <br>
 <span>
-Any in-person participants who needs WiFi, can log-on via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
+<strong>WIFI</strong><br>
+For in-person participants, WiFI is available via <a href="https://eduroam.au.dk/en/">Eduroam</a>.
 </span>
 <!-- sessions overview -->
 <h3 style="font-weight:bold; font-size:2.3em;">Detailed View</h3>
