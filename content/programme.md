@@ -213,15 +213,16 @@ input:focus-visible + label {
 /* table made for the programme at the tob of the tabs */
 .schedule-table {
     width: 100%;
-    max-width: 900px;
-    margin: 2rem auto;
+    max-width: 1000px;
     border-collapse: separate;
     border-spacing: 0;
-    font-family: system-ui, -apple-system, sans-serif;
+    text-align: left; 
+    padding-left: 0;
+    margin: 3rem 0;
 }
 
 .schedule-table tr {
-    border-bottom: 1px solid #eee;
+    border-bottom: 100px solid #eee;
 }
 
 .schedule-table td {
@@ -230,10 +231,22 @@ input:focus-visible + label {
 }
 
 .schedule-table .time {
+    position: relative; /* Make this a relative container */
     width: 140px;
     font-family: monospace;
     color: #555;
     white-space: nowrap;
+}
+
+.schedule-table tr:first-of-type .time::before {
+    content: "Time in CET";
+    position: absolute;
+    top: -0.4rem; 
+    left: 1rem;
+    right: 0;
+    font-size: 0.8rem;
+    color: #999;
+    text-align: left;
 }
 
 .schedule-table .highlight {
@@ -404,7 +417,6 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. See [*
             </td>
         </tr>
     </table>
-    <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
    <h3 id="parallel-workshops" style="font-weight:bold; font-size:2em;">Parallel Workshops<h3>
    <h3> Workshop A: Digital Methods for Mythological Research </h3>
    <p style="font-size:1em">
@@ -504,8 +516,6 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. See [*
             </td>
         </tr>
     </table>
-    
-<p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
 <!-- zoom overview -->
 <h3 style="font-weight:bold; font-size:1.8em;">ZOOM/WIFI</h3>
 <span>
@@ -676,7 +686,6 @@ For in-person participants, WiFI is available via <a href="https://eduroam.au.dk
             </td>
         </tr>
     </table>
-      <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
 <!-- zoom overview -->
 <h3 style="font-weight:bold; font-size:1.8em;">ZOOM/WIFI</h3>
 <span>
@@ -892,7 +901,6 @@ For in-person participants, WiFI is available via <a href="https://eduroam.au.dk
         </tr>
     </table>
       <p style="color:darkred;">*NB: Session A has changed location today!</p>
-      <p style="font-style:italic">Note: Times are in Central European Time (CET)</p>
 <!-- zoom overview -->
 <h3 style="font-weight:bold; font-size:1.8em;">ZOOM/WIFI</h3>
 <span>
