@@ -481,7 +481,7 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. See [*
             </td>
         </tr>
         <tr>
-            <td class="time">13:30 - 15:00</td>
+            <td class="time">13:45 - 15:15</td>
             <td>
                 <span class="highlight"><a href="#session1A">Session 1A</a> / <a href="#session1B">Session 1B</a></span>
                 <div class="location">
@@ -490,7 +490,7 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. See [*
             </td>
         </tr>
         <tr>
-            <td class="time">15:00 - 15:30</td>
+            <td class="time">15:15 - 15:30</td>
             <td>
                 Coffee Break
                 <div class="location">
