@@ -379,10 +379,10 @@ The main venue address of CHR2024 is *Bartholins Allé 8, 8000 Aarhus C*. See [*
   <input type="radio" name="tabset" id="wednesday" aria-controls="wednesday">
   <label for="wednesday">Wednesday</label>
   <!-- THUR -->
-  <input type="radio" name="tabset" id="thursday" aria-controls="thursday" checked>
+  <input type="radio" name="tabset" id="thursday" aria-controls="thursday">
   <label for="thursday">Thursday</label>
   <!-- FRI -->
-  <input type="radio" name="tabset" id="friday" aria-controls="friday">
+  <input type="radio" name="tabset" id="friday" aria-controls="friday" checked>
   <label for="friday">Friday</label>
   
   <!-- content -->
