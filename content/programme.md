@@ -607,7 +607,7 @@ For in-person participants, WiFi is available via <a href="https://eduroam.au.dk
         <tr>
             <td class="time">09:00 - 10:30</td>
             <td>
-                <span class=highlight><a href="#lightningtalks">Lightning Talks</a> (<a href="https://cryptpad.fr/form/#/2/form/view/SF-ncSM0p9+HfFW-sg2NOwdB5mfWm052jMXCTMtJPb4/embed/">Q&A Platform</a>)</span>
+                <span class=highlight><a href="#lightningtalks">Lightning Talks</a> (<a href="https://cryptpad.fr/form/#/2/form/view/SF-ncSM0p9+HfFW-sg2NOwdB5mfWm052jMXCTMtJPb4/embed/">Feedback Platform</a>)</span>
                 <div class="location">
                     <a href="https://international.au.dk/about/contact/?b=1343#c556911">Building 1343,</a> Room 275
                 </div>
@@ -794,7 +794,7 @@ For in-person participants, WiFi is available via <a href="https://eduroam.au.dk
       <!-- Lightning Session -->
 <div class="session-block alt-session">
 <h3 id="lightningtalks" alt="Lightning Talks (9:00-10:30)">Lightning Talks (9:00-10:30)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href="https://international.au.dk/about/contact/?b=1343#c556911">Building: 1343</a>, Room: 275</span><span class="meta-section">Chair: Wouter Haverals</span><span class="meta-section"><a style="color:white;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">Zoom Link A</a></span><span class="meta-section"><a style="color:white;" href="https://cryptpad.fr/form/#/2/form/view/SF-ncSM0p9+HfFW-sg2NOwdB5mfWm052jMXCTMtJPb4/embed/">Question/Comment Platform</a></span></div><p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Beauty, mediated: A media archeology of archived moving images for understanding local representations of human beauty</span><span class="paper-authors">Dana Kaplan and Vered Silber-Varod</span></p>
+<div class="meta-data bordered-layout"><span class="meta-section"><a style="color:white;" href="https://international.au.dk/about/contact/?b=1343#c556911">Building: 1343</a>, Room: 275</span><span class="meta-section">Chair: Wouter Haverals</span><span class="meta-section"><a style="color:white;" href="https://aarhusuniversity.zoom.us/j/67695165152?pwd=6qMHyGDRznz3ai5QAr0CGlOY581tV8.1">Zoom Link A</a></span><span class="meta-section"><a style="color:white;" href="https://cryptpad.fr/form/#/2/form/view/SF-ncSM0p9+HfFW-sg2NOwdB5mfWm052jMXCTMtJPb4/embed/">Feedback Platform</a></span></div><p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Beauty, mediated: A media archeology of archived moving images for understanding local representations of human beauty</span><span class="paper-authors">Dana Kaplan and Vered Silber-Varod</span></p>
 <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Well-Documented Terror: Navigating the Digital Records of the September 11th Attacks</span><span class="paper-authors">Ian Milligan</span></p>
 <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Investigating Individual Composers' Style Evolution Using Deep Audio Features</span><span class="paper-authors">Benjamin Henzel and Christof Weiß</span></p>
 <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">PoeTree: Poetry Treebanks in Ten Languages</span><span class="paper-authors">Petr Plecháč and Artjoms Šeļa</span></p>
