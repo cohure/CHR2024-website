@@ -1,5 +1,5 @@
 ---
-title: "CHR2024 Best Long Paper Award"
+title: "CHR2024 Best Paper Awards"
 ---
 <style>
     .announce img {
