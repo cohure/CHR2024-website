@@ -14,6 +14,14 @@ title: "CHR2024 Best Paper Awards"
     }
 </style>
 
+
+CHR2024 showcased outstanding work, highlighting cutting-edge computational approaches to humanities research. A heartfelt thank you to everyone who participated, whether by presenting your work or contributing to meaningful discussions at the conference.
+
+We are delighted to reveal the winners of the <span style="font-weight:700;">Best Long Paper</span> and <span style="font-weight:700;">Best Short Paper</span> awards. With so many exceptional submissions, we are pleased to give honourable mentions to the two runners-up in each category.
+
+
+## Best Long Paper
+
 <div class="announce">
     <p>The CHR 2024 Best long paper award was won by</p>
     <p>Winner: </p>
