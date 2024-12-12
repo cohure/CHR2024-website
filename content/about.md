@@ -90,6 +90,12 @@ The Computational Humanities Research (CHR) community is an international and in
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
+    <a href="/about/board" class="banner" aria-label="View Board section">
+        <h2>Board</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
     <a href="/journal" class="banner" aria-label="View Journal section">
         <h2>Journal</h2>
         <div class="banner-footer">
